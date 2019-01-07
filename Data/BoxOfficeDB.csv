@@ -1,0 +1,1168 @@
+bo_day,bo_location,bo_month,bo_year,change_pct,created_on,distributor,distributor_id,gross,per_theater,previous_rank,rank,theaters,title,title_id,total_gross,weeks_in_release
+21,Domestic,12,2018,,2019-01-07 10:01:42.772290,Warner Bros.,Warner-Bros,"$67,873,522","$16,454",new,1,"4,125",Aquaman,Aquaman-(2018),"$72,573,522",1
+21,Domestic,12,2018,,2019-01-07 10:01:42.776280,Walt Disney,Walt-Disney,"$23,523,121","$5,751",new,2,"4,090",Mary Poppins Returns,Mary-Poppins-Returns-(2018),"$32,337,792",1
+21,Domestic,12,2018,,2019-01-07 10:01:42.781297,Paramount Pictures,Paramount-Pictures,"$21,654,047","$6,100",new,3,"3,550",Bumblebee,Bumblebee,"$21,654,047",1
+21,Domestic,12,2018,-53%,2019-01-07 10:01:42.785293,Sony Pictures,Sony-Pictures,"$16,463,662","$4,318",(1),4,"3,813",Spider-Man: Into The Spider…,Spider-Man-Into-The-Spider-Verse-3D-(2018),"$64,563,725",2
+21,Domestic,12,2018,-46%,2019-01-07 10:01:42.788284,Warner Bros.,Warner-Bros,"$9,500,985","$3,577",(2),5,"2,656",The Mule,Mule-The-(2018),"$35,204,450",2
+21,Domestic,12,2018,-28%,2019-01-07 10:01:42.792278,Universal,Universal,"$8,458,030","$3,042",(3),6,"2,780",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$253,498,005",7
+21,Domestic,12,2018,,2019-01-07 10:01:42.796259,STX Entertainment,STX-Entertainment,"$6,489,983","$2,489",new,7,"2,607",Second Act,Second-Act-(2018),"$6,489,983",1
+21,Domestic,12,2018,-49%,2019-01-07 10:01:42.799252,Walt Disney,Walt-Disney,"$4,702,425","$1,885",(4),8,"2,495",Ralph Breaks The Internet,Ralph-Breaks-The-Internet-(2018),"$162,197,355",5
+21,Domestic,12,2018,,2019-01-07 10:01:42.803245,Universal,Universal,"$2,354,205","$1,232",new,9,"1,911",Welcome to Marwen,Welcome-to-Marwen-(2018),"$2,354,205",1
+21,Domestic,12,2018,+226%,2019-01-07 10:01:42.807195,Focus Features,Focus-Features,"$2,277,820","$2,865",(17),10,795,Mary Queen of Scots,Mary-Queen-of-Scots-(UK)-(2018),"$3,581,575",3
+21,Domestic,12,2018,-20%,2019-01-07 10:01:42.811219,Fox Searchlight,Fox-Searchlight,"$2,085,123","$2,639",(12),11,790,The Favourite,Favourite-The-(2018),"$10,112,263",5
+21,Domestic,12,2018,-55%,2019-01-07 10:01:42.815208,20th Century Fox,20th-Century-Fox,"$1,961,208","$1,679",(7),12,"1,168",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$184,793,006",8
+21,Domestic,12,2018,-77%,2019-01-07 10:01:42.819203,Universal,Universal,"$1,751,605",$564,(5),13,"3,103",Mortal Engines,Mortal-Engines-(2018),"$12,016,565",2
+21,Domestic,12,2018,-71%,2019-01-07 10:01:42.823194,MGM,MGM,"$1,546,782","$1,372",(6),14,"1,127",Creed II,Creed-II-(2018),"$108,733,399",5
+21,Domestic,12,2018,-50%,2019-01-07 10:01:42.827181,Universal,Universal,"$1,388,905","$1,897",(10),15,732,Green Book,Green-Book-(2018),"$27,512,876",6
+21,Domestic,12,2018,-76%,2019-01-07 10:01:42.830173,Warner Bros.,Warner-Bros,"$900,784","$1,321",(9),16,682,Fantastic Beasts: The Crime…,Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018),"$154,493,497",6
+21,Domestic,12,2018,-70%,2019-01-07 10:01:42.834388,20th Century Fox,20th-Century-Fox,"$800,213",$560,(11),17,"1,428",Once Upon a Deadpool,Deadpool-2,"$324,255,896",32
+21,Domestic,12,2018,-83%,2019-01-07 10:01:42.838157,Paramount Pictures,Paramount-Pictures,"$648,695",$872,(8),18,744,Instant Family,Instant-Family-(2018),"$62,490,761",6
+21,Domestic,12,2018,+182%,2019-01-07 10:01:42.842139,Roadside Attractions,Roadside-Attractions,"$398,908","$2,462",(23),19,162,Ben is Back,Ben-is-Back-(2018),"$718,711",3
+21,Domestic,12,2018,-67%,2019-01-07 10:01:42.847091,Warner Bros.,Warner-Bros,"$347,756","$1,327",(16),20,262,A Star is Born,Star-is-Born-A-(2018),"$200,069,483",12
+21,Domestic,12,2018,-64%,2019-01-07 10:01:42.851080,Walt Disney,Walt-Disney,"$205,819",$854,(18),21,241,The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$54,164,249",8
+21,Domestic,12,2018,+44%,2019-01-07 10:01:42.856067,Magnolia Pictures,Magnolia-Pictures,"$163,788","$3,033",(29),22,54,Shoplifters,Manbiki-kazoku-(Japan)-(2018),"$795,064",5
+21,Domestic,12,2018,-89%,2019-01-07 10:01:42.860056,20th Century Fox,20th-Century-Fox,"$134,008",$899,(13),23,149,Widows,Widows-(2018),"$41,600,017",6
+21,Domestic,12,2018,-51%,2019-01-07 10:01:42.864045,Annapurna Pictures,Annapurna-Pictures,"$109,264","$21,853",(20),24,5,If Beale Street Could Talk,If-Beale-Street-Could-Talk-(2018),"$422,412",2
+21,Domestic,12,2018,-29%,2019-01-07 10:01:42.869032,Greenwich,Greenwich,"$100,564","$1,378",(24),25,73,Free Solo,Free-Solo-(Documentary)-(2018),"$10,993,136",13
+21,Domestic,12,2018,-51%,2019-01-07 10:01:42.873021,CBS Films,CBS-Films,"$93,783","$1,130",(21),26,83,At Eternityâs Gate,At-Eternitys-Gate-(2018),"$1,676,446",6
+21,Domestic,12,2018,-93%,2019-01-07 10:01:42.877008,Lionsgate,Lionsgate,"$87,781",$382,(14),27,230,Robin Hood,Robin-Hood-(2018),"$30,407,200",5
+21,Domestic,12,2018,-37%,2019-01-07 10:01:42.880997,Sony Pictures,Sony-Pictures,"$85,180",$655,(27),28,130,Venom,Venom-(2018),"$213,116,023",12
+21,Domestic,12,2018,-34%,2019-01-07 10:01:42.884986,Warner Bros.,Warner-Bros,"$78,890",$429,(28),29,184,Smallfoot,Smallfoot-(2018),"$82,703,609",13
+21,Domestic,12,2018,-51%,2019-01-07 10:01:42.887978,Fox Searchlight,Fox-Searchlight,"$66,024",$917,(26),30,72,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$7,395,231",10
+21,Domestic,12,2018,-95%,2019-01-07 10:01:42.891968,Sony Pictures,Sony-Pictures,"$55,236",$628,(15),31,88,The Possession of Hannah Grace,Possession-of-Hannah-Grace-The-(2018),"$14,521,279",4
+21,Domestic,12,2018,,2019-01-07 10:01:42.896066,Amazon Studios,Amazon-Studios,"$54,353","$18,118",new,32,3,Cold War,Zimna-wojna-(Poland),"$54,353",1
+21,Domestic,12,2018,-80%,2019-01-07 10:01:42.899946,Neon,Neon,"$47,616",$635,(19),33,75,Vox Lux,Vox-Lux-(2018),"$654,734",3
+21,Domestic,12,2018,,2019-01-07 10:01:42.903936,Well Go USA,Well-Go-USA,"$43,952","$2,930",new,34,15,Swing Kids,Seuwingkizeu-(South-Korea)-(2018),"$43,952",1
+21,Domestic,12,2018,,2019-01-07 10:01:42.907925,China Lion Film Dis…,China-Lion-Film-Distribution,"$35,363","$1,684",new,35,21,Airpocalypse,Tian-Qi-Yu-Bao-(China)(2018),"$35,363",1
+21,Domestic,12,2018,-86%,2019-01-07 10:01:42.911914,PackYourBag Films,PackYourBag-Films,"$26,200","$1,747",(22),36,15,Kedarnath,Kedarnath-(India)(2018),"$855,582",3
+21,Domestic,12,2018,-52%,2019-01-07 10:01:42.914906,Universal,Universal,"$25,240",$414,(34),37,61,Night School,Night-School-(2018),"$77,236,095",13
+21,Domestic,12,2018,-82%,2019-01-07 10:01:42.918896,Orion Pictures,Orion-Pictures,"$24,488",$401,(25),38,61,Anna and the Apocalypse,Anna-and-the-Apocalypse-(2018),"$518,365",4
+21,Domestic,12,2018,-6%,2019-01-07 10:01:42.922885,Sony Pictures Classics,Sony-Pictures-Classics,"$23,513","$3,359",(41),39,7,Capernaum,Cafarnaum-(Lebanon)-(2018),"$62,070",2
+21,Domestic,12,2018,-75%,2019-01-07 10:01:42.927158,Focus Features,Focus-Features,"$21,755",$463,(30),40,47,Boy Erased,Boy-Erased-(2018),"$6,727,612",8
+21,Domestic,12,2018,-73%,2019-01-07 10:01:42.930864,20th Century Fox,20th-Century-Fox,"$17,583",$366,(33),41,48,The Hate U Give,Hate-U-Give-The,"$29,623,503",12
+21,Domestic,12,2018,-56%,2019-01-07 10:01:42.934853,Universal,Universal,"$13,530",$410,(39),42,33,First Man,First-Man-(2018),"$44,873,710",11
+21,Domestic,12,2018,-70%,2019-01-07 10:01:42.937844,Fox Searchlight,Fox-Searchlight,"$11,072",$346,(35),43,32,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$11,168,199",13
+21,Domestic,12,2018,-66%,2019-01-07 10:01:42.941834,Universal,Universal,"$10,665",$201,(38),44,53,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$68,497,530",14
+21,Domestic,12,2018,-40%,2019-01-07 10:01:42.945823,Well Go USA,Well-Go-USA,"$10,330","$1,033",(47),45,10,Burning,Beoning-(South-Korea),"$562,133",9
+21,Domestic,12,2018,-71%,2019-01-07 10:01:42.949813,Amazon Studios,Amazon-Studios,"$10,001",$400,(36),46,25,Beautiful Boy,Beautiful-Boy-(2018),"$7,558,908",11
+21,Domestic,12,2018,,2019-01-07 10:01:42.953839,Kino Lorber,Kino-Lorber,"$8,280","$4,140",new,47,2,The Last Resort,Last-Resort-The-(Documentary)-(2018),"$8,280",1
+21,Domestic,12,2018,+208%,2019-01-07 10:01:42.957839,GKIDS,GKIDS,"$8,041",$619,(65),48,13,Mirai no Mirai,Mirai-no-Mirai-(Japan)-(2018),"$694,586",4
+21,Domestic,12,2018,-68%,2019-01-07 10:01:42.961863,China Lion Film Dis…,China-Lion-Film-Distribution,"$7,818","$2,606",(42),49,3,A Cool Fish,Huang-Qiang-Zou-Ban-(China)-(2018),"$540,752",6
+21,Domestic,12,2018,-69%,2019-01-07 10:01:42.965806,Universal,Universal,"$6,850",$236,(43),50,29,Halloween,Halloween-(2018),"$159,319,050",10
+21,Domestic,12,2018,-77%,2019-01-07 10:01:42.969798,Sony Pictures Classics,Sony-Pictures-Classics,"$6,835",$427,(40),51,16,Maria by Callas,Maria-by-Callas-(France),"$1,198,401",8
+21,Domestic,12,2018,-65%,2019-01-07 10:01:42.973752,Neon,Neon,"$6,197",$516,(46),52,12,Border,Grans-(Sweden),"$747,043",9
+21,Domestic,12,2018,-83%,2019-01-07 10:01:42.977776,IFC Films,IFC-Films,"$5,931",$456,(37),53,13,The House That Jack Built,House-That-Jack-Built-The-(Denmark),"$230,386",2
+21,Domestic,12,2018,+15%,2019-01-07 10:01:42.981769,Greenwich,Greenwich,"$5,648","$1,883",(58),54,3,The World Before Your Feet,World-Before-Your-Feet-The-(Documentary)-(2018),"$89,633",5
+21,Domestic,12,2018,-62%,2019-01-07 10:01:42.985754,Warner Bros.,Warner-Bros,"$5,274",$278,(49),55,19,Crazy Rich Asians,Crazy-Rich-Asians,"$174,501,694",19
+21,Domestic,12,2018,-21%,2019-01-07 10:01:42.988752,IFC Films,IFC-Films,"$5,006",$626,(54),56,8,Wildlife,Wildlife-(2018),"$1,004,590",10
+21,Domestic,12,2018,-81%,2019-01-07 10:01:42.993731,Aviron Pictures,Aviron-Pictures,"$2,837",$473,(48),57,6,A Private War,Private-War-A-(2018),"$1,612,906",8
+21,Domestic,12,2018,-59%,2019-01-07 10:01:42.996720,A24,A24,"$2,309",$462,(55),58,5,Mid90s,Mid90s-(2018),"$7,362,439",10
+21,Domestic,12,2018,-1%,2019-01-07 10:01:43.001711,Abramorama Films,Abramorama-Films,"$2,216","$1,108",(66),59,2,Liyana,Liyana-(Swaziland),"$26,973",11
+21,Domestic,12,2018,-41%,2019-01-07 10:01:43.005706,Pure Flix Entertain…,Pure-Flix-Entertainment,"$2,129",$125,(60),60,17,Indivisible,Indivisible-(2018),"$3,504,124",9
+21,Domestic,12,2018,-83%,2019-01-07 10:01:43.009690,GKIDS,GKIDS,"$1,708",$854,(50),61,2,Never-Ending Man: Hayao Miy…,Owarani-hito-Miyazaki-Hayao-(Japan)-(2016),"$182,532",2
+21,Domestic,12,2018,-17%,2019-01-07 10:01:43.013682,IFC Films,IFC-Films,"$1,695",$242,(68),62,7,Swimming With Men,Swimming-With-Men-(UK)-(2018),"$22,184",3
+21,Domestic,12,2018,-85%,2019-01-07 10:01:43.016676,Music Box Films,Music-Box-Films,$771,$257,(56),63,3,Becoming Astrid,Unga-Astrid-(Sweden),"$69,937",5
+21,Domestic,12,2018,-45%,2019-01-07 10:01:43.020868,Magnolia Pictures,Magnolia-Pictures,$750,$375,(72),64,2,Divide and Conquer: The Sto…,Divide-and-Conquer-The-Story-of-Roger-Ailes-(Documentary)-(2018),"$35,769",3
+21,Domestic,12,2018,-67%,2019-01-07 10:01:43.025647,IFC Films,IFC-Films,$694,$347,(67),65,2,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$861,823",14
+21,Domestic,12,2018,-83%,2019-01-07 10:01:43.029641,Magnolia Pictures,Magnolia-Pictures,$557,$279,(61),66,2,The Quake,Skjelvet-(Norway)-(2018),"$5,993",2
+21,Domestic,12,2018,-53%,2019-01-07 10:01:43.034626,Magnolia Pictures,Magnolia-Pictures,$404,$202,(75),67,2,Tyrel,Tyrel-(2018),"$11,322",3
+16,Domestic,11,2018,,2019-01-07 10:08:16.717275,Warner Bros.,Warner-Bros,"$62,163,104","$14,932",new,1,"4,163",Fantastic Beasts: The Crime…,Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018),"$62,163,104",1
+16,Domestic,11,2018,-43%,2019-01-07 10:08:16.720197,Universal,Universal,"$38,587,130","$9,318",(1),2,"4,141",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$126,963,410",2
+16,Domestic,11,2018,-49%,2019-01-07 10:08:16.723188,20th Century Fox,20th-Century-Fox,"$16,042,965","$4,211",(2),3,"3,810",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$128,228,824",3
+16,Domestic,11,2018,,2019-01-07 10:08:16.727178,Paramount Pictures,Paramount-Pictures,"$14,504,315","$4,414",new,4,"3,286",Instant Family,Instant-Family-(2018),"$14,504,315",1
+16,Domestic,11,2018,,2019-01-07 10:08:16.731393,20th Century Fox,20th-Century-Fox,"$12,361,307","$4,410",new,5,"2,803",Widows,Widows-(2018),"$12,361,307",1
+16,Domestic,11,2018,-53%,2019-01-07 10:08:16.735190,Walt Disney,Walt-Disney,"$4,772,950","$1,811",(4),6,"2,635",The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$43,965,640",3
+16,Domestic,11,2018,-47%,2019-01-07 10:08:16.739182,Warner Bros.,Warner-Bros,"$4,293,663","$2,136",(5),7,"2,010",A Star is Born,Star-is-Born-A-(2018),"$185,784,570",7
+16,Domestic,11,2018,-63%,2019-01-07 10:08:16.743175,Paramount Pictures,Paramount-Pictures,"$3,790,251","$1,326",(3),8,"2,859",Overlord,Overlord-(2018),"$17,683,140",2
+16,Domestic,11,2018,-68%,2019-01-07 10:08:16.748169,Sony Pictures,Sony-Pictures,"$2,501,616",$854,(6),9,"2,929",The Girl in the Spiderâs Web,Girl-in-the-Spiders-Web-The,"$13,292,139",2
+16,Domestic,11,2018,-67%,2019-01-07 10:08:16.752157,Paramount Pictures,Paramount-Pictures,"$2,216,073","$1,703",(7),10,"1,301",Nobodyâs Fool,Nobodys-Fool-(2018),"$28,843,691",3
+16,Domestic,11,2018,-60%,2019-01-07 10:08:16.756148,Sony Pictures,Sony-Pictures,"$1,976,625","$1,512",(8),11,"1,307",Venom,Venom-(2018),"$210,077,668",7
+16,Domestic,11,2018,+75%,2019-01-07 10:08:16.759147,Focus Features,Focus-Features,"$1,323,832","$3,237",(18),12,409,Boy Erased,Boy-Erased-(2018),"$2,675,782",3
+16,Domestic,11,2018,-38%,2019-01-07 10:08:16.763080,Fox Searchlight,Fox-Searchlight,"$893,180","$1,609",(13),13,555,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$5,071,365",5
+16,Domestic,11,2018,-62%,2019-01-07 10:08:16.767114,20th Century Fox,20th-Century-Fox,"$780,051","$1,315",(10),14,593,The Hate U Give,Hate-U-Give-The,"$28,223,244",7
+16,Domestic,11,2018,+257%,2019-01-07 10:08:16.771258,Aviron Pictures,Aviron-Pictures,"$701,589",$811,(27),15,865,A Private War,Private-War-A-(2018),"$1,068,110",3
+16,Domestic,11,2018,-83%,2019-01-07 10:08:16.775093,Universal,Universal,"$699,185",$758,(9),16,922,Halloween,Halloween-(2018),"$158,795,325",5
+16,Domestic,11,2018,-60%,2019-01-07 10:08:16.779239,Amazon Studios,Amazon-Studios,"$582,263",$553,(12),17,"1,052",Beautiful Boy,Beautiful-Boy-(2018),"$6,401,267",6
+16,Domestic,11,2018,-38%,2019-01-07 10:08:16.783063,Greenwich,Greenwich,"$467,510","$1,758",(19),18,266,Free Solo,Free-Solo-(Documentary)-(2018),"$8,981,989",8
+16,Domestic,11,2018,-72%,2019-01-07 10:08:16.786069,Warner Bros.,Warner-Bros,"$423,604",$859,(11),19,493,Smallfoot,Smallfoot-(2018),"$81,356,772",8
+16,Domestic,11,2018,-67%,2019-01-07 10:08:16.790055,Universal,Universal,"$333,325",$901,(15),20,370,Night School,Night-School-(2018),"$76,600,015",8
+16,Domestic,11,2018,,2019-01-07 10:08:16.794050,Universal,Universal,"$320,429","$12,817",new,21,25,Green Book,Green-Book-(2018),"$320,429",1
+16,Domestic,11,2018,-73%,2019-01-07 10:08:16.798035,Universal,Universal,"$243,790",$743,(16),22,328,First Man,First-Man-(2018),"$44,345,100",6
+16,Domestic,11,2018,-44%,2019-01-07 10:08:16.801026,Universal,Universal,"$172,855",$886,(25),23,195,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$68,074,030",9
+16,Domestic,11,2018,-64%,2019-01-07 10:08:16.805074,Fox Searchlight,Fox-Searchlight,"$163,773",$958,(21),24,171,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$10,614,566",8
+16,Domestic,11,2018,-84%,2019-01-07 10:08:16.809058,Sony Pictures,Sony-Pictures,"$142,711",$465,(17),25,307,Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$46,371,838",6
+16,Domestic,11,2018,-45%,2019-01-07 10:08:16.812995,Warner Bros.,Warner-Bros,"$125,095",$665,(26),26,188,Crazy Rich Asians,Crazy-Rich-Asians,"$173,729,639",14
+16,Domestic,11,2018,-68%,2019-01-07 10:08:16.815986,Focus Features,Focus-Features,"$115,490","$1,500",(24),27,77,Johnny English Strikes Again,Johnny-English-Strikes-Again-(2018),"$4,253,875",4
+16,Domestic,11,2018,-71%,2019-01-07 10:08:16.819978,A24,A24,"$114,833","$1,367",(22),28,84,Mid90s,Mid90s-(2018),"$7,149,088",5
+16,Domestic,11,2018,-1%,2019-01-07 10:08:16.823975,Sony Pictures Classics,Sony-Pictures-Classics,"$96,651","$3,333",(31),29,29,Maria by Callas,Maria-by-Callas-(France),"$470,153",3
+16,Domestic,11,2018,-74%,2019-01-07 10:08:16.827956,Amazon Studios,Amazon-Studios,"$95,804",$54,(23),30,"1,773",Suspiria,Suspiria-(2018),"$2,236,185",4
+16,Domestic,11,2018,,2019-01-07 10:08:16.831938,CBS Films,CBS-Films,"$92,855","$23,214",new,31,4,At Eternityâs Gate,At-Eternitys-Gate-(2018),"$92,855",1
+16,Domestic,11,2018,-88%,2019-01-07 10:08:16.835924,Lionsgate,Lionsgate,"$84,702",$437,(20),32,194,Hunter Killer,Hunter-Killer,"$15,649,493",4
+16,Domestic,11,2018,-34%,2019-01-07 10:08:16.839911,Walt Disney,Walt-Disney,"$80,805",$622,(30),33,130,Incredibles 2,Incredibles-2,"$608,401,000",23
+16,Domestic,11,2018,+46%,2019-01-07 10:08:16.843864,Sony Pictures,Sony-Pictures,"$75,364","$3,426",(39),34,22,The Front Runner,Front-Runner-The-(2018),"$166,533",2
+16,Domestic,11,2018,,2019-01-07 10:08:16.847856,China Lion Film Dis…,China-Lion-Film-Distribution,"$71,187","$4,746",new,35,15,A Cool Fish,Huang-Qiang-Zou-Ban-(China)-(2018),"$71,187",1
+16,Domestic,11,2018,-16%,2019-01-07 10:08:16.851845,Well Go USA,Well-Go-USA,"$64,171","$2,567",(35),37,25,Burning,Beoning-(South-Korea),"$300,125",4
+16,Domestic,11,2018,-52%,2019-01-07 10:08:16.855906,IFC Films,IFC-Films,"$62,751",$661,(29),36,95,Wildlife,Wildlife-(2018),"$726,163",5
+16,Domestic,11,2018,+24%,2019-01-07 10:08:16.859923,Neon,Neon,"$59,775","$1,993",(40),38,30,Border,Grans-(Sweden),"$343,943",4
+16,Domestic,11,2018,-44%,2019-01-07 10:08:16.864846,Bleecker Street,Bleecker-Street,"$51,201",$595,(33),39,86,Colette,Colette-(2018),"$5,069,741",9
+16,Domestic,11,2018,-49%,2019-01-07 10:08:16.868834,China Lion Film Dis…,China-Lion-Film-Distribution,"$41,027","$1,784",(34),40,23,Last Letter,Ni-Hao-Zhi-Hua-(China)-(2018),"$159,052",2
+16,Domestic,11,2018,-61%,2019-01-07 10:08:16.872873,20th Century Fox,20th-Century-Fox,"$36,942",$551,(32),41,67,Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$17,777,422",6
+16,Domestic,11,2018,-51%,2019-01-07 10:08:16.876817,Lionsgate,Lionsgate,"$33,854",$335,(36),42,101,A Simple Favor,Simple-Favor-A,"$53,530,025",10
+16,Domestic,11,2018,-49%,2019-01-07 10:08:16.880814,Walt Disney,Walt-Disney,"$33,111",$360,(37),43,92,Christopher Robin,Christopher-Robin-(2018),"$99,172,010",16
+16,Domestic,11,2018,-49%,2019-01-07 10:08:16.884804,Warner Bros.,Warner-Bros,"$32,556",$358,(38),44,91,The Nun,Nun-The,"$117,433,636",11
+16,Domestic,11,2018,-84%,2019-01-07 10:08:16.888793,Pure Flix Entertain…,Pure-Flix-Entertainment,"$25,891",$439,(28),45,59,Indivisible,Indivisible-(2018),"$3,465,739",4
+16,Domestic,11,2018,-6%,2019-01-07 10:08:16.892828,The Orchard,Orchard-The,"$21,977","$1,998",(48),46,11,El Angel,Angel-El-(Argentina)-(2018),"$53,999",2
+16,Domestic,11,2018,-42%,2019-01-07 10:08:16.896726,Sony Pictures,Sony-Pictures,"$20,830",$372,(43),47,56,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$167,485,460",19
+16,Domestic,11,2018,-55%,2019-01-07 10:08:16.900756,IFC Films,IFC-Films,"$16,301",$709,(42),48,23,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$808,735",9
+16,Domestic,11,2018,-55%,2019-01-07 10:08:16.904739,Sony Pictures Classics,Sony-Pictures-Classics,"$13,583",$543,(44),49,25,The Wife,Wife-The-(2018),"$7,768,601",14
+16,Domestic,11,2018,-40%,2019-01-07 10:08:16.908729,Sony Pictures,Sony-Pictures,"$12,814",$458,(49),50,28,Alpha,Alpha-(2018),"$35,851,379",14
+16,Domestic,11,2018,+221%,2019-01-07 10:08:16.912767,Janus Films,Janus-Films,"$11,278","$2,820",(65),51,4,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$71,674",5
+16,Domestic,11,2018,-71%,2019-01-07 10:08:16.916759,Bleecker Street,Bleecker-Street,"$10,481",$437,(41),52,24,What They Had,What-They-Had,"$254,383",5
+16,Domestic,11,2018,-47%,2019-01-07 10:08:16.920660,20th Century Fox,20th-Century-Fox,"$9,095",$364,(51),53,25,The Predator,Predator-The-(2018),"$51,014,175",10
+16,Domestic,11,2018,,2019-01-07 10:08:16.924766,Zeitgeist,Zeitgeist,"$8,053","$1,007",(-),54,8,Studio 54,Studio-54-(2018),"$175,465",7
+16,Domestic,11,2018,-77%,2019-01-07 10:08:16.927642,Annapurna Pictures,Annapurna-Pictures,"$6,564",$285,(47),55,23,The Sisters Brothers,Sisters-Brothers-The,"$3,101,468",9
+16,Domestic,11,2018,-78%,2019-01-07 10:08:16.930634,Kino Lorber,Kino-Lorber,"$6,473","$2,158",(45),56,3,Chef Flynn,Chef-Flynn-(Documentary)-(2018),"$38,385",2
+16,Domestic,11,2018,-75%,2019-01-07 10:08:16.934627,Sony Pictures Classics,Sony-Pictures-Classics,"$4,859",$374,(50),58,13,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$445,999",6
+16,Domestic,11,2018,-62%,2019-01-07 10:08:16.939611,GVN Releasing,GVN-Releasing,"$4,444",$404,(55),59,11,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,651,059",6
+16,Domestic,11,2018,+80%,2019-01-07 10:08:16.945597,IFC Films,IFC-Films,"$4,092",$818,(75),60,5,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$531,318",12
+16,Domestic,11,2018,+71%,2019-01-07 10:08:16.951580,Abramorama Films,Abramorama-Films,"$3,469","$1,156",(76),61,3,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$219,858",8
+16,Domestic,11,2018,+100%,2019-01-07 10:08:16.955567,Magnolia Pictures,Magnolia-Pictures,"$3,030","$1,010",(79),62,3,Kusama: Infinity,Kusama-Infinity,"$350,226",11
+16,Domestic,11,2018,+51%,2019-01-07 10:08:16.959557,Film Movement,Film-Movement,"$2,997","$1,499",(77),63,2,Narcissister Organ Player,Narcissister-Organ-Player-(Documentary)-(2018),"$7,944",2
+16,Domestic,11,2018,,2019-01-07 10:08:16.964542,Cohen Media Group,Cohen-Media-Group,"$2,840","$2,840",new,64,1,Shoah Four Sisters,Shoah-Four-Sisters-(France)-(2018),"$3,829",1
+16,Domestic,11,2018,-83%,2019-01-07 10:08:16.969530,Cohen Media Group,Cohen-Media-Group,"$2,825",$565,(52),65,5,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$81,975",7
+16,Domestic,11,2018,-91%,2019-01-07 10:08:16.974517,Independent Artists,Independent-Artists,"$2,499",$833,(46),66,3,Bodied,Bodied-(2018),"$113,956",3
+16,Domestic,11,2018,,2019-01-07 10:08:16.978566,Magnolia Pictures,Magnolia-Pictures,"$2,437",$812,new,67,3,The Last Race,Last-Race-The-(Documentary)-(2018),"$2,437",1
+16,Domestic,11,2018,-85%,2019-01-07 10:08:16.983786,Well Go USA,Well-Go-USA,"$2,293","$1,147",(53),68,2,Rampant,Changgwol-(South-Korea)-(2018),"$166,540",4
+16,Domestic,11,2018,,2019-01-07 10:08:16.988525,Abramorama Films,Abramorama-Films,"$2,271","$1,136",new,69,2,Under the Wire,Under-the-Wire-(UK)-(2018),"$2,271",1
+16,Domestic,11,2018,-63%,2019-01-07 10:08:16.993514,Magnolia Pictures,Magnolia-Pictures,"$2,223",$318,(61),70,7,The Guilty,Skyldige-Den-(Denmark)-(2018),"$190,602",5
+16,Domestic,11,2018,+143%,2019-01-07 10:08:17.000448,Sony Pictures Classics,Sony-Pictures-Classics,"$1,568",$784,(86),71,2,Puzzle,Puzzle-(2018),"$2,031,242",17
+16,Domestic,11,2018,-68%,2019-01-07 10:08:17.004436,IFC Films,IFC-Films,"$1,460",$365,(63),72,4,Blaze,Blaze-(2018),"$697,797",14
+16,Domestic,11,2018,,2019-01-07 10:08:17.008426,Janus Films,Janus-Films,"$1,243","$1,243",(-),73,1,Andrei Rublev (1966) (Re-Re…,Andrey-Rublyov-(Soviet-Union),"$100,150","2,351"
+16,Domestic,11,2018,-55%,2019-01-07 10:08:17.013413,Rialto Pictures,Rialto-Pictures,"$1,161","$1,161",(71),74,1,Senso (1955) (Re-Release),Senso-(Italy)-(1954),"$20,308","2,628"
+16,Domestic,11,2018,-40%,2019-01-07 10:08:17.019397,Pure Flix Entertain…,Pure-Flix-Entertainment,"$1,109",$111,(78),75,10,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$6,210,183",10
+16,Domestic,11,2018,-68%,2019-01-07 10:08:17.024387,Abramorama Films,Abramorama-Films,$859,$859,(70),76,1,Horn From the Heart: The Pa…,Horn-From-the-Heart-The-Paul-Butterfield-Story-(Documentary),"$21,093",5
+16,Domestic,11,2018,-68%,2019-01-07 10:08:17.028376,Pinnacle Peak,Pinnacle-Peak,$856,$143,(68),77,6,Little Women,Little-Women-(2018),"$1,379,194",8
+16,Domestic,11,2018,+75%,2019-01-07 10:08:17.035402,Sony Pictures Classics,Sony-Pictures-Classics,$567,$567,(91),78,1,The Rider,Rider-The-(2017),"$2,406,753",32
+16,Domestic,11,2018,,2019-01-07 10:08:17.039342,Distrib Films,Distrib-Films,$461,$461,(-),79,1,School of Life,ecole-buissonniere-L-(France),"$6,300",11
+16,Domestic,11,2018,-94%,2019-01-07 10:08:17.043380,AMBI,AMBI,$449,$225,(59),80,2,Here and Now,Here-and-Now-(2018),"$13,337",2
+16,Domestic,11,2018,-38%,2019-01-07 10:08:17.048405,Film Movement,Film-Movement,$432,$432,(85),81,1,Antonio Lopez 1970: Sex Fas…,Antonio-Lopez-1970-Sex-Fashion-and-Disco-(Documentary),"$43,169",10
+16,Domestic,11,2018,,2019-01-07 10:08:17.052308,Distrib Films,Distrib-Films,$417,$417,(-),82,1,Return of the Hero,Retour-du-Heros-Le-(France),"$7,792",12
+16,Domestic,11,2018,-76%,2019-01-07 10:08:17.057295,Kino Lorber,Kino-Lorber,$205,$205,(83),83,1,Let the Corpses Tan,Laissez-bronzer-les-cadavres-(France-2017),"$92,886",12
+16,Domestic,11,2018,-73%,2019-01-07 10:08:17.061285,CFI,CFI,$160,$160,(87),84,1,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$13,577",4
+16,Domestic,11,2018,-98%,2019-01-07 10:08:17.067563,Cinedigm,Cinedigm,$137,$137,(60),85,1,River Runs Red,River-Runs-Red-(2018),"$9,875",2
+16,Domestic,11,2018,-95%,2019-01-07 10:08:17.073252,Abramorama Films,Abramorama-Films,$130,$130,(73),86,1,Liyana,Liyana-(Swaziland),"$14,201",6
+16,Domestic,11,2018,+36%,2019-01-07 10:08:17.077245,Abramorama Films,Abramorama-Films,$90,$90,(95),87,1,Weed the People,Weed-the-People-(2018),"$9,199",4
+16,Domestic,11,2018,-97%,2019-01-07 10:08:17.083964,Menemsha Entertainment,Menemsha-Entertainment,$70,$70,(74),88,1,1945,1945-(Hungary),"$1,004,303",55
+23,Domestic,11,2018,,2019-01-07 10:08:18.094385,Walt Disney,Walt-Disney,"$56,237,634","$14,000",new,1,"4,017",Ralph Breaks The Internet,Ralph-Breaks-The-Internet-(2018),"$84,750,405",1
+23,Domestic,11,2018,,2019-01-07 10:08:18.097374,MGM,MGM,"$35,574,710","$10,338",new,2,"3,441",Creed II,Creed-II-(2018),"$56,007,007",1
+23,Domestic,11,2018,-21%,2019-01-07 10:08:18.101365,Universal,Universal,"$30,392,220","$7,675",(2),3,"3,960",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$180,494,990",3
+23,Domestic,11,2018,-53%,2019-01-07 10:08:18.105354,Warner Bros.,Warner-Bros,"$29,375,498","$7,056",(1),4,"4,163",Fantastic Beasts: The Crime…,Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018),"$116,554,309",2
+23,Domestic,11,2018,-13%,2019-01-07 10:08:18.109350,20th Century Fox,20th-Century-Fox,"$14,001,156","$4,783",(3),5,"2,927",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$152,158,106",4
+23,Domestic,11,2018,-15%,2019-01-07 10:08:18.113323,Paramount Pictures,Paramount-Pictures,"$12,310,708","$3,746",(4),6,"3,286",Instant Family,Instant-Family-(2018),"$35,564,886",2
+23,Domestic,11,2018,,2019-01-07 10:08:18.118315,Lionsgate,Lionsgate,"$9,195,670","$3,253",new,7,"2,827",Robin Hood,Robin-Hood-(2018),"$14,297,995",1
+23,Domestic,11,2018,-33%,2019-01-07 10:08:18.122301,20th Century Fox,20th-Century-Fox,"$8,231,373","$2,937",(5),8,"2,803",Widows,Widows-(2018),"$25,862,333",2
+23,Domestic,11,2018,"+1,617%",2019-01-07 10:08:18.126324,Universal,Universal,"$5,501,520","$5,175",(21),9,"1,063",Green Book,Green-Book-(2018),"$7,860,501",2
+23,Domestic,11,2018,-30%,2019-01-07 10:08:18.131287,Warner Bros.,Warner-Bros,"$3,016,129","$2,509",(7),10,"1,202",A Star is Born,Star-is-Born-A-(2018),"$191,003,172",8
+23,Domestic,11,2018,-42%,2019-01-07 10:08:18.135275,Walt Disney,Walt-Disney,"$2,785,368","$1,585",(6),11,"1,757",The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$49,186,550",4
+23,Domestic,11,2018,-12%,2019-01-07 10:08:18.138269,Focus Features,Focus-Features,"$1,159,590","$1,726",(12),12,672,Boy Erased,Boy-Erased-(2018),"$4,541,652",4
+23,Domestic,11,2018,-71%,2019-01-07 10:08:18.143260,Paramount Pictures,Paramount-Pictures,"$1,112,065",$909,(8),13,"1,223",Overlord,Overlord-(2018),"$20,191,451",3
+23,Domestic,11,2018,-59%,2019-01-07 10:08:18.147198,Paramount Pictures,Paramount-Pictures,"$900,411","$1,481",(10),14,608,Nobodyâs Fool,Nobodys-Fool-(2018),"$30,449,584",4
+23,Domestic,11,2018,-61%,2019-01-07 10:08:18.151224,Sony Pictures,Sony-Pictures,"$766,700","$1,311",(11),15,585,Venom,Venom-(2018),"$211,697,763",8
+23,Domestic,11,2018,+739%,2019-01-07 10:08:18.156214,Sony Pictures,Sony-Pictures,"$632,139",$783,(34),16,807,The Front Runner,Front-Runner-The-(2018),"$1,072,662",3
+23,Domestic,11,2018,-33%,2019-01-07 10:08:18.160205,Fox Searchlight,Fox-Searchlight,"$598,142","$1,404",(13),17,426,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$6,029,184",6
+23,Domestic,11,2018,-4%,2019-01-07 10:08:18.164193,Greenwich,Greenwich,"$448,057","$1,684",(18),18,266,Free Solo,Free-Solo-(Documentary)-(2018),"$9,693,936",9
+23,Domestic,11,2018,,2019-01-07 10:08:18.168352,Fox Searchlight,Fox-Searchlight,"$422,410","$105,603",new,19,4,The Favourite,Favourite-The-(2018),"$422,410",1
+23,Domestic,11,2018,-13%,2019-01-07 10:08:18.172172,Warner Bros.,Warner-Bros,"$367,580","$1,221",(19),20,301,Smallfoot,Smallfoot-(2018),"$81,935,912",9
+23,Domestic,11,2018,-86%,2019-01-07 10:08:18.176169,Sony Pictures,Sony-Pictures,"$356,485",$363,(9),21,983,The Girl in the Spiderâs Web,Girl-in-the-Spiders-Web-The,"$14,391,281",3
+23,Domestic,11,2018,-58%,2019-01-07 10:08:18.180112,20th Century Fox,20th-Century-Fox,"$326,680","$1,256",(14),22,260,The Hate U Give,Hate-U-Give-The,"$28,918,177",8
+23,Domestic,11,2018,-46%,2019-01-07 10:08:18.184146,Amazon Studios,Amazon-Studios,"$313,490","$1,234",(17),23,254,Beautiful Boy,Beautiful-Boy-(2018),"$6,982,639",7
+23,Domestic,11,2018,+139%,2019-01-07 10:08:18.188136,CBS Films,CBS-Films,"$221,672","$7,389",(31),24,30,At Eternityâs Gate,At-Eternitys-Gate-(2018),"$408,494",2
+23,Domestic,11,2018,+68%,2019-01-07 10:08:18.192129,Sony Pictures Classics,Sony-Pictures-Classics,"$162,343","$2,952",(29),25,55,Maria by Callas,Maria-by-Callas-(France),"$685,741",4
+23,Domestic,11,2018,-59%,2019-01-07 10:08:18.195072,Universal,Universal,"$136,875",$820,(20),26,167,Night School,Night-School-(2018),"$76,869,430",9
+23,Domestic,11,2018,-81%,2019-01-07 10:08:18.199111,Aviron Pictures,Aviron-Pictures,"$133,224",$589,(15),27,226,A Private War,Private-War-A-(2018),"$1,401,092",4
+23,Domestic,11,2018,-26%,2019-01-07 10:08:18.203099,Universal,Universal,"$128,420",$886,(23),28,145,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$68,290,400",10
+23,Domestic,11,2018,-50%,2019-01-07 10:08:18.207315,Universal,Universal,"$122,995",$911,(22),29,135,First Man,First-Man-(2018),"$44,570,015",7
+23,Domestic,11,2018,-83%,2019-01-07 10:08:18.210030,Universal,Universal,"$119,305",$698,(16),30,171,Halloween,Halloween-(2018),"$159,108,335",6
+23,Domestic,11,2018,-37%,2019-01-07 10:08:18.214020,Fox Searchlight,Fox-Searchlight,"$103,432","$1,137",(24),31,91,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$10,791,101",9
+23,Domestic,11,2018,,2019-01-07 10:08:18.217012,Magnolia Pictures,Magnolia-Pictures,"$89,264","$17,853",new,32,5,Shoplifters,Manbiki-kazoku-(Japan)-(2018),"$89,264",1
+23,Domestic,11,2018,-32%,2019-01-07 10:08:18.220005,Warner Bros.,Warner-Bros,"$85,493",$524,(26),33,163,Crazy Rich Asians,Crazy-Rich-Asians,"$173,880,418",15
+23,Domestic,11,2018,+19%,2019-01-07 10:08:18.222995,China Lion Film Dis…,China-Lion-Film-Distribution,"$84,742","$4,460",(35),34,19,A Cool Fish,Huang-Qiang-Zou-Ban-(China)-(2018),"$226,614",2
+23,Domestic,11,2018,+26%,2019-01-07 10:08:18.226986,Neon,Neon,"$75,515","$2,041",(38),35,37,Border,Grans-(Sweden),"$456,475",5
+23,Domestic,11,2018,+6%,2019-01-07 10:08:18.230976,IFC Films,IFC-Films,"$66,239",$907,(36),36,73,Wildlife,Wildlife-(2018),"$834,796",6
+23,Domestic,11,2018,-29%,2019-01-07 10:08:18.234965,Walt Disney,Walt-Disney,"$57,409",$542,(33),37,106,Incredibles 2,Incredibles-2,"$608,508,728",24
+23,Domestic,11,2018,-50%,2019-01-07 10:08:18.238990,A24,A24,"$57,037","$1,501",(28),38,38,Mid90s,Mid90s-(2018),"$7,266,845",6
+23,Domestic,11,2018,-51%,2019-01-07 10:08:18.244013,Amazon Studios,Amazon-Studios,"$46,677","$1,373",(30),39,34,Suspiria,Suspiria-(2018),"$2,338,797",5
+23,Domestic,11,2018,-67%,2019-01-07 10:08:18.247969,Sony Pictures,Sony-Pictures,"$46,626",$260,(25),40,179,Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$46,531,916",7
+23,Domestic,11,2018,-29%,2019-01-07 10:08:18.252962,Well Go USA,Well-Go-USA,"$45,314","$1,970",(37),41,23,Burning,Beoning-(South-Korea),"$376,701",5
+23,Domestic,11,2018,-50%,2019-01-07 10:08:18.256495,Lionsgate,Lionsgate,"$42,471",$421,(32),42,101,Hunter Killer,Hunter-Killer,"$15,746,315",5
+23,Domestic,11,2018,,2019-01-07 10:08:18.259947,Greenwich,Greenwich,"$22,482","$11,241",new,43,2,The World Before Your Feet,World-Before-Your-Feet-The-(Documentary)-(2018),"$28,155",1
+23,Domestic,11,2018,-42%,2019-01-07 10:08:18.264926,20th Century Fox,20th-Century-Fox,"$21,471",$447,(41),44,48,Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$17,811,900",7
+23,Domestic,11,2018,-59%,2019-01-07 10:08:18.268919,Bleecker Street,Bleecker-Street,"$20,902",$615,(39),45,34,Colette,Colette-(2018),"$5,123,044",10
+23,Domestic,11,2018,-48%,2019-01-07 10:08:18.272956,Walt Disney,Walt-Disney,"$17,221",$313,(43),46,55,Christopher Robin,Christopher-Robin-(2018),"$99,209,609",17
+23,Domestic,11,2018,-16%,2019-01-07 10:08:18.276853,IFC Films,IFC-Films,"$13,689",$913,(48),47,15,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$832,060",10
+23,Domestic,11,2018,-47%,2019-01-07 10:08:18.280886,Sony Pictures,Sony-Pictures,"$10,977",$244,(47),48,45,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$167,508,127",20
+23,Domestic,11,2018,-61%,2019-01-07 10:08:18.286827,Pure Flix Entertain…,Pure-Flix-Entertainment,"$10,091",$459,(45),49,22,Indivisible,Indivisible-(2018),"$3,485,977",5
+23,Domestic,11,2018,-54%,2019-01-07 10:08:18.292845,The Orchard,Orchard-The,"$10,077","$1,260",(46),50,8,El Angel,Angel-El-(Argentina)-(2018),"$75,856",3
+23,Domestic,11,2018,-32%,2019-01-07 10:08:18.296798,Sony Pictures Classics,Sony-Pictures-Classics,"$9,222",$576,(49),51,16,The Wife,Wife-The-(2018),"$7,784,428",15
+23,Domestic,11,2018,+36%,2019-01-07 10:08:18.302783,Kino Lorber,Kino-Lorber,"$8,775",$975,(56),52,9,Chef Flynn,Chef-Flynn-(Documentary)-(2018),"$49,787",3
+23,Domestic,11,2018,,2019-01-07 10:08:18.306861,Zipporah,Zipporah,"$8,659","$1,082",(-),53,8,"Monrovia, Indiana",Monrovia-Indiana-(Documentary)-(2018),"$49,519",5
+23,Domestic,11,2018,+15%,2019-01-07 10:08:18.310762,Annapurna Pictures,Annapurna-Pictures,"$7,567","$1,081",(55),54,7,The Sisters Brothers,Sisters-Brothers-The,"$3,116,096",10
+23,Domestic,11,2018,+142%,2019-01-07 10:08:18.314751,Magnolia Pictures,Magnolia-Pictures,"$5,888","$1,963",(67),55,3,The Last Race,Last-Race-The-(Documentary)-(2018),"$10,815",2
+23,Domestic,11,2018,,2019-01-07 10:08:18.318741,Music Box Films,Music-Box-Films,"$5,361","$1,787",new,56,3,Becoming Astrid,Unga-Astrid-(Sweden),"$5,361",1
+23,Domestic,11,2018,,2019-01-07 10:08:18.322730,National Geographic…,National-Geographic-Entertainment,"$4,920",$984,(-),58,5,Science Fair,Science-Fair-(2018),"$269,810",11
+23,Domestic,11,2018,-47%,2019-01-07 10:08:18.327717,20th Century Fox,20th-Century-Fox,"$4,845",$373,(53),59,13,The Predator,Predator-The-(2018),"$51,023,244",11
+23,Domestic,11,2018,-89%,2019-01-07 10:08:18.334701,China Lion Film Dis…,China-Lion-Film-Distribution,"$4,593","$1,148",(40),60,4,Last Letter,Ni-Hao-Zhi-Hua-(China)-(2018),"$176,483",3
+23,Domestic,11,2018,+660%,2019-01-07 10:08:18.338690,Sony Pictures Classics,Sony-Pictures-Classics,"$4,311",$166,(78),61,26,The Rider,Rider-The-(2017),"$2,411,353",33
+23,Domestic,11,2018,-63%,2019-01-07 10:08:18.343674,Janus Films,Janus-Films,"$4,156","$2,078",(51),62,2,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$87,987",6
+23,Domestic,11,2018,+10%,2019-01-07 10:08:18.348730,Abramorama Films,Abramorama-Films,"$3,805","$1,268",(61),63,3,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$224,888",9
+23,Domestic,11,2018,+213%,2019-01-07 10:08:18.352692,Pure Flix Entertain…,Pure-Flix-Entertainment,"$3,476",$435,(75),64,8,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$6,215,390",11
+23,Domestic,11,2018,+10%,2019-01-07 10:08:18.356686,Cohen Media Group,Cohen-Media-Group,"$3,115",$623,(65),65,5,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$87,146",8
+23,Domestic,11,2018,,2019-01-07 10:08:18.360683,Cinema Guild,Cinema-Guild,"$2,944","$2,944",(-),66,1,"Hale County This Morning, T…",Hale-County-This-Morning-This-Evening-(Documentary),"$34,348",11
+23,Domestic,11,2018,-50%,2019-01-07 10:08:18.365615,Sony Pictures Classics,Sony-Pictures-Classics,"$2,453",$491,(58),67,5,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$450,699",7
+23,Domestic,11,2018,,2019-01-07 10:08:18.370605,4th Row Films,4th-Row-Films,"$2,064",$413,(-),68,5,Bisbee â17,Bisbee-17-(Documentary),"$114,554",12
+23,Domestic,11,2018,,2019-01-07 10:08:18.375592,Film Movement,Film-Movement,"$1,926","$1,926",(-),69,1,The Third Murder,Sandome-no-satsujin-(Japan),"$89,315",19
+23,Domestic,11,2018,+57%,2019-01-07 10:08:18.380057,Rialto Pictures,Rialto-Pictures,"$1,823","$1,823",(74),70,1,Senso (1955) (Re-Release),Senso-(Italy)-(1954),"$23,550","2,629"
+23,Domestic,11,2018,-41%,2019-01-07 10:08:18.386595,Cohen Media Group,Cohen-Media-Group,"$1,683",$561,(64),71,3,Shoah Four Sisters,Shoah-Four-Sisters-(France)-(2018),"$5,512",2
+23,Domestic,11,2018,-48%,2019-01-07 10:08:18.390585,Film Movement,Film-Movement,"$1,572",$524,(63),72,3,Narcissister Organ Player,Narcissister-Organ-Player-(Documentary)-(2018),"$11,765",3
+23,Domestic,11,2018,+69%,2019-01-07 10:08:18.394611,Abramorama Films,Abramorama-Films,"$1,450","$1,450",(76),73,1,Horn From the Heart: The Pa…,Horn-From-the-Heart-The-Paul-Butterfield-Story-(Documentary),"$23,170",6
+23,Domestic,11,2018,-61%,2019-01-07 10:08:18.400602,Magnolia Pictures,Magnolia-Pictures,"$1,186",$395,(62),75,3,Kusama: Infinity,Kusama-Infinity,"$352,792",12
+23,Domestic,11,2018,"+1,569%",2019-01-07 10:08:18.404556,Menemsha Entertainment,Menemsha-Entertainment,"$1,168","$1,168",(88),76,1,1945,1945-(Hungary),"$1,005,471",56
+23,Domestic,11,2018,-72%,2019-01-07 10:08:18.409549,IFC Films,IFC-Films,"$1,127",$225,(60),77,5,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$532,523",13
+23,Domestic,11,2018,-25%,2019-01-07 10:08:18.413488,IFC Films,IFC-Films,"$1,102",$367,(72),78,3,Blaze,Blaze-(2018),"$699,114",15
+23,Domestic,11,2018,-50%,2019-01-07 10:08:18.417477,Magnolia Pictures,Magnolia-Pictures,"$1,101",$220,(70),79,5,The Guilty,Skyldige-Den-(Denmark)-(2018),"$192,633",6
+23,Domestic,11,2018,+116%,2019-01-07 10:08:18.421466,Distrib Films,Distrib-Films,$900,$900,(82),80,1,Return of the Hero,Retour-du-Heros-Le-(France),"$8,692",13
+23,Domestic,11,2018,-36%,2019-01-07 10:08:18.425455,Janus Films,Janus-Films,$798,$798,(73),81,1,Andrei Rublev (1966) (Re-Re…,Andrey-Rublyov-(Soviet-Union),"$101,398","2,352"
+23,Domestic,11,2018,-85%,2019-01-07 10:08:18.429444,GVN Releasing,GVN-Releasing,$686,$98,(59),82,7,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,653,128",7
+23,Domestic,11,2018,,2019-01-07 10:08:18.433434,First Run Features,First-Run-Features,$456,$456,new,83,1,Invisible Hands,Invisible-Hands-(Documentary)-(2018),$456,1
+23,Domestic,11,2018,,2019-01-07 10:08:18.437423,Paladin,Paladin,$351,$117,(-),84,3,Weightless,Weightless-(2018),"$3,708",3
+23,Domestic,11,2018,,2019-01-07 10:08:18.441413,Kino Lorber,Kino-Lorber,$340,$340,(-),85,1,Of Fathers and Sons,Kinder-des-Kalifats-(Germany)-(2018),"$5,833",2
+23,Domestic,11,2018,+138%,2019-01-07 10:08:18.445834,Abramorama Films,Abramorama-Films,$310,$310,(86),86,1,Liyana,Liyana-(Swaziland),"$15,330",7
+23,Domestic,11,2018,,2019-01-07 10:08:18.450434,Strand,Strand,$282,$282,(-),87,1,Postcards From London,Postcards-From-London-(UK),"$4,961",3
+23,Domestic,11,2018,,2019-01-07 10:08:18.455464,Cinema Guild,Cinema-Guild,$257,$257,(-),88,1,Milford Graves: Full Mantis,Milford-Graves-Full-Mantis-(Documentary)-(2018),"$26,443",20
+23,Domestic,11,2018,+28%,2019-01-07 10:08:18.459449,CFI,CFI,$205,$205,(84),89,1,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$13,782",5
+23,Domestic,11,2018,,2019-01-07 10:08:18.463353,Music Box Films,Music-Box-Films,$194,$194,(-),90,1,Memoir of War,douleur-La-(France),"$101,822",15
+23,Domestic,11,2018,-20%,2019-01-07 10:08:18.467382,Kino Lorber,Kino-Lorber,$164,$164,(83),91,1,Let the Corpses Tan,Laissez-bronzer-les-cadavres-(France-2017),"$93,255",13
+23,Domestic,11,2018,+56%,2019-01-07 10:08:18.471368,Abramorama Films,Abramorama-Films,$140,$140,(87),92,1,Weed the People,Weed-the-People-(2018),"$9,676",5
+30,Domestic,11,2018,-55%,2019-01-07 10:08:19.280554,Walt Disney,Walt-Disney,"$25,566,945","$6,365",(1),1,"4,017",Ralph Breaks The Internet,Ralph-Breaks-The-Internet-(2018),"$119,105,178",2
+30,Domestic,11,2018,-41%,2019-01-07 10:08:19.284541,Universal,Universal,"$17,926,785","$4,557",(3),2,"3,934",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$203,705,980",4
+30,Domestic,11,2018,-53%,2019-01-07 10:08:19.288534,MGM,MGM,"$16,639,048","$4,653",(2),3,"3,576",Creed II,Creed-II-(2018),"$80,975,332",2
+30,Domestic,11,2018,-61%,2019-01-07 10:08:19.292526,Warner Bros.,Warner-Bros,"$11,361,556","$2,950",(4),4,"3,851",Fantastic Beasts: The Crime…,Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018),"$134,502,962",3
+30,Domestic,11,2018,-43%,2019-01-07 10:08:19.296476,20th Century Fox,20th-Century-Fox,"$8,008,587","$2,663",(5),5,"3,007",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$164,331,737",5
+30,Domestic,11,2018,-42%,2019-01-07 10:08:19.300709,Paramount Pictures,Paramount-Pictures,"$7,170,076","$2,124",(6),6,"3,376",Instant Family,Instant-Family-(2018),"$45,947,845",3
+30,Domestic,11,2018,,2019-01-07 10:08:19.304490,Sony Pictures,Sony-Pictures,"$6,401,744","$3,100",new,7,"2,065",The Possession of Hannah Grace,Possession-of-Hannah-Grace-The-(2018),"$6,401,744",1
+30,Domestic,11,2018,-48%,2019-01-07 10:08:19.308481,Lionsgate,Lionsgate,"$4,781,624","$1,691",(7),8,"2,827",Robin Hood,Robin-Hood-(2018),"$21,809,306",2
+30,Domestic,11,2018,-47%,2019-01-07 10:08:19.313478,20th Century Fox,20th-Century-Fox,"$4,403,153","$1,840",(8),9,"2,393",Widows,Widows-(2018),"$33,063,398",3
+30,Domestic,11,2018,-29%,2019-01-07 10:08:19.317464,Universal,Universal,"$3,931,220","$3,691",(9),10,"1,065",Green Book,Green-Book-(2018),"$14,045,711",3
+30,Domestic,11,2018,-39%,2019-01-07 10:08:19.321455,Warner Bros.,Warner-Bros,"$1,829,567","$1,692",(10),11,"1,081",A Star is Born,Star-is-Born-A-(2018),"$193,747,003",9
+30,Domestic,11,2018,-52%,2019-01-07 10:08:19.325457,Walt Disney,Walt-Disney,"$1,343,556",$965,(11),12,"1,392",The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$51,103,465",5
+30,Domestic,11,2018,+154%,2019-01-07 10:08:19.329451,Fox Searchlight,Fox-Searchlight,"$1,072,282","$31,538",(19),13,34,The Favourite,Favourite-The-(2018),"$1,646,592",2
+30,Domestic,11,2018,-48%,2019-01-07 10:08:19.334422,Focus Features,Focus-Features,"$604,060",$915,(12),14,660,Boy Erased,Boy-Erased-(2018),"$5,596,497",5
+30,Domestic,11,2018,-64%,2019-01-07 10:08:19.337365,Paramount Pictures,Paramount-Pictures,"$405,268",$760,(13),15,533,Overlord,Overlord-(2018),"$21,014,283",4
+30,Domestic,11,2018,-58%,2019-01-07 10:08:19.341405,Paramount Pictures,Paramount-Pictures,"$382,417",$993,(14),16,385,Nobodyâs Fool,Nobodys-Fool-(2018),"$31,070,476",5
+30,Domestic,11,2018,-51%,2019-01-07 10:08:19.346556,Sony Pictures,Sony-Pictures,"$377,396",$888,(15),17,425,Venom,Venom-(2018),"$212,268,048",9
+30,Domestic,11,2018,-43%,2019-01-07 10:08:19.350329,Fox Searchlight,Fox-Searchlight,"$338,735","$1,245",(17),18,272,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$6,580,505",7
+30,Domestic,11,2018,-36%,2019-01-07 10:08:19.354319,Greenwich,Greenwich,"$288,035","$1,083",(18),19,266,Free Solo,Free-Solo-(Documentary)-(2018),"$10,116,918",10
+30,Domestic,11,2018,-57%,2019-01-07 10:08:19.358309,Sony Pictures,Sony-Pictures,"$273,622",$339,(16),20,807,The Front Runner,Front-Runner-The-(2018),"$1,630,940",4
+30,Domestic,11,2018,-44%,2019-01-07 10:08:19.362298,Warner Bros.,Warner-Bros,"$207,610",$783,(20),21,265,Smallfoot,Smallfoot-(2018),"$82,200,536",10
+30,Domestic,11,2018,-41%,2019-01-07 10:08:19.366361,20th Century Fox,20th-Century-Fox,"$191,831",$767,(22),22,250,The Hate U Give,Hate-U-Give-The,"$29,207,970",9
+30,Domestic,11,2018,-16%,2019-01-07 10:08:19.370277,CBS Films,CBS-Films,"$186,249","$3,880",(24),23,48,At Eternityâs Gate,At-Eternitys-Gate-(2018),"$675,833",3
+30,Domestic,11,2018,-49%,2019-01-07 10:08:19.374266,Amazon Studios,Amazon-Studios,"$158,867",$767,(23),24,207,Beautiful Boy,Beautiful-Boy-(2018),"$7,247,035",8
+30,Domestic,11,2018,+182%,2019-01-07 10:08:19.377784,Sony Pictures,Sony-Pictures,"$131,253",$151,(40),25,871,Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$46,631,339",8
+30,Domestic,11,2018,-28%,2019-01-07 10:08:19.382244,Sony Pictures Classics,Sony-Pictures-Classics,"$116,803","$1,693",(25),26,69,Maria by Callas,Maria-by-Callas-(France),"$873,836",5
+30,Domestic,11,2018,-26%,2019-01-07 10:08:19.385663,Universal,Universal,"$101,450",$638,(26),27,159,Night School,Night-School-(2018),"$76,999,690",10
+30,Domestic,11,2018,+18%,2019-01-07 10:08:19.389226,China Lion Film Dis…,China-Lion-Film-Distribution,"$99,821","$2,773",(34),28,36,A Cool Fish,Huang-Qiang-Zou-Ban-(China)-(2018),"$369,150",3
+30,Domestic,11,2018,+9%,2019-01-07 10:08:19.393215,Magnolia Pictures,Magnolia-Pictures,"$97,588","$6,971",(32),29,14,Shoplifters,Manbiki-kazoku-(Japan)-(2018),"$229,848",2
+30,Domestic,11,2018,-75%,2019-01-07 10:08:19.397208,Sony Pictures,Sony-Pictures,"$87,605",$447,(21),30,196,The Girl in the Spiderâs Web,Girl-in-the-Spiders-Web-The,"$14,666,252",4
+30,Domestic,11,2018,+8%,2019-01-07 10:08:19.402194,Neon,Neon,"$81,407","$1,115",(35),31,73,Border,Grans-(Sweden),"$575,732",6
+30,Domestic,11,2018,-22%,2019-01-07 10:08:19.406183,Fox Searchlight,Fox-Searchlight,"$80,430",$706,(31),32,114,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$10,922,179",10
+30,Domestic,11,2018,-39%,2019-01-07 10:08:19.411170,Universal,Universal,"$75,040",$552,(29),33,136,First Man,First-Man-(2018),"$44,682,655",8
+30,Domestic,11,2018,,2019-01-07 10:08:19.415160,GKIDS,GKIDS,"$63,325","$3,166",new,34,20,Mirai no Mirai,Mirai-no-Mirai-(Japan)-(2018),"$273,586",1
+30,Domestic,11,2018,-54%,2019-01-07 10:08:19.419149,Universal,Universal,"$59,555",$469,(28),35,127,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$68,371,090",11
+30,Domestic,11,2018,-12%,2019-01-07 10:08:19.424136,IFC Films,IFC-Films,"$58,243",$955,(36),38,61,Wildlife,Wildlife-(2018),"$931,635",7
+30,Domestic,11,2018,-53%,2019-01-07 10:08:19.428125,Universal,Universal,"$56,160",$432,(30),36,130,Halloween,Halloween-(2018),"$159,192,610",7
+30,Domestic,11,2018,,2019-01-07 10:08:19.433129,Orion Pictures,Orion-Pictures,"$52,588","$10,518",new,37,5,Anna and the Apocalypse,Anna-and-the-Apocalypse-(2018),"$52,588",1
+30,Domestic,11,2018,-63%,2019-01-07 10:08:19.437101,Aviron Pictures,Aviron-Pictures,"$48,769",$739,(27),39,66,A Private War,Private-War-A-(2018),"$1,516,876",5
+30,Domestic,11,2018,,2019-01-07 10:08:19.442088,Well Go USA,Well-Go-USA,"$42,133","$1,915",new,40,22,Unstoppable,Sungnan-Hwangso-(South-Korea)-(2018),"$42,133",1
+30,Domestic,11,2018,-54%,2019-01-07 10:08:19.446254,Warner Bros.,Warner-Bros,"$39,566",$335,(33),41,118,Crazy Rich Asians,Crazy-Rich-Asians,"$173,947,255",16
+30,Domestic,11,2018,-33%,2019-01-07 10:08:19.450109,Amazon Studios,Amazon-Studios,"$31,388",$951,(39),42,33,Suspiria,Suspiria-(2018),"$2,397,484",6
+30,Domestic,11,2018,-32%,2019-01-07 10:08:19.454099,Well Go USA,Well-Go-USA,"$30,743","$1,537",(41),43,20,Burning,Beoning-(South-Korea),"$429,226",6
+30,Domestic,11,2018,-49%,2019-01-07 10:08:19.458091,Walt Disney,Walt-Disney,"$29,342",$316,(37),44,93,Incredibles 2,Incredibles-2,"$608,546,980",25
+30,Domestic,11,2018,-58%,2019-01-07 10:08:19.462080,A24,A24,"$24,212","$1,009",(38),45,24,Mid90s,Mid90s-(2018),"$7,312,840",7
+30,Domestic,11,2018,+254%,2019-01-07 10:08:19.467060,Music Box Films,Music-Box-Films,"$18,959","$1,264",(56),46,15,Becoming Astrid,Unga-Astrid-(Sweden),"$26,980",2
+30,Domestic,11,2018,-35%,2019-01-07 10:08:19.471008,Greenwich,Greenwich,"$14,528","$2,075",(43),47,7,The World Before Your Feet,World-Before-Your-Feet-The-(Documentary)-(2018),"$53,502",2
+30,Domestic,11,2018,+52%,2019-01-07 10:08:19.475041,Kino Lorber,Kino-Lorber,"$13,337","$1,667",(52),48,8,Chef Flynn,Chef-Flynn-(Documentary)-(2018),"$67,686",4
+30,Domestic,11,2018,-50%,2019-01-07 10:08:19.480101,20th Century Fox,20th-Century-Fox,"$10,712",$261,(44),49,41,Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$17,831,436",8
+30,Domestic,11,2018,,2019-01-07 10:08:19.484008,Warner Bros.,Warner-Bros,"$8,715","$2,179",new,50,4,Head Full of Honey,Head-Full-of-Honey-(2018),"$8,715",1
+30,Domestic,11,2018,-18%,2019-01-07 10:08:19.488000,The Orchard,Orchard-The,"$8,301","$2,075",(50),51,4,El Angel,Angel-El-(Argentina)-(2018),"$89,611",4
+30,Domestic,11,2018,+505%,2019-01-07 10:08:19.491990,Magnolia Pictures,Magnolia-Pictures,"$6,663","$1,333",(79),52,5,The Guilty,Skyldige-Den-(Denmark)-(2018),"$201,802",7
+30,Domestic,11,2018,-18%,2019-01-07 10:08:19.496984,Annapurna Pictures,Annapurna-Pictures,"$6,220","$1,244",(54),53,5,The Sisters Brothers,Sisters-Brothers-The,"$3,128,889",11
+30,Domestic,11,2018,,2019-01-07 10:08:19.502925,Janus Films,Janus-Films,"$5,127","$5,127",(-),54,1,Detour (1945) (Re-Release),Detour-(1945),"$5,127","3,810"
+30,Domestic,11,2018,-67%,2019-01-07 10:08:19.507001,IFC Films,IFC-Films,"$4,552",$455,(47),56,10,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$842,876",11
+30,Domestic,11,2018,,2019-01-07 10:08:19.510904,Strand,Strand,"$4,324","$4,324",new,57,1,Sicilian Ghost Story,Sicilian-Ghost-Story-(Italy),"$4,324",1
+30,Domestic,11,2018,+68%,2019-01-07 10:08:19.515891,Sony Pictures Classics,Sony-Pictures-Classics,"$4,121",$515,(67),58,8,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$456,009",8
+30,Domestic,11,2018,-55%,2019-01-07 10:08:19.519880,Zipporah,Zipporah,"$3,905",$488,(53),59,8,"Monrovia, Indiana",Monrovia-Indiana-(Documentary)-(2018),"$53,424",6
+30,Domestic,11,2018,-24%,2019-01-07 10:08:19.524866,Janus Films,Janus-Films,"$3,149","$3,149",(62),60,1,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$95,890",7
+30,Domestic,11,2018,-22%,2019-01-07 10:08:19.528855,Abramorama Films,Abramorama-Films,"$2,980","$1,490",(63),61,2,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$229,533",10
+30,Domestic,11,2018,-73%,2019-01-07 10:08:19.533843,Pure Flix Entertain…,Pure-Flix-Entertainment,"$2,747",$343,(49),62,8,Indivisible,Indivisible-(2018),"$3,492,175",6
+30,Domestic,11,2018,-13%,2019-01-07 10:08:19.537832,Cohen Media Group,Cohen-Media-Group,"$2,721",$680,(65),63,4,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$96,747",9
+30,Domestic,11,2018,-56%,2019-01-07 10:08:19.542819,National Geographic…,National-Geographic-Entertainment,"$2,155",$269,(58),64,8,Science Fair,Science-Fair-(2018),"$271,965",12
+30,Domestic,11,2018,+69%,2019-01-07 10:08:19.546837,Distrib Films,Distrib-Films,"$1,517",$506,(80),65,3,Return of the Hero,Retour-du-Heros-Le-(France),"$10,209",14
+30,Domestic,11,2018,-66%,2019-01-07 10:08:19.550829,Sony Pictures Classics,Sony-Pictures-Classics,"$1,472",$164,(61),66,9,The Rider,Rider-The-(2017),"$2,416,254",34
+30,Domestic,11,2018,+15%,2019-01-07 10:08:19.554815,Magnolia Pictures,Magnolia-Pictures,"$1,364",$682,(75),67,2,Kusama: Infinity,Kusama-Infinity,"$356,381",13
+30,Domestic,11,2018,-12%,2019-01-07 10:08:19.558856,Abramorama Films,Abramorama-Films,"$1,272",$636,(73),69,2,Horn From the Heart: The Pa…,Horn-From-the-Heart-The-Paul-Butterfield-Story-(Documentary),"$26,008",7
+30,Domestic,11,2018,+495%,2019-01-07 10:08:19.563794,CFI,CFI,"$1,220",$407,(89),70,3,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$15,002",6
+30,Domestic,11,2018,+75%,2019-01-07 10:08:19.567765,GVN Releasing,GVN-Releasing,"$1,200",$150,(82),71,8,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,654,468",8
+30,Domestic,11,2018,-76%,2019-01-07 10:08:19.571775,China Lion Film Dis…,China-Lion-Film-Distribution,"$1,100","$1,100",(60),72,1,Last Letter,Ni-Hao-Zhi-Hua-(China)-(2018),"$179,721",4
+30,Domestic,11,2018,+604%,2019-01-07 10:08:19.575727,Abramorama Films,Abramorama-Films,$986,$493,(92),73,2,Weed the People,Weed-the-People-(2018),"$11,494",6
+30,Domestic,11,2018,-91%,2019-01-07 10:08:19.580754,Sony Pictures Classics,Sony-Pictures-Classics,$846,$141,(51),74,6,The Wife,Wife-The-(2018),"$7,788,275",16
+30,Domestic,11,2018,,2019-01-07 10:08:19.585798,Zeitgeist,Zeitgeist,$832,$832,(-),75,1,Studio 54,Studio-54-(2018),"$184,429",9
+30,Domestic,11,2018,+104%,2019-01-07 10:08:19.590722,Abramorama Films,Abramorama-Films,$633,$633,(86),76,1,Liyana,Liyana-(Swaziland),"$16,125",8
+30,Domestic,11,2018,+95%,2019-01-07 10:08:19.596369,Music Box Films,Music-Box-Films,$379,$379,(90),77,1,Memoir of War,douleur-La-(France),"$102,757",16
+30,Domestic,11,2018,-81%,2019-01-07 10:08:19.600706,Film Movement,Film-Movement,$305,$153,(72),78,2,Narcissister Organ Player,Narcissister-Organ-Player-(Documentary)-(2018),"$13,203",4
+30,Domestic,11,2018,-54%,2019-01-07 10:08:19.604730,First Run Features,First-Run-Features,$210,$210,(83),79,1,Invisible Hands,Invisible-Hands-(Documentary)-(2018),"$1,034",2
+30,Domestic,11,2018,-62%,2019-01-07 10:08:19.609686,Kino Lorber,Kino-Lorber,$130,$130,(85),80,1,Of Fathers and Sons,Kinder-des-Kalifats-(Germany)-(2018),"$6,127",3
+30,Domestic,11,2018,-74%,2019-01-07 10:08:19.613682,Paladin,Paladin,$93,$31,(84),81,3,Weightless,Weightless-(2018),"$3,904",4
+7,Domestic,12,2018,-36%,2019-01-07 10:08:20.600066,Walt Disney,Walt-Disney,"$16,253,831","$4,283",(1),1,"3,795",Ralph Breaks The Internet,Ralph-Breaks-The-Internet-(2018),"$140,971,716",3
+7,Domestic,12,2018,-16%,2019-01-07 10:08:20.603028,Universal,Universal,"$15,039,050","$3,915",(2),2,"3,841",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$223,324,225",5
+7,Domestic,12,2018,-40%,2019-01-07 10:08:20.607064,MGM,MGM,"$9,975,167","$2,659",(3),3,"3,752",Creed II,Creed-II-(2018),"$96,124,564",3
+7,Domestic,12,2018,-39%,2019-01-07 10:08:20.612053,Warner Bros.,Warner-Bros,"$6,953,846","$2,015",(4),4,"3,451",Fantastic Beasts: The Crime…,Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018),"$145,356,370",4
+7,Domestic,12,2018,-23%,2019-01-07 10:08:20.615993,20th Century Fox,20th-Century-Fox,"$6,141,666","$2,080",(5),5,"2,953",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$173,710,836",6
+7,Domestic,12,2018,-20%,2019-01-07 10:08:20.619982,Paramount Pictures,Paramount-Pictures,"$5,756,311","$1,680",(6),6,"3,426",Instant Family,Instant-Family-(2018),"$54,317,053",4
+7,Domestic,12,2018,-1%,2019-01-07 10:08:20.624120,Universal,Universal,"$3,905,030","$3,307",(10),7,"1,181",Green Book,Green-Book-(2018),"$19,946,941",4
+7,Domestic,12,2018,-26%,2019-01-07 10:08:20.629957,Lionsgate,Lionsgate,"$3,531,994","$1,373",(8),8,"2,573",Robin Hood,Robin-Hood-(2018),"$27,236,187",3
+7,Domestic,12,2018,-50%,2019-01-07 10:08:20.633993,Sony Pictures,Sony-Pictures,"$3,170,546","$1,380",(7),9,"2,298",The Possession of Hannah Grace,Possession-of-Hannah-Grace-The-(2018),"$11,502,095",2
+7,Domestic,12,2018,-28%,2019-01-07 10:08:20.637979,20th Century Fox,20th-Century-Fox,"$3,150,274","$1,458",(9),10,"2,161",Widows,Widows-(2018),"$38,206,080",4
+7,Domestic,12,2018,+34%,2019-01-07 10:08:20.643967,Warner Bros.,Warner-Bros,"$2,454,068","$1,505",(11),11,"1,631",A Star is Born,Star-is-Born-A-(2018),"$197,042,665",10
+7,Domestic,12,2018,+40%,2019-01-07 10:08:20.648950,Fox Searchlight,Fox-Searchlight,"$1,503,634","$16,523",(13),12,91,The Favourite,Favourite-The-(2018),"$3,542,280",3
+7,Domestic,12,2018,-18%,2019-01-07 10:08:20.653937,Walt Disney,Walt-Disney,"$1,101,376",$941,(12),13,"1,170",The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$52,681,570",6
+7,Domestic,12,2018,,2019-01-07 10:08:20.658923,Universal,Universal,"$566,760",$551,(-),14,"1,029",Schindlerâs List (1993) (…,Schindlers-List,"$96,570,398","1,304"
+7,Domestic,12,2018,-30%,2019-01-07 10:08:20.662867,Focus Features,Focus-Features,"$421,940",$678,(14),15,622,Boy Erased,Boy-Erased-(2018),"$6,335,167",6
+7,Domestic,12,2018,,2019-01-07 10:08:20.666857,PackYourBag Films,PackYourBag-Films,"$407,119","$3,603",new,16,113,Kedarnath,Kedarnath-(India)(2018),"$407,119",1
+7,Domestic,12,2018,+72%,2019-01-07 10:08:20.670846,CBS Films,CBS-Films,"$319,925","$1,839",(23),17,174,At Eternityâs Gate,At-Eternitys-Gate-(2018),"$1,081,140",4
+7,Domestic,12,2018,-19%,2019-01-07 10:08:20.674835,Sony Pictures,Sony-Pictures,"$307,314",$792,(17),18,388,Venom,Venom-(2018),"$212,718,480",10
+7,Domestic,12,2018,-10%,2019-01-07 10:08:20.679822,Greenwich,Greenwich,"$259,657",$976,(19),19,266,Free Solo,Free-Solo-(Documentary)-(2018),"$10,517,608",11
+7,Domestic,12,2018,-32%,2019-01-07 10:08:20.684074,Paramount Pictures,Paramount-Pictures,"$258,179",$702,(16),20,368,Nobodyâs Fool,Nobodys-Fool-(2018),"$31,472,953",6
+7,Domestic,12,2018,-24%,2019-01-07 10:08:20.687801,Fox Searchlight,Fox-Searchlight,"$255,987",$966,(18),21,265,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$6,988,861",8
+7,Domestic,12,2018,-37%,2019-01-07 10:08:20.691790,Paramount Pictures,Paramount-Pictures,"$255,142",$653,(15),22,391,Overlord,Overlord-(2018),"$21,475,551",5
+7,Domestic,12,2018,"+24,576%",2019-01-07 10:08:20.694782,Sony Pictures Classics,Sony-Pictures-Classics,"$208,756",$496,(74),23,421,The Wife,Wife-The-(2018),"$7,997,873",17
+7,Domestic,12,2018,+216%,2019-01-07 10:08:20.698848,GKIDS,GKIDS,"$199,823","$13,322",(34),24,15,Mirai no Mirai,Mirai-no-Mirai-(Japan)-(2018),"$672,655",2
+7,Domestic,12,2018,,2019-01-07 10:08:20.702761,Focus Features,Focus-Features,"$194,777","$48,694",new,25,4,Mary Queen of Scots,Mary-Queen-of-Scots-(UK)-(2018),"$194,777",1
+7,Domestic,12,2018,-17%,2019-01-07 10:08:20.706832,Warner Bros.,Warner-Bros,"$172,519",$725,(21),26,238,Smallfoot,Smallfoot-(2018),"$82,420,471",11
+7,Domestic,12,2018,,2019-01-07 10:08:20.710739,Neon,Neon,"$155,714","$25,952",new,27,6,Vox Lux,Vox-Lux-(2018),"$155,714",1
+7,Domestic,12,2018,+170%,2019-01-07 10:08:20.714729,Orion Pictures,Orion-Pictures,"$142,199","$3,091",(37),28,46,Anna and the Apocalypse,Anna-and-the-Apocalypse-(2018),"$215,331",2
+7,Domestic,12,2018,-28%,2019-01-07 10:08:20.719719,20th Century Fox,20th-Century-Fox,"$138,644",$590,(22),29,235,The Hate U Give,Hate-U-Give-The,"$29,430,036",10
+7,Domestic,12,2018,-60%,2019-01-07 10:08:20.723708,Sony Pictures,Sony-Pictures,"$109,428",$268,(20),30,409,The Front Runner,Front-Runner-The-(2018),"$1,913,855",5
+7,Domestic,12,2018,+10%,2019-01-07 10:08:20.727697,Magnolia Pictures,Magnolia-Pictures,"$107,267","$2,980",(29),31,36,Shoplifters,Manbiki-kazoku-(Japan)-(2018),"$393,600",3
+7,Domestic,12,2018,-12%,2019-01-07 10:08:20.732684,Sony Pictures Classics,Sony-Pictures-Classics,"$103,168",$692,(26),32,149,Maria by Callas,Maria-by-Callas-(France),"$1,041,087",6
+7,Domestic,12,2018,-36%,2019-01-07 10:08:20.736673,Amazon Studios,Amazon-Studios,"$101,712",$519,(24),33,196,Beautiful Boy,Beautiful-Boy-(2018),"$7,424,750",9
+7,Domestic,12,2018,+8%,2019-01-07 10:08:20.741660,Fox Searchlight,Fox-Searchlight,"$86,500",$636,(32),34,136,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$11,051,784",11
+7,Domestic,12,2018,-20%,2019-01-07 10:08:20.745665,Universal,Universal,"$80,910",$599,(27),35,135,Night School,Night-School-(2018),"$77,111,015",11
+7,Domestic,12,2018,,2019-01-07 10:08:20.749638,Roadside Attractions,Roadside-Attractions,"$80,733","$20,183",new,36,4,Ben is Back,Ben-is-Back-(2018),"$80,733",1
+7,Domestic,12,2018,-22%,2019-01-07 10:08:20.754625,Universal,Universal,"$58,330",$482,(33),37,121,First Man,First-Man-(2018),"$44,774,405",9
+7,Domestic,12,2018,-44%,2019-01-07 10:08:20.758610,China Lion Film Dis…,China-Lion-Film-Distribution,"$56,312","$1,656",(28),38,34,A Cool Fish,Huang-Qiang-Zou-Ban-(China)-(2018),"$465,328",4
+7,Domestic,12,2018,-34%,2019-01-07 10:08:20.762604,Neon,Neon,"$53,720",$726,(31),39,74,Border,Grans-(Sweden),"$671,799",7
+7,Domestic,12,2018,-41%,2019-01-07 10:08:20.767590,Sony Pictures,Sony-Pictures,"$52,037",$342,(30),40,152,The Girl in the Spiderâs Web,Girl-in-the-Spiders-Web-The,"$14,777,868",5
+7,Domestic,12,2018,-12%,2019-01-07 10:08:20.771579,Universal,Universal,"$49,565",$359,(36),41,138,Halloween,Halloween-(2018),"$159,260,840",8
+7,Domestic,12,2018,-26%,2019-01-07 10:08:20.776678,Universal,Universal,"$43,890",$385,(35),42,114,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$68,430,975",12
+7,Domestic,12,2018,+11%,2019-01-07 10:08:20.780554,Well Go USA,Well-Go-USA,"$34,141","$1,313",(43),43,26,Burning,Beoning-(South-Korea),"$483,834",7
+7,Domestic,12,2018,-51%,2019-01-07 10:08:20.785542,Aviron Pictures,Aviron-Pictures,"$24,006",$686,(39),44,35,A Private War,Private-War-A-(2018),"$1,569,015",6
+7,Domestic,12,2018,-24%,2019-01-07 10:08:20.789532,Amazon Studios,Amazon-Studios,"$23,835",$722,(42),45,33,Suspiria,Suspiria-(2018),"$2,445,454",7
+7,Domestic,12,2018,-43%,2019-01-07 10:08:20.793521,Warner Bros.,Warner-Bros,"$22,486",$288,(41),47,78,Crazy Rich Asians,Crazy-Rich-Asians,"$173,985,442",17
+7,Domestic,12,2018,-62%,2019-01-07 10:08:20.798508,IFC Films,IFC-Films,"$22,169",$462,(38),46,48,Wildlife,Wildlife-(2018),"$974,386",8
+7,Domestic,12,2018,-84%,2019-01-07 10:08:20.802497,Sony Pictures,Sony-Pictures,"$20,880",$161,(25),48,130,Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$46,682,298",9
+7,Domestic,12,2018,,2019-01-07 10:08:20.806483,Magnolia Pictures,Magnolia-Pictures,"$18,833","$1,256",new,49,15,Divide and Conquer: The Sto…,Divide-and-Conquer-The-Story-of-Roger-Ailes-(Documentary)-(2018),"$18,833",1
+7,Domestic,12,2018,-37%,2019-01-07 10:08:20.811474,Walt Disney,Walt-Disney,"$18,598",$282,(44),50,66,Incredibles 2,Incredibles-2,"$608,574,642",26
+7,Domestic,12,2018,-58%,2019-01-07 10:08:20.816460,Well Go USA,Well-Go-USA,"$17,518","$1,251",(40),51,14,Unstoppable,Sungnan-Hwangso-(South-Korea)-(2018),"$84,235",2
+7,Domestic,12,2018,-38%,2019-01-07 10:08:20.820449,A24,A24,"$14,972",$832,(45),52,18,Mid90s,Mid90s-(2018),"$7,341,643",8
+7,Domestic,12,2018,,2019-01-07 10:08:20.824438,China Lion Film Dis…,China-Lion-Film-Distribution,"$10,974","$1,372",(-),53,8,The Tag Along 2,Hong-Yi-Xiao-Nu-Hai-2-(Taiwan),"$10,974",64
+7,Domestic,12,2018,,2019-01-07 10:08:20.829655,IFC Films,IFC-Films,"$10,844",$350,new,54,31,Swimming With Men,Swimming-With-Men-(UK)-(2018),"$10,844",1
+7,Domestic,12,2018,-47%,2019-01-07 10:08:20.834410,Music Box Films,Music-Box-Films,"$10,038",$669,(46),55,15,Becoming Astrid,Unga-Astrid-(Sweden),"$52,049",3
+7,Domestic,12,2018,-55%,2019-01-07 10:08:20.844383,Greenwich,Greenwich,"$6,542","$1,308",(47),56,5,The World Before Your Feet,World-Before-Your-Feet-The-(Documentary)-(2018),"$66,410",3
+7,Domestic,12,2018,,2019-01-07 10:08:20.848374,Magnolia Pictures,Magnolia-Pictures,"$6,059","$1,212",new,57,5,Tyrel,Tyrel-(2018),"$6,059",1
+7,Domestic,12,2018,+269%,2019-01-07 10:08:20.852364,GVN Releasing,GVN-Releasing,"$4,433",$403,(71),59,11,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,671,765",9
+7,Domestic,12,2018,+3%,2019-01-07 10:08:20.857351,Sony Pictures Classics,Sony-Pictures-Classics,"$4,236",$530,(58),60,8,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$462,720",9
+7,Domestic,12,2018,,2019-01-07 10:08:20.862335,Film Movement,Film-Movement,"$4,128","$4,128",new,61,1,The Charmer,Charmer-The-(Denmark)-(2018),"$5,634",1
+7,Domestic,12,2018,,2019-01-07 10:08:20.866324,Gravitas Ventures,Gravitas-Ventures,"$3,080","$3,080",new,62,1,Frank and Ava,Frank-and-Ava-(2018),"$3,080",1
+7,Domestic,12,2018,-36%,2019-01-07 10:08:20.869318,IFC Films,IFC-Films,"$2,918",$324,(56),63,9,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$854,522",12
+7,Domestic,12,2018,+100%,2019-01-07 10:08:20.874323,Magnolia Pictures,Magnolia-Pictures,"$2,732","$1,366",(67),64,2,Kusama: Infinity,Kusama-Infinity,"$360,227",14
+7,Domestic,12,2018,-57%,2019-01-07 10:08:20.878295,Annapurna Pictures,Annapurna-Pictures,"$2,649",$294,(53),65,9,The Sisters Brothers,Sisters-Brothers-The,"$3,135,006",12
+7,Domestic,12,2018,+279%,2019-01-07 10:08:20.882373,Abramorama Films,Abramorama-Films,"$2,396","$2,396",(76),66,1,Liyana,Liyana-(Swaziland),"$19,228",9
+7,Domestic,12,2018,-65%,2019-01-07 10:08:20.885318,Magnolia Pictures,Magnolia-Pictures,"$2,311",$330,(52),67,7,The Guilty,Skyldige-Den-(Denmark)-(2018),"$206,203",8
+7,Domestic,12,2018,-20%,2019-01-07 10:08:20.889293,Cohen Media Group,Cohen-Media-Group,"$2,170",$362,(63),68,6,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$110,032",10
+7,Domestic,12,2018,-33%,2019-01-07 10:08:20.892305,Janus Films,Janus-Films,"$2,100","$2,100",(60),69,1,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$105,059",8
+7,Domestic,12,2018,-36%,2019-01-07 10:08:20.897292,Pure Flix Entertain…,Pure-Flix-Entertainment,"$1,751",$250,(62),70,7,Indivisible,Indivisible-(2018),"$3,495,484",7
+7,Domestic,12,2018,-81%,2019-01-07 10:08:20.902272,The Orchard,Orchard-The,"$1,605",$401,(51),71,4,El Angel,Angel-El-(Argentina)-(2018),"$93,023",5
+7,Domestic,12,2018,-89%,2019-01-07 10:08:20.906262,Kino Lorber,Kino-Lorber,"$1,504",$376,(48),72,4,Chef Flynn,Chef-Flynn-(Documentary)-(2018),"$60,397",5
+7,Domestic,12,2018,-80%,2019-01-07 10:08:20.911248,Janus Films,Janus-Films,"$1,008","$1,008",(54),73,1,Detour (1945) (Re-Release),Detour-(1945),"$10,291","3,811"
+7,Domestic,12,2018,-77%,2019-01-07 10:08:20.915192,Strand,Strand,$979,$979,(57),74,1,Sicilian Ghost Story,Sicilian-Ghost-Story-(Italy),"$7,063",2
+7,Domestic,12,2018,+9%,2019-01-07 10:08:20.919232,Zeitgeist,Zeitgeist,$905,$226,(75),75,4,Studio 54,Studio-54-(2018),"$186,813",10
+7,Domestic,12,2018,-51%,2019-01-07 10:08:20.923222,Abramorama Films,Abramorama-Films,$484,$484,(73),76,1,Weed the People,Weed-the-People-(2018),"$13,052",7
+7,Domestic,12,2018,,2019-01-07 10:08:20.927211,Music Box Films,Music-Box-Films,$451,$451,(-),77,1,The Apparition,apparition-L-(France-2018),"$27,436",14
+7,Domestic,12,2018,,2019-01-07 10:08:20.932147,Cinema Guild,Cinema-Guild,$419,$419,(-),78,1,"Hale County This Morning, T…",Hale-County-This-Morning-This-Evening-(Documentary),"$36,419",13
+7,Domestic,12,2018,,2019-01-07 10:08:20.936137,Rialto Pictures,Rialto-Pictures,$374,$374,(-),79,1,Senso (1955) (Re-Release),Senso-(Italy)-(1954),"$25,334","2,631"
+7,Domestic,12,2018,+10%,2019-01-07 10:08:20.940126,Film Movement,Film-Movement,$334,$167,(78),80,2,Narcissister Organ Player,Narcissister-Organ-Player-(Documentary)-(2018),"$13,589",5
+7,Domestic,12,2018,-77%,2019-01-07 10:08:20.944116,CFI,CFI,$284,$142,(70),81,2,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$15,760",7
+7,Domestic,12,2018,-86%,2019-01-07 10:08:20.950100,Sony Pictures Classics,Sony-Pictures-Classics,$210,$21,(66),82,10,The Rider,Rider-The-(2017),"$2,418,679",35
+7,Domestic,12,2018,+11%,2019-01-07 10:08:20.954089,Kino Lorber,Kino-Lorber,$144,$72,(80),83,2,Of Fathers and Sons,Kinder-des-Kalifats-(Germany)-(2018),"$6,271",4
+7,Domestic,12,2018,+33%,2019-01-07 10:08:20.958078,Paladin,Paladin,$124,$62,(81),84,2,Weightless,Weightless-(2018),"$4,227",5
+7,Domestic,12,2018,,2019-01-07 10:08:20.962067,Kino Lorber,Kino-Lorber,$102,$102,(-),85,1,Let the Corpses Tan,Laissez-bronzer-les-cadavres-(France-2017),"$93,409",15
+7,Domestic,12,2018,,2019-01-07 10:08:20.967164,Menemsha Entertainment,Menemsha-Entertainment,$64,$64,(-),86,1,1945,1945-(Hungary),"$1,005,555",58
+14,Domestic,12,2018,,2019-01-07 10:08:21.858717,Sony Pictures,Sony-Pictures,"$35,363,376","$9,274",new,1,"3,813",Spider-Man: Into The Spider…,Spider-Man-Into-The-Spider-Verse-3D-(2018),"$35,363,376",1
+14,Domestic,12,2018,,2019-01-07 10:08:21.862663,Warner Bros.,Warner-Bros,"$17,509,431","$6,766",new,2,"2,588",The Mule,Mule-The-(2018),"$17,509,431",1
+14,Domestic,12,2018,-22%,2019-01-07 10:08:21.866654,Universal,Universal,"$11,753,665","$3,127",(2),3,"3,759",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$239,463,375",6
+14,Domestic,12,2018,-43%,2019-01-07 10:08:21.869683,Walt Disney,Walt-Disney,"$9,274,018","$2,594",(1),4,"3,575",Ralph Breaks The Internet,Ralph-Breaks-The-Internet-(2018),"$154,149,896",4
+14,Domestic,12,2018,,2019-01-07 10:08:21.874292,Universal,Universal,"$7,559,850","$2,436",new,5,"3,103",Mortal Engines,Mortal-Engines-(2018),"$7,559,850",1
+14,Domestic,12,2018,-46%,2019-01-07 10:08:21.877664,MGM,MGM,"$5,385,914","$1,733",(3),6,"3,107",Creed II,Creed-II-(2018),"$104,870,060",4
+14,Domestic,12,2018,-30%,2019-01-07 10:08:21.882647,20th Century Fox,20th-Century-Fox,"$4,314,179","$1,949",(5),7,"2,213",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$180,612,379",7
+14,Domestic,12,2018,-34%,2019-01-07 10:08:21.885641,Paramount Pictures,Paramount-Pictures,"$3,790,287","$1,325",(6),8,"2,860",Instant Family,Instant-Family-(2018),"$60,288,341",5
+14,Domestic,12,2018,-46%,2019-01-07 10:08:21.889627,Warner Bros.,Warner-Bros,"$3,789,839","$1,454",(4),9,"2,606",Fantastic Beasts: The Crime…,Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018),"$151,793,249",5
+14,Domestic,12,2018,-29%,2019-01-07 10:08:21.893814,Universal,Universal,"$2,774,630","$2,284",(7),10,"1,215",Green Book,Green-Book-(2018),"$24,654,996",5
+14,Domestic,12,2018,,2019-01-07 10:08:21.897691,20th Century Fox,20th-Century-Fox,"$2,683,200","$1,713",(-),11,"1,566",Once Upon a Deadpool,Deadpool-2,"$322,458,546",31
+14,Domestic,12,2018,+73%,2019-01-07 10:08:21.901561,Fox Searchlight,Fox-Searchlight,"$2,605,484","$5,908",(12),12,441,The Favourite,Favourite-The-(2018),"$6,775,387",4
+14,Domestic,12,2018,-60%,2019-01-07 10:08:21.905646,20th Century Fox,20th-Century-Fox,"$1,269,201","$1,034",(10),13,"1,228",Widows,Widows-(2018),"$40,884,857",5
+14,Domestic,12,2018,-66%,2019-01-07 10:08:21.909587,Lionsgate,Lionsgate,"$1,216,031",$707,(8),14,"1,720",Robin Hood,Robin-Hood-(2018),"$29,799,864",4
+14,Domestic,12,2018,-63%,2019-01-07 10:08:21.913579,Sony Pictures,Sony-Pictures,"$1,184,814",$907,(9),15,"1,307",The Possession of Hannah Grace,Possession-of-Hannah-Grace-The-(2018),"$13,909,719",3
+14,Domestic,12,2018,-58%,2019-01-07 10:08:21.917561,Warner Bros.,Warner-Bros,"$1,040,024","$1,235",(11),16,842,A Star is Born,Star-is-Born-A-(2018),"$199,178,098",11
+14,Domestic,12,2018,+259%,2019-01-07 10:08:21.920555,Focus Features,Focus-Features,"$699,745","$10,602",(25),17,66,Mary Queen of Scots,Mary-Queen-of-Scots-(UK)-(2018),"$962,580",2
+14,Domestic,12,2018,-49%,2019-01-07 10:08:21.924558,Walt Disney,Walt-Disney,"$566,468",$880,(13),18,644,The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$53,668,267",7
+14,Domestic,12,2018,+57%,2019-01-07 10:08:21.928532,Neon,Neon,"$243,694",$750,(27),19,325,Vox Lux,Vox-Lux-(2018),"$432,905",2
+14,Domestic,12,2018,,2019-01-07 10:08:21.932557,Annapurna Pictures,Annapurna-Pictures,"$224,476","$56,119",new,20,4,If Beale Street Could Talk,If-Beale-Street-Could-Talk-(2018),"$224,476",1
+14,Domestic,12,2018,-40%,2019-01-07 10:08:21.936501,CBS Films,CBS-Films,"$191,642","$1,077",(17),21,178,At Eternityâs Gate,At-Eternitys-Gate-(2018),"$1,450,002",5
+14,Domestic,12,2018,-56%,2019-01-07 10:08:21.940497,PackYourBag Films,PackYourBag-Films,"$181,108","$1,829",(16),22,99,Kedarnath,Kedarnath-(India)(2018),"$744,189",2
+14,Domestic,12,2018,+75%,2019-01-07 10:08:21.944518,Roadside Attractions,Roadside-Attractions,"$141,680","$4,886",(36),23,29,Ben is Back,Ben-is-Back-(2018),"$250,611",2
+14,Domestic,12,2018,-46%,2019-01-07 10:08:21.948476,Greenwich,Greenwich,"$141,205","$1,412",(19),24,100,Free Solo,Free-Solo-(Documentary)-(2018),"$10,806,512",12
+14,Domestic,12,2018,-3%,2019-01-07 10:08:21.951467,Orion Pictures,Orion-Pictures,"$138,038","$1,000",(28),25,138,Anna and the Apocalypse,Anna-and-the-Apocalypse-(2018),"$415,733",3
+14,Domestic,12,2018,-47%,2019-01-07 10:08:21.956484,Fox Searchlight,Fox-Searchlight,"$135,344",$815,(21),26,166,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$7,260,204",9
+14,Domestic,12,2018,-56%,2019-01-07 10:08:21.959446,Sony Pictures,Sony-Pictures,"$134,288",$643,(18),27,209,Venom,Venom-(2018),"$212,969,264",11
+14,Domestic,12,2018,-31%,2019-01-07 10:08:21.963395,Warner Bros.,Warner-Bros,"$118,930",$546,(26),28,218,Smallfoot,Smallfoot-(2018),"$82,579,684",12
+14,Domestic,12,2018,+6%,2019-01-07 10:08:21.968483,Magnolia Pictures,Magnolia-Pictures,"$113,386","$2,637",(31),29,43,Shoplifters,Manbiki-kazoku-(Japan)-(2018),"$565,118",4
+14,Domestic,12,2018,-79%,2019-01-07 10:08:21.971406,Focus Features,Focus-Features,"$87,475",$506,(15),30,173,Boy Erased,Boy-Erased-(2018),"$6,646,972",7
+14,Domestic,12,2018,-67%,2019-01-07 10:08:21.976371,Paramount Pictures,Paramount-Pictures,"$85,755",$510,(20),31,168,Nobodyâs Fool,Nobodys-Fool-(2018),"$31,668,693",7
+14,Domestic,12,2018,-74%,2019-01-07 10:08:21.979352,Paramount Pictures,Paramount-Pictures,"$65,116",$376,(22),32,173,Overlord,Overlord-(2018),"$21,665,871",6
+14,Domestic,12,2018,-53%,2019-01-07 10:08:21.982712,20th Century Fox,20th-Century-Fox,"$64,508",$496,(29),33,130,The Hate U Give,Hate-U-Give-The,"$29,563,368",11
+14,Domestic,12,2018,-35%,2019-01-07 10:08:21.986336,Universal,Universal,"$52,545",$542,(35),34,97,Night School,Night-School-(2018),"$77,188,275",12
+14,Domestic,12,2018,-58%,2019-01-07 10:08:21.990324,Fox Searchlight,Fox-Searchlight,"$36,347",$363,(34),35,100,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$11,134,906",12
+14,Domestic,12,2018,-66%,2019-01-07 10:08:21.995312,Amazon Studios,Amazon-Studios,"$34,869",$396,(33),36,88,Beautiful Boy,Beautiful-Boy-(2018),"$7,522,075",10
+14,Domestic,12,2018,,2019-01-07 10:08:22.000298,IFC Films,IFC-Films,"$34,273","$1,071",new,37,32,The House That Jack Built,House-That-Jack-Built-The-(Denmark),"$206,404",1
+14,Domestic,12,2018,-28%,2019-01-07 10:08:22.004287,Universal,Universal,"$31,500",$328,(42),38,96,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$68,475,090",13
+14,Domestic,12,2018,-48%,2019-01-07 10:08:22.009275,Universal,Universal,"$30,500",$424,(37),39,72,First Man,First-Man-(2018),"$44,833,535",10
+14,Domestic,12,2018,-71%,2019-01-07 10:08:22.013263,Sony Pictures Classics,Sony-Pictures-Classics,"$30,174",$487,(32),40,62,Maria by Callas,Maria-by-Callas-(France),"$1,141,365",7
+14,Domestic,12,2018,,2019-01-07 10:08:22.018251,Sony Pictures Classics,Sony-Pictures-Classics,"$24,988","$8,329",new,41,3,Capernaum,Cafarnaum-(Lebanon)-(2018),"$24,988",1
+14,Domestic,12,2018,-56%,2019-01-07 10:08:22.022240,China Lion Film Dis…,China-Lion-Film-Distribution,"$24,779","$1,906",(38),42,13,A Cool Fish,Huang-Qiang-Zou-Ban-(China)-(2018),"$516,472",5
+14,Domestic,12,2018,-56%,2019-01-07 10:08:22.027227,Universal,Universal,"$22,035",$324,(41),43,68,Halloween,Halloween-(2018),"$159,300,595",9
+14,Domestic,12,2018,-90%,2019-01-07 10:08:22.031216,Sony Pictures Classics,Sony-Pictures-Classics,"$21,632",$323,(23),44,67,The Wife,Wife-The-(2018),"$8,152,628",18
+14,Domestic,12,2018,-61%,2019-01-07 10:08:22.036203,Sony Pictures,Sony-Pictures,"$20,417",$246,(40),45,83,The Girl in the Spiderâs Web,Girl-in-the-Spiders-Web-The,"$14,828,555",6
+14,Domestic,12,2018,-67%,2019-01-07 10:08:22.040192,Neon,Neon,"$17,640",$569,(39),46,31,Border,Grans-(Sweden),"$727,151",8
+14,Domestic,12,2018,-50%,2019-01-07 10:08:22.044182,Well Go USA,Well-Go-USA,"$17,152","$1,009",(43),47,17,Burning,Beoning-(South-Korea),"$532,838",8
+14,Domestic,12,2018,-37%,2019-01-07 10:08:22.049168,Aviron Pictures,Aviron-Pictures,"$15,056",$301,(44),48,50,A Private War,Private-War-A-(2018),"$1,598,932",7
+14,Domestic,12,2018,-38%,2019-01-07 10:08:22.053158,Warner Bros.,Warner-Bros,"$13,870",$289,(47),49,48,Crazy Rich Asians,Crazy-Rich-Asians,"$174,008,431",18
+14,Domestic,12,2018,,2019-01-07 10:08:22.057147,GKIDS,GKIDS,"$10,238","$2,560",new,50,4,Never-Ending Man: Hayao Miy…,Owarani-hito-Miyazaki-Hayao-(Japan)-(2016),"$69,609",1
+14,Domestic,12,2018,-58%,2019-01-07 10:08:22.062462,Amazon Studios,Amazon-Studios,"$9,922",$522,(45),51,19,Suspiria,Suspiria-(2018),"$2,474,044",8
+14,Domestic,12,2018,-91%,2019-01-07 10:08:22.066120,Sony Pictures,Sony-Pictures,"$9,887",$187,(30),52,53,The Front Runner,Front-Runner-The-(2018),"$1,994,179",6
+14,Domestic,12,2018,-53%,2019-01-07 10:08:22.069112,Sony Pictures,Sony-Pictures,"$9,740",$244,(48),53,40,Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$46,697,321",10
+14,Domestic,12,2018,-71%,2019-01-07 10:08:22.073101,IFC Films,IFC-Films,"$6,361",$398,(46),54,16,Wildlife,Wildlife-(2018),"$995,825",9
+14,Domestic,12,2018,-62%,2019-01-07 10:08:22.077090,A24,A24,"$5,651",$353,(52),55,16,Mid90s,Mid90s-(2018),"$7,356,627",9
+14,Domestic,12,2018,-48%,2019-01-07 10:08:22.081080,Music Box Films,Music-Box-Films,"$5,233",$403,(55),56,13,Becoming Astrid,Unga-Astrid-(Sweden),"$66,126",4
+14,Domestic,12,2018,-70%,2019-01-07 10:08:22.085068,Well Go USA,Well-Go-USA,"$5,215","$1,304",(51),57,4,Unstoppable,Sungnan-Hwangso-(South-Korea)-(2018),"$98,508",3
+14,Domestic,12,2018,-25%,2019-01-07 10:08:22.089058,Greenwich,Greenwich,"$4,911","$2,456",(56),58,2,The World Before Your Feet,World-Before-Your-Feet-The-(Documentary)-(2018),"$78,383",4
+14,Domestic,12,2018,+106%,2019-01-07 10:08:22.093048,Pure Flix Entertain…,Pure-Flix-Entertainment,"$3,615",$258,(70),60,14,Indivisible,Indivisible-(2018),"$3,500,413",8
+14,Domestic,12,2018,,2019-01-07 10:08:22.097037,Magnolia Pictures,Magnolia-Pictures,"$3,256",$465,new,61,7,The Quake,Skjelvet-(Norway)-(2018),"$3,256",1
+14,Domestic,12,2018,+53%,2019-01-07 10:08:22.100029,Janus Films,Janus-Films,"$3,219","$1,610",(69),62,2,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$109,353",9
+14,Domestic,12,2018,+11%,2019-01-07 10:08:22.104018,Annapurna Pictures,Annapurna-Pictures,"$2,950",$268,(65),63,11,The Sisters Brothers,Sisters-Brothers-The,"$3,140,267",13
+14,Domestic,12,2018,-29%,2019-01-07 10:08:22.108008,Film Movement,Film-Movement,"$2,922","$2,922",(61),64,1,The Charmer,Charmer-The-(Denmark)-(2018),"$10,992",2
+14,Domestic,12,2018,-99%,2019-01-07 10:08:22.111998,GKIDS,GKIDS,"$2,614",$436,(24),65,6,Mirai no Mirai,Mirai-no-Mirai-(Japan)-(2018),"$682,617",3
+14,Domestic,12,2018,-6%,2019-01-07 10:08:22.114989,Abramorama Films,Abramorama-Films,"$2,242",$561,(66),66,4,Liyana,Liyana-(Swaziland),"$23,090",10
+14,Domestic,12,2018,-27%,2019-01-07 10:08:22.118978,IFC Films,IFC-Films,"$2,128",$266,(63),67,8,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$858,960",13
+14,Domestic,12,2018,-81%,2019-01-07 10:08:22.123984,IFC Films,IFC-Films,"$2,034",$291,(54),68,7,Swimming With Men,Swimming-With-Men-(UK)-(2018),"$19,634",2
+14,Domestic,12,2018,-19%,2019-01-07 10:08:22.127954,Cohen Media Group,Cohen-Media-Group,"$1,759",$586,(68),69,3,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$144,199",11
+14,Domestic,12,2018,-85%,2019-01-07 10:08:22.131944,China Lion Film Dis…,China-Lion-Film-Distribution,"$1,662","$1,662",(53),70,1,The Tag Along 2,Hong-Yi-Xiao-Nu-Hai-2-(Taiwan),"$18,870",65
+14,Domestic,12,2018,,2019-01-07 10:08:22.134936,First Run Features,First-Run-Features,"$1,600","$1,600",new,71,1,The Second Time Around,Second-Time-Around-The-(Canada),"$2,976",1
+14,Domestic,12,2018,-93%,2019-01-07 10:08:22.138925,Magnolia Pictures,Magnolia-Pictures,"$1,362",$272,(49),72,5,Divide and Conquer: The Sto…,Divide-and-Conquer-The-Story-of-Roger-Ailes-(Documentary)-(2018),"$33,382",2
+14,Domestic,12,2018,+14%,2019-01-07 10:08:22.142914,Janus Films,Janus-Films,"$1,150","$1,150",(73),73,1,Detour (1945) (Re-Release),Detour-(1945),"$12,185","3,812"
+14,Domestic,12,2018,-79%,2019-01-07 10:08:22.146904,GVN Releasing,GVN-Releasing,$936,$312,(59),74,3,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,679,653",10
+14,Domestic,12,2018,-86%,2019-01-07 10:08:22.149895,Magnolia Pictures,Magnolia-Pictures,$857,$286,(57),75,3,Tyrel,Tyrel-(2018),"$8,968",2
+14,Domestic,12,2018,-84%,2019-01-07 10:08:22.153885,Sony Pictures Classics,Sony-Pictures-Classics,$686,$343,(60),76,2,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$464,495",10
+14,Domestic,12,2018,+41%,2019-01-07 10:08:22.157874,Abramorama Films,Abramorama-Films,$681,$681,(76),77,1,Weed the People,Weed-the-People-(2018),"$14,403",8
+14,Domestic,12,2018,,2019-01-07 10:08:22.160867,First Run Features,First-Run-Features,$579,$290,new,78,2,That Way Madness Lies,That-Way-Madness-Lies-(2018)-(Documentary),$579,1
+14,Domestic,12,2018,+32%,2019-01-07 10:08:22.164856,Rialto Pictures,Rialto-Pictures,$494,$494,(79),79,1,Senso (1955) (Re-Release),Senso-(Italy)-(1954),"$26,700","2,632"
+14,Domestic,12,2018,,2019-01-07 10:08:22.167848,Abramorama Films,Abramorama-Films,$452,$452,(-),80,1,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$230,600",12
+14,Domestic,12,2018,+54%,2019-01-07 10:08:22.171837,CFI,CFI,$437,$219,(81),81,2,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$16,390",8
+14,Domestic,12,2018,-48%,2019-01-07 10:08:22.175826,Film Movement,Film-Movement,$174,$58,(80),82,3,Narcissister Organ Player,Narcissister-Organ-Player-(Documentary)-(2018),"$14,319",6
+14,Domestic,12,2018,+156%,2019-01-07 10:08:22.178996,Menemsha Entertainment,Menemsha-Entertainment,$164,$164,(86),83,1,1945,1945-(Hungary),"$1,005,719",59
+28,Domestic,12,2018,-23%,2019-01-07 10:08:22.942409,Warner Bros.,Warner-Bros,"$52,114,571","$12,634",(1),1,"4,125",Aquaman,Aquaman-(2018),"$189,048,186",2
+28,Domestic,12,2018,+21%,2019-01-07 10:08:22.946400,Walt Disney,Walt-Disney,"$28,353,117","$6,932",(2),2,"4,090",Mary Poppins Returns,Mary-Poppins-Returns-(2018),"$99,263,875",2
+28,Domestic,12,2018,-3%,2019-01-07 10:08:22.950389,Paramount Pictures,Paramount-Pictures,"$20,906,146","$5,889",(3),3,"3,550",Bumblebee,Bumblebee,"$67,184,166",2
+28,Domestic,12,2018,+14%,2019-01-07 10:08:22.953381,Sony Pictures,Sony-Pictures,"$18,794,532","$4,929",(4),4,"3,813",Spider-Man: Into The Spider…,Spider-Man-Into-The-Spider-Verse-3D-(2018),"$104,123,262",3
+28,Domestic,12,2018,+28%,2019-01-07 10:08:22.957370,Warner Bros.,Warner-Bros,"$12,162,024","$4,364",(5),5,"2,787",The Mule,Mule-The-(2018),"$61,109,209",3
+28,Domestic,12,2018,,2019-01-07 10:08:22.961395,Annapurna Pictures,Annapurna-Pictures,"$7,768,371","$3,181",new,6,"2,442",Vice,Vice-(2018),"$17,674,487",1
+28,Domestic,12,2018,,2019-01-07 10:08:22.965447,Sony Pictures,Sony-Pictures,"$7,411,522","$2,670",new,7,"2,776",Holmes & Watson,Holmes-and-Watson-(2018),"$19,817,930",1
+28,Domestic,12,2018,+13%,2019-01-07 10:08:22.970368,STX Entertainment,STX-Entertainment,"$7,359,691","$2,823",(7),8,"2,607",Second Act,Second-Act-(2018),"$21,923,753",2
+28,Domestic,12,2018,+43%,2019-01-07 10:08:22.974365,Walt Disney,Walt-Disney,"$6,726,184","$2,871",(8),9,"2,343",Ralph Breaks The Internet,Ralph-Breaks-The-Internet-(2018),"$175,907,767",6
+28,Domestic,12,2018,-51%,2019-01-07 10:08:22.977356,Universal,Universal,"$4,122,245","$1,613",(6),10,"2,555",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$265,457,730",8
+28,Domestic,12,2018,+19%,2019-01-07 10:08:22.981348,Focus Features,Focus-Features,"$2,703,065","$3,214",(10),11,841,Mary Queen of Scots,Mary-Queen-of-Scots-(UK)-(2018),"$9,054,385",4
+28,Domestic,12,2018,+16%,2019-01-07 10:08:22.985335,Fox Searchlight,Fox-Searchlight,"$2,428,285","$3,002",(11),12,809,The Favourite,Favourite-The-(2018),"$15,249,307",6
+28,Domestic,12,2018,+20%,2019-01-07 10:08:22.989653,20th Century Fox,20th-Century-Fox,"$2,350,527","$2,708",(12),13,868,Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$189,207,042",9
+28,Domestic,12,2018,-5%,2019-01-07 10:08:22.993314,Universal,Universal,"$2,237,545","$1,171",(9),14,"1,911",Welcome to Marwen,Welcome-to-Marwen-(2018),"$7,774,635",2
+28,Domestic,12,2018,+36%,2019-01-07 10:08:22.997301,Universal,Universal,"$1,895,000","$3,052",(15),15,621,Green Book,Green-Book-(2018),"$31,487,816",7
+28,Domestic,12,2018,,2019-01-07 10:08:23.001288,Reliance Entertainment,Reliance-Entertainment,"$1,725,372","$5,732",new,16,301,Simmba,Simmba-(India)-(2018),"$1,725,372",1
+28,Domestic,12,2018,+2%,2019-01-07 10:08:23.005281,MGM,MGM,"$1,584,479","$1,484",(14),17,"1,068",Creed II,Creed-II-(2018),"$112,148,125",6
+28,Domestic,12,2018,-42%,2019-01-07 10:08:23.009272,Universal,Universal,"$1,023,900",$342,(13),18,"2,995",Mortal Engines,Mortal-Engines-(2018),"$14,676,805",3
+28,Domestic,12,2018,+10%,2019-01-07 10:08:23.013272,Warner Bros.,Warner-Bros,"$987,701","$1,918",(16),19,515,Fantastic Beasts: The Crime…,Fantastic-Beasts-The-Crimes-of-Grindelwald-(2018),"$156,549,701",7
+28,Domestic,12,2018,+47%,2019-01-07 10:08:23.016263,Paramount Pictures,Paramount-Pictures,"$954,155","$1,282",(18),20,744,Instant Family,Instant-Family-(2018),"$64,569,930",7
+28,Domestic,12,2018,+601%,2019-01-07 10:08:23.020257,Annapurna Pictures,Annapurna-Pictures,"$766,224","$11,788",(24),21,65,If Beale Street Could Talk,If-Beale-Street-Could-Talk-(2018),"$1,965,034",3
+28,Domestic,12,2018,,2019-01-07 10:08:23.024241,Focus Features,Focus-Features,"$686,355","$20,799",new,22,33,On the Basis of Sex,On-the-Basis-of-Sex-(2018),"$1,497,778",1
+28,Domestic,12,2018,+35%,2019-01-07 10:08:23.027234,Roadside Attractions,Roadside-Attractions,"$538,847","$3,410",(19),23,158,Ben is Back,Ben-is-Back-(2018),"$1,751,312",4
+28,Domestic,12,2018,+41%,2019-01-07 10:08:23.031221,Warner Bros.,Warner-Bros,"$491,971","$2,085",(20),24,236,A Star is Born,Star-is-Born-A-(2018),"$201,033,452",13
+28,Domestic,12,2018,+29%,2019-01-07 10:08:23.035212,Magnolia Pictures,Magnolia-Pictures,"$210,881","$3,574",(22),25,59,Shoplifters,Manbiki-kazoku-(Japan)-(2018),"$1,202,486",6
+28,Domestic,12,2018,-14%,2019-01-07 10:08:23.039198,Walt Disney,Walt-Disney,"$177,533",$814,(21),26,218,The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$54,549,683",9
+28,Domestic,12,2018,+69%,2019-01-07 10:08:23.043192,Warner Bros.,Warner-Bros,"$133,178",$724,(29),27,184,Smallfoot,Smallfoot-(2018),"$82,949,889",14
+28,Domestic,12,2018,+14%,2019-01-07 10:08:23.047167,Greenwich,Greenwich,"$115,059","$1,950",(25),28,59,Free Solo,Free-Solo-(Documentary)-(2018),"$11,217,948",14
+28,Domestic,12,2018,+27%,2019-01-07 10:08:23.050155,Lionsgate,Lionsgate,"$111,479",$590,(27),29,189,Robin Hood,Robin-Hood-(2018),"$30,623,674",6
+28,Domestic,12,2018,+10%,2019-01-07 10:08:23.054146,Sony Pictures,Sony-Pictures,"$93,640",$814,(28),30,115,Venom,Venom-(2018),"$213,298,821",13
+28,Domestic,12,2018,,2019-01-07 10:08:23.058192,Sony Pictures Classics,Sony-Pictures-Classics,"$78,674","$15,735",new,31,5,Stan & Ollie,Stan-and-Ollie-(2018),"$78,674",1
+28,Domestic,12,2018,-20%,2019-01-07 10:08:23.062158,CBS Films,CBS-Films,"$74,910","$1,498",(26),32,50,At Eternityâs Gate,At-Eternitys-Gate-(2018),"$1,834,933",7
+28,Domestic,12,2018,+3%,2019-01-07 10:08:23.066113,Fox Searchlight,Fox-Searchlight,"$68,106","$1,116",(30),33,61,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$7,525,606",11
+28,Domestic,12,2018,+2%,2019-01-07 10:08:23.069111,Sony Pictures,Sony-Pictures,"$56,206",$711,(31),34,79,The Possession of Hannah Grace,Possession-of-Hannah-Grace-The-(2018),"$14,617,002",5
+28,Domestic,12,2018,,2019-01-07 10:08:23.073102,Annapurna Pictures,Annapurna-Pictures,"$55,347","$18,449",new,35,3,Destroyer,Destroyer-(2018),"$112,536",1
+28,Domestic,12,2018,-65%,2019-01-07 10:08:23.077090,20th Century Fox,20th-Century-Fox,"$46,395",$383,(23),36,121,Widows,Widows-(2018),"$41,775,726",7
+28,Domestic,12,2018,-18%,2019-01-07 10:08:23.080089,Amazon Studios,Amazon-Studios,"$44,330","$14,777",(32),37,3,Cold War,Zimna-wojna-(Poland),"$143,546",2
+28,Domestic,12,2018,+55%,2019-01-07 10:08:23.084218,Universal,Universal,"$39,175",$784,(37),38,50,Night School,Night-School-(2018),"$77,312,030",14
+28,Domestic,12,2018,-96%,2019-01-07 10:08:23.088130,20th Century Fox,20th-Century-Fox,"$35,488",$522,(17),39,68,Once Upon a Deadpool,Deadpool-2,"$324,505,097",33
+28,Domestic,12,2018,+26%,2019-01-07 10:08:23.092066,Sony Pictures Classics,Sony-Pictures-Classics,"$29,553","$3,284",(39),40,9,Capernaum,Cafarnaum-(Lebanon)-(2018),"$114,239",3
+28,Domestic,12,2018,+102%,2019-01-07 10:08:23.095760,Universal,Universal,"$27,380",$978,(42),41,28,First Man,First-Man-(2018),"$44,918,635",12
+28,Domestic,12,2018,-43%,2019-01-07 10:08:23.099038,Well Go USA,Well-Go-USA,"$24,969","$1,921",(34),42,13,Swing Kids,Seuwingkizeu-(South-Korea)-(2018),"$135,558",2
+28,Domestic,12,2018,+2%,2019-01-07 10:08:23.103028,Focus Features,Focus-Features,"$22,275",$655,(40),43,34,Boy Erased,Boy-Erased-(2018),"$6,771,102",9
+28,Domestic,12,2018,-55%,2019-01-07 10:08:23.107020,Neon,Neon,"$21,574",$616,(33),44,35,Vox Lux,Vox-Lux-(2018),"$700,058",4
+28,Domestic,12,2018,+22%,2019-01-07 10:08:23.110013,20th Century Fox,20th-Century-Fox,"$21,454",$650,(41),45,33,The Hate U Give,Hate-U-Give-The,"$29,665,141",13
+28,Domestic,12,2018,+66%,2019-01-07 10:08:23.114070,Universal,Universal,"$17,680",$393,(44),46,45,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$68,532,445",15
+28,Domestic,12,2018,+46%,2019-01-07 10:08:23.117997,Amazon Studios,Amazon-Studios,"$14,619",$562,(46),47,26,Beautiful Boy,Beautiful-Boy-(2018),"$7,585,069",12
+28,Domestic,12,2018,+22%,2019-01-07 10:08:23.121985,Fox Searchlight,Fox-Searchlight,"$13,506",$540,(43),48,25,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$11,193,482",14
+28,Domestic,12,2018,+132%,2019-01-07 10:08:23.125969,Greenwich,Greenwich,"$13,114","$1,457",(54),49,9,The World Before Your Feet,World-Before-Your-Feet-The-(Documentary)-(2018),"$108,474",6
+28,Domestic,12,2018,+9%,2019-01-07 10:08:23.129951,Well Go USA,Well-Go-USA,"$11,266","$1,252",(45),50,9,Burning,Beoning-(South-Korea),"$583,763",10
+28,Domestic,12,2018,-72%,2019-01-07 10:08:23.134058,China Lion Film Dis…,China-Lion-Film-Distribution,"$9,934",$828,(35),51,12,Airpocalypse,Tian-Qi-Yu-Bao-(China)(2018),"$87,693",2
+28,Domestic,12,2018,+31%,2019-01-07 10:08:23.137929,Universal,Universal,"$8,960",$390,(50),52,23,Halloween,Halloween-(2018),"$159,335,555",11
+28,Domestic,12,2018,-68%,2019-01-07 10:08:23.141926,PackYourBag Films,PackYourBag-Films,"$8,484","$1,697",(36),53,5,Kedarnath,Kedarnath-(India)(2018),"$893,582",4
+28,Domestic,12,2018,+40%,2019-01-07 10:08:23.145905,Warner Bros.,Warner-Bros,"$7,386",$389,(55),54,19,Crazy Rich Asians,Crazy-Rich-Asians,"$174,517,020",20
+28,Domestic,12,2018,+5%,2019-01-07 10:08:23.149951,Sony Pictures Classics,Sony-Pictures-Classics,"$7,161",$512,(51),55,14,Maria by Callas,Maria-by-Callas-(France),"$1,213,419",9
+28,Domestic,12,2018,-71%,2019-01-07 10:08:23.152956,Orion Pictures,Orion-Pictures,"$7,010",$140,(38),56,50,Anna and the Apocalypse,Anna-and-the-Apocalypse-(2018),"$539,092",5
+28,Domestic,12,2018,+9%,2019-01-07 10:08:23.157835,Neon,Neon,"$6,775",$847,(52),57,8,Border,Grans-(Sweden),"$763,218",10
+28,Domestic,12,2018,-19%,2019-01-07 10:08:23.161822,GKIDS,GKIDS,"$6,503",$591,(48),58,11,Mirai no Mirai,Mirai-no-Mirai-(Japan)-(2018),"$710,865",5
+28,Domestic,12,2018,-2%,2019-01-07 10:08:23.164815,IFC Films,IFC-Films,"$5,837",$486,(53),59,12,The House That Jack Built,House-That-Jack-Built-The-(Denmark),"$240,875",3
+28,Domestic,12,2018,+546%,2019-01-07 10:08:23.169368,IFC Films,IFC-Films,"$4,484","$2,242",(65),61,2,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$867,276",15
+28,Domestic,12,2018,-11%,2019-01-07 10:08:23.172794,IFC Films,IFC-Films,"$4,472",$559,(56),62,8,Wildlife,Wildlife-(2018),"$1,009,068",11
+28,Domestic,12,2018,,2019-01-07 10:08:23.176897,Sony Pictures Classics,Sony-Pictures-Classics,"$2,391",$598,(-),63,4,The Wife,Wife-The-(2018),"$8,197,531",20
+28,Domestic,12,2018,-17%,2019-01-07 10:08:23.181815,Aviron Pictures,Aviron-Pictures,"$2,366",$592,(57),64,4,A Private War,Private-War-A-(2018),"$1,616,952",9
+28,Domestic,12,2018,-6%,2019-01-07 10:08:23.186802,Pure Flix Entertain…,Pure-Flix-Entertainment,"$1,999",$222,(60),65,9,Indivisible,Indivisible-(2018),"$3,509,455",10
+28,Domestic,12,2018,,2019-01-07 10:08:23.190798,Film Movement,Film-Movement,"$1,981","$1,981",(-),66,1,The Charmer,Charmer-The-(Denmark)-(2018),"$14,422",4
+28,Domestic,12,2018,-78%,2019-01-07 10:08:23.194785,Kino Lorber,Kino-Lorber,"$1,844","$1,844",(47),67,1,The Last Resort,Last-Resort-The-(Documentary)-(2018),"$17,572",2
+28,Domestic,12,2018,n/c,2019-01-07 10:08:23.199746,GKIDS,GKIDS,"$1,702",$567,(61),68,3,Never-Ending Man: Hayao Miy…,Owarani-hito-Miyazaki-Hayao-(Japan)-(2016),"$185,772",3
+28,Domestic,12,2018,+17%,2019-01-07 10:08:23.204795,Music Box Films,Music-Box-Films,$905,$453,(63),69,2,Becoming Astrid,Unga-Astrid-(Sweden),"$72,627",6
+28,Domestic,12,2018,-57%,2019-01-07 10:08:23.208737,IFC Films,IFC-Films,$724,$181,(62),70,4,Swimming With Men,Swimming-With-Men-(UK)-(2018),"$24,137",4
+28,Domestic,12,2018,,2019-01-07 10:08:23.212727,Kino Lorber,Kino-Lorber,$584,$292,(-),71,2,Chef Flynn,Chef-Flynn-(Documentary)-(2018),"$66,140",8
+28,Domestic,12,2018,-23%,2019-01-07 10:08:23.216722,Magnolia Pictures,Magnolia-Pictures,$577,$577,(64),72,1,Divide and Conquer: The Sto…,Divide-and-Conquer-The-Story-of-Roger-Ailes-(Documentary)-(2018),"$36,697",4
+28,Domestic,12,2018,,2019-01-07 10:08:23.221699,CFI,CFI,$531,$177,(-),73,3,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$16,921",10
+28,Domestic,12,2018,-49%,2019-01-07 10:08:23.225692,Magnolia Pictures,Magnolia-Pictures,$205,$205,(67),74,1,Tyrel,Tyrel-(2018),"$11,645",4
+2,Domestic,11,2018,,2019-01-07 10:19:42.253476,20th Century Fox,20th-Century-Fox,"$51,061,119","$12,765",new,1,"4,000",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$51,061,119",1
+2,Domestic,11,2018,,2019-01-07 10:19:42.254473,Walt Disney,Walt-Disney,"$20,352,491","$5,404",new,2,"3,766",The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$20,352,491",1
+2,Domestic,11,2018,,2019-01-07 10:19:42.256468,Paramount Pictures,Paramount-Pictures,"$13,743,111","$5,569",new,3,"2,468",Nobodyâs Fool,Nobodys-Fool-(2018),"$13,743,111",1
+2,Domestic,11,2018,-22%,2019-01-07 10:19:42.258463,Warner Bros.,Warner-Bros,"$11,003,083","$3,207",(2),4,"3,431",A Star is Born,Star-is-Born-A-(2018),"$165,537,649",5
+2,Domestic,11,2018,-66%,2019-01-07 10:19:42.259460,Universal,Universal,"$10,830,865","$2,869",(1),5,"3,775",Halloween,Halloween-(2018),"$150,224,570",3
+2,Domestic,11,2018,-26%,2019-01-07 10:19:42.261455,Sony Pictures,Sony-Pictures,"$7,877,174","$2,568",(3),6,"3,067",Venom,Venom-(2018),"$198,690,522",5
+2,Domestic,11,2018,-19%,2019-01-07 10:19:42.263450,Warner Bros.,Warner-Bros,"$3,861,672","$1,929",(8),7,"2,002",Smallfoot,Smallfoot-(2018),"$77,540,973",6
+2,Domestic,11,2018,-48%,2019-01-07 10:19:42.265444,Sony Pictures,Sony-Pictures,"$3,773,720","$1,334",(4),8,"2,828",Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$43,906,036",4
+2,Domestic,11,2018,-47%,2019-01-07 10:19:42.266442,Lionsgate,Lionsgate,"$3,528,129","$1,297",(5),9,"2,720",Hunter Killer,Hunter-Killer,"$12,968,245",2
+2,Domestic,11,2018,-34%,2019-01-07 10:19:42.268437,20th Century Fox,20th-Century-Fox,"$3,353,422","$2,225",(6),10,"1,507",The Hate U Give,Hate-U-Give-The,"$23,414,346",5
+2,Domestic,11,2018,-55%,2019-01-07 10:19:42.269433,Universal,Universal,"$2,184,385","$1,276",(7),11,"1,712",First Man,First-Man-(2018),"$41,974,255",4
+2,Domestic,11,2018,-38%,2019-01-07 10:19:42.271464,Universal,Universal,"$1,990,285","$1,566",(9),12,"1,271",Night School,Night-School-(2018),"$74,385,500",6
+2,Domestic,11,2018,+106%,2019-01-07 10:19:42.273462,Amazon Studios,Amazon-Studios,"$1,345,727","$2,492",(18),13,540,Beautiful Boy,Beautiful-Boy-(2018),"$3,148,969",4
+2,Domestic,11,2018,-55%,2019-01-07 10:19:42.274464,A24,A24,"$1,330,523","$1,220",(10),14,"1,091",Mid90s,Mid90s-(2018),"$5,791,490",3
+2,Domestic,11,2018,-37%,2019-01-07 10:19:42.276455,Focus Features,Focus-Features,"$1,037,230","$1,879",(12),15,552,Johnny English Strikes Again,Johnny-English-Strikes-Again-(2018),"$3,253,995",2
+2,Domestic,11,2018,+190%,2019-01-07 10:19:42.277452,Fox Searchlight,Fox-Searchlight,"$1,032,318","$5,735",(20),16,180,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$1,752,458",3
+2,Domestic,11,2018,-42%,2019-01-07 10:19:42.279453,Fox Searchlight,Fox-Searchlight,"$1,015,902","$1,328",(11),17,765,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$9,186,589",6
+2,Domestic,11,2018,-12%,2019-01-07 10:19:42.281441,Greenwich,Greenwich,"$1,009,425","$2,781",(16),18,363,Free Solo,Free-Solo-(Documentary)-(2018),"$6,893,376",6
+2,Domestic,11,2018,+432%,2019-01-07 10:19:42.282439,Amazon Studios,Amazon-Studios,"$979,882","$3,171",(24),19,309,Suspiria,Suspiria-(2018),"$1,230,739",2
+2,Domestic,11,2018,-49%,2019-01-07 10:19:42.284431,Pure Flix Entertain…,Pure-Flix-Entertainment,"$760,846","$1,025",(13),20,742,Indivisible,Indivisible-(2018),"$2,890,719",2
+2,Domestic,11,2018,-50%,2019-01-07 10:19:42.285429,Universal,Universal,"$526,900","$1,033",(17),21,510,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$67,349,050",7
+2,Domestic,11,2018,-78%,2019-01-07 10:19:42.287426,20th Century Fox,20th-Century-Fox,"$296,514",$921,(15),22,322,Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$17,474,616",4
+2,Domestic,11,2018,-30%,2019-01-07 10:19:42.289418,Warner Bros.,Warner-Bros,"$244,843","$1,177",(21),23,208,Crazy Rich Asians,Crazy-Rich-Asians,"$173,206,603",12
+2,Domestic,11,2018,,2019-01-07 10:19:42.290420,Focus Features,Focus-Features,"$207,057","$41,411",new,24,5,Boy Erased,Boy-Erased-(2018),"$207,057",1
+2,Domestic,11,2018,-46%,2019-01-07 10:19:42.292415,Bleecker Street,Bleecker-Street,"$178,357","$1,372",(22),25,130,Colette,Colette-(2018),"$4,783,042",7
+2,Domestic,11,2018,+22%,2019-01-07 10:19:42.293412,Walt Disney,Walt-Disney,"$168,949","$1,126",(29),26,150,Incredibles 2,Incredibles-2,"$608,109,517",21
+2,Domestic,11,2018,-63%,2019-01-07 10:19:42.295366,GVN Releasing,GVN-Releasing,"$144,714",$542,(19),27,267,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,546,622",4
+2,Domestic,11,2018,+50%,2019-01-07 10:19:42.297401,Walt Disney,Walt-Disney,"$139,933",$848,(33),28,165,Christopher Robin,Christopher-Robin-(2018),"$99,010,982",14
+2,Domestic,11,2018,-25%,2019-01-07 10:19:42.298396,Warner Bros.,Warner-Bros,"$128,890",$611,(26),29,211,The Nun,Nun-The,"$117,277,020",9
+2,Domestic,11,2018,+8%,2019-01-07 10:19:42.300389,IFC Films,IFC-Films,"$116,645","$2,121",(30),30,55,Wildlife,Wildlife-(2018),"$408,325",3
+2,Domestic,11,2018,,2019-01-07 10:19:42.302384,Sony Pictures Classics,Sony-Pictures-Classics,"$91,915","$5,745",new,31,16,Maria by Callas,Maria-by-Callas-(France),"$152,160",1
+2,Domestic,11,2018,+8%,2019-01-07 10:19:42.303383,Sony Pictures Classics,Sony-Pictures-Classics,"$86,296",$312,(36),32,277,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$356,790",4
+2,Domestic,11,2018,+287%,2019-01-07 10:19:42.305380,Well Go USA,Well-Go-USA,"$70,878","$2,444",(52),33,29,Rampant,Changgwol-(South-Korea)-(2018),"$102,432",2
+2,Domestic,11,2018,-76%,2019-01-07 10:19:42.306375,Annapurna Pictures,Annapurna-Pictures,"$66,665",$457,(23),34,146,The Sisters Brothers,Sisters-Brothers-The,"$3,004,912",7
+2,Domestic,11,2018,-33%,2019-01-07 10:19:42.308372,Eros Entertainment,Eros-Entertainment,"$66,524","$1,073",(31),35,62,Andhadhun,Andhadhun-(India)(2018),"$1,193,049",5
+2,Domestic,11,2018,-56%,2019-01-07 10:19:42.309372,Lionsgate,Lionsgate,"$65,631",$643,(28),36,102,A Simple Favor,Simple-Favor-A,"$53,362,121",8
+2,Domestic,11,2018,,2019-01-07 10:19:42.312319,Aviron Pictures,Aviron-Pictures,"$60,491","$15,123",new,37,4,A Private War,Private-War-A-(2018),"$60,491",1
+2,Domestic,11,2018,-26%,2019-01-07 10:19:42.314314,IFC Films,IFC-Films,"$60,053","$1,178",(35),38,51,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$691,104",7
+2,Domestic,11,2018,-34%,2019-01-07 10:19:42.315311,Sony Pictures,Sony-Pictures,"$56,849",$547,(34),39,104,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$167,401,329",17
+2,Domestic,11,2018,-26%,2019-01-07 10:19:42.317305,Neon,Neon,"$54,295","$4,525",(38),40,12,Border,Grans-(Sweden),"$163,056",2
+2,Domestic,11,2018,+108%,2019-01-07 10:19:42.318303,Well Go USA,Well-Go-USA,"$54,234","$9,039",(48),41,6,Burning,Beoning-(South-Korea),"$93,983",2
+2,Domestic,11,2018,,2019-01-07 10:19:42.320297,Independent Artists,Independent-Artists,"$53,000","$3,786",new,42,14,Bodied,Bodied-(2018),"$53,000",1
+2,Domestic,11,2018,-49%,2019-01-07 10:19:42.322292,Sony Pictures Classics,Sony-Pictures-Classics,"$40,441",$825,(37),43,49,The Wife,Wife-The-(2018),"$7,691,644",12
+2,Domestic,11,2018,-34%,2019-01-07 10:19:42.323289,Bleecker Street,Bleecker-Street,"$40,103","$1,084",(39),44,37,What They Had,What-They-Had,"$161,794",3
+2,Domestic,11,2018,,2019-01-07 10:19:42.325284,Self Distributed,Self-Distributed,"$32,952","$2,060",new,45,16,In Search of Greatness,In-Search-of-Greatness-(Documentary)-(2018),"$32,952",1
+2,Domestic,11,2018,-32%,2019-01-07 10:19:42.326282,20th Century Fox,20th-Century-Fox,"$31,689",$440,(40),46,72,The Predator,Predator-The-(2018),"$50,971,245",8
+2,Domestic,11,2018,-10%,2019-01-07 10:19:42.328276,Sony Pictures,Sony-Pictures,"$28,362",$692,(45),47,41,Alpha,Alpha-(2018),"$35,799,576",12
+2,Domestic,11,2018,+280%,2019-01-07 10:19:42.330271,Sony Pictures,Sony-Pictures,"$27,323",$525,(60),48,52,Searching,Searching-(2018),"$25,989,373",11
+2,Domestic,11,2018,+87%,2019-01-07 10:19:42.331268,Roadside Attractions,Roadside-Attractions,"$26,544",$379,(54),49,70,Viper Club,Viper-Club-(2018),"$44,859",2
+2,Domestic,11,2018,-85%,2019-01-07 10:19:42.333263,CBS Films,CBS-Films,"$25,615",$278,(25),50,92,Hell Fest,Hell-Fest-(2018),"$11,099,771",6
+2,Domestic,11,2018,-50%,2019-01-07 10:19:42.335258,Magnolia Pictures,Magnolia-Pictures,"$20,136","$1,184",(42),51,17,The Guilty,Skyldige-Den-(Denmark)-(2018),"$167,909",3
+2,Domestic,11,2018,-18%,2019-01-07 10:19:42.336255,HBO Documentary Films,HBO-Documentary-Films,"$15,589","$2,227",(51),53,7,The Price of Everything,Price-of-Everything-The-(Documentary)-(2018),"$73,476",3
+2,Domestic,11,2018,+129%,2019-01-07 10:19:42.338249,Zipporah,Zipporah,"$13,950","$1,395",(65),54,10,"Monrovia, Indiana",Monrovia-Indiana-(Documentary)-(2018),"$21,930",2
+2,Domestic,11,2018,,2019-01-07 10:19:42.339247,YouTube,YouTube,"$12,685","$2,537",(-),55,5,Museum,Museo-(Mexico),"$148,505",8
+2,Domestic,11,2018,-57%,2019-01-07 10:19:42.341242,Sony Pictures,Sony-Pictures,"$12,331",$325,(46),56,38,White Boy Rick,White-Boy-Rick,"$24,004,833",8
+2,Domestic,11,2018,-50%,2019-01-07 10:19:42.343236,Zeitgeist,Zeitgeist,"$9,810","$1,401",(50),57,7,Studio 54,Studio-54-(2018),"$150,870",5
+2,Domestic,11,2018,+189%,2019-01-07 10:19:42.344233,Cohen Media Group,Cohen-Media-Group,"$8,728","$1,091",(75),58,8,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$46,720",5
+2,Domestic,11,2018,+90%,2019-01-07 10:19:42.346228,Pinnacle Peak,Pinnacle-Peak,"$8,632",$863,(69),59,10,Little Women,Little-Women-(2018),"$1,368,624",6
+2,Domestic,11,2018,,2019-01-07 10:19:42.348223,National Geographic…,National-Geographic-Entertainment,"$7,814",$977,(-),60,8,Science Fair,Science-Fair-(2018),"$250,306",8
+2,Domestic,11,2018,,2019-01-07 10:19:42.349220,RLJ Entertainment,RLJ-Entertainment,"$7,292","$1,458",(-),61,5,Mandy,Mandy-(2018),"$1,214,525",8
+2,Domestic,11,2018,-36%,2019-01-07 10:19:42.351215,Abramorama Films,Abramorama-Films,"$7,212","$1,442",(57),62,5,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$209,354",6
+2,Domestic,11,2018,,2019-01-07 10:19:42.352212,Oscilloscope Pictures,Oscilloscope-Pictures,"$6,500","$6,500",new,63,1,Searching For Ingmar Bergman,Ingmar-Bergman-Vermachtnis-eines-Jahrhundertgenies-(Germany)-(2018),"$6,500",1
+2,Domestic,11,2018,,2019-01-07 10:19:42.354207,Menemsha Entertainment,Menemsha-Entertainment,"$5,973",$996,(-),64,6,1945,1945-(Hungary),"$995,578",53
+2,Domestic,11,2018,-34%,2019-01-07 10:19:42.356202,Janus Films,Janus-Films,"$4,600","$2,300",(61),65,2,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$44,128",3
+2,Domestic,11,2018,-6%,2019-01-07 10:19:42.357199,Pure Flix Entertain…,Pure-Flix-Entertainment,"$4,399",$400,(68),66,11,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$6,204,263",8
+2,Domestic,11,2018,,2019-01-07 10:19:42.359193,Film Movement,Film-Movement,"$4,088","$4,088",(-),67,1,Bye Bye Germany,Es-war-einmal-in-Deutschland-(Germany),"$72,365",30
+2,Domestic,11,2018,-90%,2019-01-07 10:19:42.360191,Rialto Pictures,Rialto-Pictures,"$3,746",$624,(43),68,6,The Fog (1980) (Re-Release),Fog-The-(1980),"$21,442,390","2,023"
+2,Domestic,11,2018,-7%,2019-01-07 10:19:42.362186,Rialto Pictures,Rialto-Pictures,"$3,711","$3,711",(71),69,1,Senso (1955) (Re-Release),Senso-(Italy)-(1954),"$11,947","2,626"
+2,Domestic,11,2018,-31%,2019-01-07 10:19:42.364180,Magnolia Pictures,Magnolia-Pictures,"$3,297",$550,(67),70,6,Kusama: Infinity,Kusama-Infinity,"$336,610",9
+2,Domestic,11,2018,,2019-01-07 10:19:42.365177,Film Movement,Film-Movement,"$2,971",$594,(-),71,5,I am Not a Witch,I-am-Not-a-Witch-(UK),"$49,405",9
+2,Domestic,11,2018,-4%,2019-01-07 10:19:42.367172,IFC Films,IFC-Films,"$2,598",$650,(76),72,4,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$522,878",10
+2,Domestic,11,2018,-72%,2019-01-07 10:19:42.368169,Magnolia Pictures,Magnolia-Pictures,"$2,227",$247,(59),73,9,"Love, Gilda",Love-Gilda-(Documentary)-(2018),"$619,076",7
+2,Domestic,11,2018,-99%,2019-01-07 10:19:42.370164,GVN Releasing,GVN-Releasing,"$2,144",$67,(27),74,32,London Fields,London-Fields,"$249,796",2
+2,Domestic,11,2018,-5%,2019-01-07 10:19:42.372195,Strand,Strand,"$2,109","$1,055",(80),75,2,The Cakemaker,Cakemaker-The-(Germany-Israel),"$874,584",19
+2,Domestic,11,2018,-85%,2019-01-07 10:19:42.374193,GVN Releasing,GVN-Releasing,"$1,907",$477,(56),76,4,Shine,Shine-(2018),"$332,833",5
+2,Domestic,11,2018,-72%,2019-01-07 10:19:42.375192,CFI,CFI,"$1,840",$920,(63),77,2,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$11,900",2
+2,Domestic,11,2018,,2019-01-07 10:19:42.377186,Film Movement,Film-Movement,"$1,615",$404,(-),78,4,Antonio Lopez 1970: Sex Fas…,Antonio-Lopez-1970-Sex-Fashion-and-Disco-(Documentary),"$40,650",8
+2,Domestic,11,2018,-36%,2019-01-07 10:19:42.379141,Freestyle Releasing,Freestyle-Releasing,"$1,545",$309,(78),79,5,God Bless the Broken Road,God-Bless-the-Broken-Road,"$2,844,550",9
+2,Domestic,11,2018,-14%,2019-01-07 10:19:42.380173,IFC Films,IFC-Films,"$1,535",$256,(83),80,6,Blaze,Blaze-(2018),"$688,308",12
+2,Domestic,11,2018,-5%,2019-01-07 10:19:42.382167,Abramorama Films,Abramorama-Films,"$1,372","$1,372",(86),81,1,Horn From the Heart: The Pa…,Horn-From-the-Heart-The-Paul-Butterfield-Story-(Documentary),"$8,462",3
+2,Domestic,11,2018,,2019-01-07 10:19:42.384163,Kino Lorber,Kino-Lorber,"$1,355",$678,(-),82,2,A Paris Education,Mes-provinciales-(France),"$19,568",10
+2,Domestic,11,2018,+323%,2019-01-07 10:19:42.385160,Sony Pictures Classics,Sony-Pictures-Classics,"$1,213",$404,(100),83,3,The Rider,Rider-The-(2017),"$2,404,646",30
+2,Domestic,11,2018,-72%,2019-01-07 10:19:42.387155,Abramorama Films,Abramorama-Films,"$1,177",$589,(70),84,2,Weed the People,Weed-the-People-(2018),"$7,290",2
+2,Domestic,11,2018,-49%,2019-01-07 10:19:42.388152,The Orchard,Orchard-The,"$1,042",$208,(82),85,5,All About Nina,All-About-Nina-(2018),"$100,335",6
+2,Domestic,11,2018,-7%,2019-01-07 10:19:42.390151,MGM,MGM,$793,$264,(92),86,3,Operation Finale,Operation-Finale-(2018),"$17,611,017",10
+2,Domestic,11,2018,-79%,2019-01-07 10:19:42.392147,Barn Owl,Barn-Owl,$701,$351,(74),87,2,Saving Brinton,Saving-Brinton,"$55,430",59
+2,Domestic,11,2018,-82%,2019-01-07 10:19:42.393143,Sony Pictures Classics,Sony-Pictures-Classics,$686,$343,(73),88,2,Puzzle,Puzzle-(2018),"$2,028,346",15
+2,Domestic,11,2018,-45%,2019-01-07 10:19:42.395137,ArtAffects,ArtAffects,$658,$329,(90),89,2,Beautifully Broken,Beautifully-Broken,"$1,209,501",11
+2,Domestic,11,2018,-73%,2019-01-07 10:19:42.397130,GKIDS,GKIDS,$615,$615,(79),90,1,MFKZ,Mutafukaz-(France),"$228,991",4
+2,Domestic,11,2018,,2019-01-07 10:19:42.398125,Music Box Films,Music-Box-Films,$587,$587,(-),91,1,Memoir of War,douleur-La-(France),"$96,540",12
+2,Domestic,11,2018,-93%,2019-01-07 10:19:42.400121,Eros Entertainment,Eros-Entertainment,$474,$7,(62),92,71,Namaste England,Namaste-England-(India)(2018),"$104,079",3
+2,Domestic,11,2018,,2019-01-07 10:19:42.401117,Music Box Films,Music-Box-Films,$471,$471,(-),93,1,The Apparition,apparition-L-(France-2018),"$26,802",9
+2,Domestic,11,2018,,2019-01-07 10:19:42.403116,Music Box Films,Music-Box-Films,$430,$215,(-),94,2,The Captain,Hauptmann-Der-(Germany),"$108,612",15
+2,Domestic,11,2018,+310%,2019-01-07 10:19:42.405108,Paladin,Paladin,$369,$369,(102),95,1,Stellaâs Last Weekend,Stella-s-Last-Weekend-(2018),"$4,180",4
+2,Domestic,11,2018,-96%,2019-01-07 10:19:42.406109,Self Distributed,Self-Distributed,$282,$282,(64),96,1,Bullitt County,Bullitt-County-(2018),"$10,442",2
+2,Domestic,11,2018,,2019-01-07 10:19:42.408104,Indican Pictures,Indican-Pictures,$250,$250,(-),97,1,In Echo Park,In-Echo-Park-(2018),"$6,484",4
+2,Domestic,11,2018,-63%,2019-01-07 10:19:42.410100,Indican Pictures,Indican-Pictures,$182,$182,(97),98,1,Painless,Painless-(2018),"$6,940",7
+2,Domestic,11,2018,+108%,2019-01-07 10:19:42.411095,Eros Entertainment,Eros-Entertainment,$123,$2,(103),99,70,Helicopter Eela,Helicopter-Eela-(India)(2018),"$71,971",4
+2,Domestic,11,2018,-85%,2019-01-07 10:19:42.413088,IFC Films,IFC-Films,$116,$58,(94),100,2,Black 47,Black-47-(Ireland)-(2018),"$47,817",6
+2,Domestic,11,2018,-78%,2019-01-07 10:19:42.415080,Abramorama Films,Abramorama-Films,$90,$45,(99),101,2,Liyana,Liyana-(Swaziland),"$9,184",4
+9,Domestic,11,2018,,2019-01-07 10:19:43.186883,Universal,Universal,"$67,572,855","$16,318",new,1,"4,141",Dr. Seussâ The Grinch,Dr-Seuss-The-Grinch-(2018),"$67,572,855",1
+9,Domestic,11,2018,-39%,2019-01-07 10:19:43.188908,20th Century Fox,20th-Century-Fox,"$31,201,568","$7,800",(1),2,"4,000",Bohemian Rhapsody,Bohemian-Rhapsody-(2018),"$100,362,116",2
+9,Domestic,11,2018,,2019-01-07 10:19:43.189875,Paramount Pictures,Paramount-Pictures,"$10,202,108","$3,568",new,3,"2,859",Overlord,Overlord-(2018),"$10,202,108",1
+9,Domestic,11,2018,-50%,2019-01-07 10:19:43.191870,Walt Disney,Walt-Disney,"$10,086,869","$2,678",(2),4,"3,766",The Nutcracker and the Four…,Nutcracker-and-the-Four-Realms-The-(2018),"$35,778,403",2
+9,Domestic,11,2018,-26%,2019-01-07 10:19:43.192867,Warner Bros.,Warner-Bros,"$8,105,163","$2,846",(4),5,"2,848",A Star is Born,Star-is-Born-A-(2018),"$178,115,551",6
+9,Domestic,11,2018,,2019-01-07 10:19:43.194862,Sony Pictures,Sony-Pictures,"$7,810,112","$2,666",new,6,"2,929",The Girl in the Spiderâs Web,Girl-in-the-Spiders-Web-The,"$7,810,112",1
+9,Domestic,11,2018,-52%,2019-01-07 10:19:43.196856,Paramount Pictures,Paramount-Pictures,"$6,636,242","$2,689",(3),7,"2,468",Nobodyâs Fool,Nobodys-Fool-(2018),"$24,372,350",2
+9,Domestic,11,2018,-38%,2019-01-07 10:19:43.197854,Sony Pictures,Sony-Pictures,"$4,915,378","$2,091",(6),8,"2,351",Venom,Venom-(2018),"$206,298,981",6
+9,Domestic,11,2018,-63%,2019-01-07 10:19:43.199849,Universal,Universal,"$3,998,885","$1,472",(5),9,"2,717",Halloween,Halloween-(2018),"$156,968,730",4
+9,Domestic,11,2018,-39%,2019-01-07 10:19:43.200846,20th Century Fox,20th-Century-Fox,"$2,051,363","$1,851",(10),10,"1,108",The Hate U Give,Hate-U-Give-The,"$26,687,246",6
+9,Domestic,11,2018,-61%,2019-01-07 10:19:43.202841,Warner Bros.,Warner-Bros,"$1,508,102","$1,144",(7),11,"1,318",Smallfoot,Smallfoot-(2018),"$80,309,655",7
+9,Domestic,11,2018,+8%,2019-01-07 10:19:43.203838,Amazon Studios,Amazon-Studios,"$1,450,661","$1,869",(13),12,776,Beautiful Boy,Beautiful-Boy-(2018),"$5,227,614",5
+9,Domestic,11,2018,+40%,2019-01-07 10:19:43.205832,Fox Searchlight,Fox-Searchlight,"$1,442,422","$3,689",(16),13,391,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$3,577,399",4
+9,Domestic,11,2018,,2019-01-07 10:19:43.206830,Yash Raj Films,Yash-Raj-Films,"$1,185,386","$3,144",new,14,377,Thugs of Hindostan,Thugs-of-Hindostan-(India)-(2018),"$1,449,848",1
+9,Domestic,11,2018,-50%,2019-01-07 10:19:43.208824,Universal,Universal,"$1,000,260","$1,395",(12),15,717,Night School,Night-School-(2018),"$75,997,005",7
+9,Domestic,11,2018,-58%,2019-01-07 10:19:43.210819,Universal,Universal,"$918,060","$1,126",(11),16,815,First Man,First-Man-(2018),"$43,730,765",5
+9,Domestic,11,2018,-76%,2019-01-07 10:19:43.211816,Sony Pictures,Sony-Pictures,"$886,978",$584,(8),17,"1,519",Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$45,867,822",5
+9,Domestic,11,2018,+266%,2019-01-07 10:19:43.213811,Focus Features,Focus-Features,"$758,173","$9,846",(24),18,77,Boy Erased,Boy-Erased-(2018),"$1,031,337",2
+9,Domestic,11,2018,-25%,2019-01-07 10:19:43.215806,Greenwich,Greenwich,"$758,127","$2,850",(18),19,266,Free Solo,Free-Solo-(Documentary)-(2018),"$8,143,743",7
+9,Domestic,11,2018,-79%,2019-01-07 10:19:43.216803,Lionsgate,Lionsgate,"$726,230",$759,(9),20,957,Hunter Killer,Hunter-Killer,"$15,202,381",3
+9,Domestic,11,2018,-55%,2019-01-07 10:19:43.218798,Fox Searchlight,Fox-Searchlight,"$457,211","$1,157",(17),21,395,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$10,218,046",7
+9,Domestic,11,2018,-70%,2019-01-07 10:19:43.219795,A24,A24,"$401,506","$1,181",(14),22,340,Mid90s,Mid90s-(2018),"$6,818,996",4
+9,Domestic,11,2018,-63%,2019-01-07 10:19:43.221790,Amazon Studios,Amazon-Studios,"$366,600","$1,405",(19),23,261,Suspiria,Suspiria-(2018),"$1,945,156",3
+9,Domestic,11,2018,-66%,2019-01-07 10:19:43.223784,Focus Features,Focus-Features,"$357,125","$1,870",(15),24,191,Johnny English Strikes Again,Johnny-English-Strikes-Again-(2018),"$3,991,270",3
+9,Domestic,11,2018,-42%,2019-01-07 10:19:43.224782,Universal,Universal,"$306,795","$1,092",(21),25,281,The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$67,812,775",8
+9,Domestic,11,2018,-8%,2019-01-07 10:19:43.226776,Warner Bros.,Warner-Bros,"$226,254","$1,088",(23),26,208,Crazy Rich Asians,Crazy-Rich-Asians,"$173,517,672",13
+9,Domestic,11,2018,+225%,2019-01-07 10:19:43.227774,Aviron Pictures,Aviron-Pictures,"$196,585","$5,173",(37),27,38,A Private War,Private-War-A-(2018),"$279,028",2
+9,Domestic,11,2018,-78%,2019-01-07 10:19:43.229768,Pure Flix Entertain…,Pure-Flix-Entertainment,"$165,814",$821,(20),28,202,Indivisible,Indivisible-(2018),"$3,372,507",3
+9,Domestic,11,2018,+12%,2019-01-07 10:19:43.231763,IFC Films,IFC-Films,"$130,945","$1,247",(30),29,105,Wildlife,Wildlife-(2018),"$599,413",4
+9,Domestic,11,2018,-27%,2019-01-07 10:19:43.232760,Walt Disney,Walt-Disney,"$122,819",$877,(26),30,140,Incredibles 2,Incredibles-2,"$608,276,278",22
+9,Domestic,11,2018,+6%,2019-01-07 10:19:43.234755,Sony Pictures Classics,Sony-Pictures-Classics,"$97,587","$3,753",(31),31,26,Maria by Callas,Maria-by-Callas-(France),"$308,969",2
+9,Domestic,11,2018,-68%,2019-01-07 10:19:43.235752,20th Century Fox,20th-Century-Fox,"$95,182",$768,(22),32,124,Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$17,697,476",5
+9,Domestic,11,2018,-49%,2019-01-07 10:19:43.237747,Bleecker Street,Bleecker-Street,"$90,696","$1,120",(25),33,81,Colette,Colette-(2018),"$4,963,683",8
+9,Domestic,11,2018,,2019-01-07 10:19:43.238744,China Lion Film Dis…,China-Lion-Film-Distribution,"$80,485","$4,471",new,34,18,Last Letter,Ni-Hao-Zhi-Hua-(China)-(2018),"$80,485",1
+9,Domestic,11,2018,+41%,2019-01-07 10:19:43.240739,Well Go USA,Well-Go-USA,"$76,608","$2,837",(41),35,27,Burning,Beoning-(South-Korea),"$195,760",3
+9,Domestic,11,2018,+5%,2019-01-07 10:19:43.242734,Lionsgate,Lionsgate,"$69,012",$543,(36),36,127,A Simple Favor,Simple-Favor-A,"$53,464,279",9
+9,Domestic,11,2018,-53%,2019-01-07 10:19:43.243731,Walt Disney,Walt-Disney,"$65,186",$534,(28),37,122,Christopher Robin,Christopher-Robin-(2018),"$99,113,970",15
+9,Domestic,11,2018,-50%,2019-01-07 10:19:43.245726,Warner Bros.,Warner-Bros,"$63,978",$303,(29),38,211,The Nun,Nun-The,"$117,379,749",10
+9,Domestic,11,2018,,2019-01-07 10:19:43.247720,Sony Pictures,Sony-Pictures,"$51,543","$12,886",new,39,4,The Front Runner,Front-Runner-The-(2018),"$71,742",1
+9,Domestic,11,2018,-11%,2019-01-07 10:19:43.248718,Neon,Neon,"$48,196","$3,213",(40),40,15,Border,Grans-(Sweden),"$246,709",3
+9,Domestic,11,2018,-9%,2019-01-07 10:19:43.250713,Bleecker Street,Bleecker-Street,"$36,464",$688,(44),41,53,What They Had,What-They-Had,"$223,210",4
+9,Domestic,11,2018,-39%,2019-01-07 10:19:43.251710,IFC Films,IFC-Films,"$36,445",$985,(38),42,37,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$761,627",8
+9,Domestic,11,2018,-37%,2019-01-07 10:19:43.253704,Sony Pictures,Sony-Pictures,"$36,011",$445,(39),43,81,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$167,450,959",18
+9,Domestic,11,2018,-26%,2019-01-07 10:19:43.255699,Sony Pictures Classics,Sony-Pictures-Classics,"$29,939",$855,(43),44,35,The Wife,Wife-The-(2018),"$7,741,847",13
+9,Domestic,11,2018,,2019-01-07 10:19:43.256696,Kino Lorber,Kino-Lorber,"$29,869","$29,869",new,45,1,Chef Flynn,Chef-Flynn-(Documentary)-(2018),"$29,869",1
+9,Domestic,11,2018,-46%,2019-01-07 10:19:43.258691,Independent Artists,Independent-Artists,"$28,464","$1,674",(42),46,17,Bodied,Bodied-(2018),"$100,116",2
+9,Domestic,11,2018,-58%,2019-01-07 10:19:43.259688,Annapurna Pictures,Annapurna-Pictures,"$27,953",$269,(34),47,104,The Sisters Brothers,Sisters-Brothers-The,"$3,073,224",8
+9,Domestic,11,2018,,2019-01-07 10:19:43.261683,The Orchard,Orchard-The,"$23,348","$11,674",new,48,2,El Angel,Angel-El-(Argentina)-(2018),"$23,348",1
+9,Domestic,11,2018,-25%,2019-01-07 10:19:43.263678,Sony Pictures,Sony-Pictures,"$21,308",$576,(47),49,37,Alpha,Alpha-(2018),"$35,829,745",13
+9,Domestic,11,2018,-77%,2019-01-07 10:19:43.264675,Sony Pictures Classics,Sony-Pictures-Classics,"$19,724",$270,(32),50,73,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$432,023",5
+9,Domestic,11,2018,-45%,2019-01-07 10:19:43.266670,20th Century Fox,20th-Century-Fox,"$17,307",$402,(46),51,43,The Predator,Predator-The-(2018),"$50,998,804",9
+9,Domestic,11,2018,+90%,2019-01-07 10:19:43.268665,Cohen Media Group,Cohen-Media-Group,"$16,569","$1,184",(58),52,14,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$67,386",6
+9,Domestic,11,2018,-78%,2019-01-07 10:19:43.269662,Well Go USA,Well-Go-USA,"$15,478","$1,720",(33),53,9,Rampant,Changgwol-(South-Korea)-(2018),"$156,394",3
+9,Domestic,11,2018,-46%,2019-01-07 10:19:43.271657,Sony Pictures,Sony-Pictures,"$14,721",$387,(48),54,38,Searching,Searching-(2018),"$26,015,149",12
+9,Domestic,11,2018,-92%,2019-01-07 10:19:43.273651,GVN Releasing,GVN-Releasing,"$11,847",$359,(27),55,33,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,635,098",5
+9,Domestic,11,2018,-37%,2019-01-07 10:19:43.274648,Zipporah,Zipporah,"$8,804",$880,(54),56,10,"Monrovia, Indiana",Monrovia-Indiana-(Documentary)-(2018),"$36,334",3
+9,Domestic,11,2018,-74%,2019-01-07 10:19:43.276643,Self Distributed,Self-Distributed,"$8,463",$846,(45),58,10,In Search of Greatness,In-Search-of-Greatness-(Documentary)-(2018),"$54,192",2
+9,Domestic,11,2018,,2019-01-07 10:19:43.277640,AMBI,AMBI,"$8,090",$159,new,59,51,Here and Now,Here-and-Now-(2018),"$8,090",1
+9,Domestic,11,2018,,2019-01-07 10:19:43.279636,Cinedigm,Cinedigm,"$6,349",$317,new,60,20,River Runs Red,River-Runs-Red-(2018),"$6,349",1
+9,Domestic,11,2018,-70%,2019-01-07 10:19:43.281630,Magnolia Pictures,Magnolia-Pictures,"$6,036",$377,(51),61,16,The Guilty,Skyldige-Den-(Denmark)-(2018),"$184,010",4
+9,Domestic,11,2018,,2019-01-07 10:19:43.282627,Universal,Universal,"$4,667","$4,667",new,62,1,The Long Dumb Road,Long-Dumb-Road-The-(2018),"$4,667",1
+9,Domestic,11,2018,+196%,2019-01-07 10:19:43.284622,IFC Films,IFC-Films,"$4,545","$1,515",(80),63,3,Blaze,Blaze-(2018),"$693,739",13
+9,Domestic,11,2018,+576%,2019-01-07 10:19:43.286616,Music Box Films,Music-Box-Films,"$3,971","$1,324",(91),64,3,Memoir of War,douleur-La-(France),"$101,195",13
+9,Domestic,11,2018,-24%,2019-01-07 10:19:43.287614,Janus Films,Janus-Films,"$3,513","$3,513",(65),65,1,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$56,058",4
+9,Domestic,11,2018,-78%,2019-01-07 10:19:43.289608,HBO Documentary Films,HBO-Documentary-Films,"$3,425","$1,142",(53),66,3,The Price of Everything,Price-of-Everything-The-(Documentary)-(2018),"$85,277",4
+9,Domestic,11,2018,,2019-01-07 10:19:43.290606,Indican Pictures,Indican-Pictures,"$3,090","$1,545",new,67,2,In Searching,In-Searching-(2018),"$3,090",1
+9,Domestic,11,2018,-69%,2019-01-07 10:19:43.292600,Pinnacle Peak,Pinnacle-Peak,"$2,691",$224,(59),68,12,Little Women,Little-Women-(2018),"$1,376,778",7
+9,Domestic,11,2018,,2019-01-07 10:19:43.293598,Strand,Strand,"$2,686","$2,686",new,69,1,Postcards From London,Postcards-From-London-(UK),"$2,686",1
+9,Domestic,11,2018,+93%,2019-01-07 10:19:43.295593,Abramorama Films,Abramorama-Films,"$2,650","$2,650",(81),70,1,Horn From the Heart: The Pa…,Horn-From-the-Heart-The-Paul-Butterfield-Story-(Documentary),"$15,356",4
+9,Domestic,11,2018,-30%,2019-01-07 10:19:43.297588,Rialto Pictures,Rialto-Pictures,"$2,592","$2,592",(69),71,1,Senso (1955) (Re-Release),Senso-(Italy)-(1954),"$18,139","2,627"
+9,Domestic,11,2018,,2019-01-07 10:19:43.299582,Paladin,Paladin,"$2,515","$1,258",new,72,2,Weightless,Weightless-(2018),"$2,515",1
+9,Domestic,11,2018,"+2,574%",2019-01-07 10:19:43.300579,Abramorama Films,Abramorama-Films,"$2,407",$802,(101),73,3,Liyana,Liyana-(Swaziland),"$11,804",5
+9,Domestic,11,2018,-61%,2019-01-07 10:19:43.302574,Menemsha Entertainment,Menemsha-Entertainment,"$2,331",$389,(64),74,6,1945,1945-(Hungary),"$1,002,918",54
+9,Domestic,11,2018,-13%,2019-01-07 10:19:43.303571,IFC Films,IFC-Films,"$2,272",$568,(72),75,4,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$526,464",11
+9,Domestic,11,2018,-72%,2019-01-07 10:19:43.305566,Abramorama Films,Abramorama-Films,"$2,024","$1,012",(62),76,2,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$215,287",7
+9,Domestic,11,2018,,2019-01-07 10:19:43.307561,Film Movement,Film-Movement,"$1,983","$1,983",new,77,1,Narcissister Organ Player,Narcissister-Organ-Player-(Documentary)-(2018),"$3,681",1
+9,Domestic,11,2018,-58%,2019-01-07 10:19:43.308558,Pure Flix Entertain…,Pure-Flix-Entertainment,"$1,860",$465,(66),78,4,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$6,208,365",9
+9,Domestic,11,2018,-54%,2019-01-07 10:19:43.310553,Magnolia Pictures,Magnolia-Pictures,"$1,516",$758,(70),79,2,Kusama: Infinity,Kusama-Infinity,"$339,757",10
+9,Domestic,11,2018,-62%,2019-01-07 10:19:43.312548,Rialto Pictures,Rialto-Pictures,"$1,408",$469,(68),80,3,The Fog (1980) (Re-Release),Fog-The-(1980),"$21,445,318","2,024"
+9,Domestic,11,2018,-39%,2019-01-07 10:19:43.314542,Magnolia Pictures,Magnolia-Pictures,"$1,367",$456,(73),81,3,"Love, Gilda",Love-Gilda-(Documentary)-(2018),"$624,211",8
+9,Domestic,11,2018,"+1,066%",2019-01-07 10:19:43.315539,IFC Films,IFC-Films,"$1,353",$677,(100),82,2,Black 47,Black-47-(Ireland)-(2018),"$49,281",7
+9,Domestic,11,2018,,2019-01-07 10:19:43.317534,Kino Lorber,Kino-Lorber,$857,$857,(-),83,1,Let the Corpses Tan,Laissez-bronzer-les-cadavres-(France-2017),"$92,681",11
+9,Domestic,11,2018,-97%,2019-01-07 10:19:43.318531,Roadside Attractions,Roadside-Attractions,$752,$125,(49),84,6,Viper Club,Viper-Club-(2018),"$59,882",3
+9,Domestic,11,2018,-57%,2019-01-07 10:19:43.320526,Film Movement,Film-Movement,$692,$692,(78),85,1,Antonio Lopez 1970: Sex Fas…,Antonio-Lopez-1970-Sex-Fashion-and-Disco-(Documentary),"$42,240",9
+9,Domestic,11,2018,-6%,2019-01-07 10:19:43.322520,Sony Pictures Classics,Sony-Pictures-Classics,$645,$323,(88),86,2,Puzzle,Puzzle-(2018),"$2,029,340",16
+9,Domestic,11,2018,-68%,2019-01-07 10:19:43.323518,CFI,CFI,$591,$296,(77),87,2,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$13,115",3
+9,Domestic,11,2018,-40%,2019-01-07 10:19:43.325512,MGM,MGM,$479,$120,(86),88,4,Operation Finale,Operation-Finale-(2018),"$17,611,940",11
+9,Domestic,11,2018,-85%,2019-01-07 10:19:43.326510,Film Movement,Film-Movement,$444,$222,(71),89,2,I am Not a Witch,I-am-Not-a-Witch-(UK),"$50,057",10
+9,Domestic,11,2018,,2019-01-07 10:19:43.328504,Doppelganger Releasing,Doppelganger-Releasing,$356,$178,(-),90,2,Heavy Trip,Hevi-reissu-(Finland),"$9,713",6
+9,Domestic,11,2018,-73%,2019-01-07 10:19:43.330499,Sony Pictures Classics,Sony-Pictures-Classics,$324,$324,(83),91,1,The Rider,Rider-The-(2017),"$2,405,866",31
+9,Domestic,11,2018,-83%,2019-01-07 10:19:43.331496,Kino Lorber,Kino-Lorber,$228,$228,(82),92,1,A Paris Education,Mes-provinciales-(France),"$19,796",11
+9,Domestic,11,2018,,2019-01-07 10:19:43.333491,First Run Features,First-Run-Features,$140,$140,(-),93,1,The Lost Village,Lost-Village-The-(Documentary)-(2018),"$1,660",4
+9,Domestic,11,2018,-62%,2019-01-07 10:19:43.335486,Self Distributed,Self-Distributed,$106,$106,(96),94,1,Bullitt County,Bullitt-County-(2018),"$10,801",3
+9,Domestic,11,2018,-94%,2019-01-07 10:19:43.336483,Abramorama Films,Abramorama-Films,$66,$66,(84),95,1,Weed the People,Weed-the-People-(2018),"$8,503",3
+5,Domestic,10,2018,,2019-01-07 10:21:41.157637,Sony Pictures,Sony-Pictures,"$80,255,756","$18,884",new,1,"4,250",Venom,Venom-(2018),"$80,255,756",1
+5,Domestic,10,2018,,2019-01-07 10:21:41.159631,Warner Bros.,Warner-Bros,"$42,908,051","$11,641",new,2,"3,686",A Star is Born,Star-is-Born-A-(2018),"$44,258,051",1
+5,Domestic,10,2018,-38%,2019-01-07 10:21:41.161629,Warner Bros.,Warner-Bros,"$14,402,559","$3,486",(2),3,"4,131",Smallfoot,Smallfoot-(2018),"$42,263,504",2
+5,Domestic,10,2018,-54%,2019-01-07 10:21:41.162625,Universal,Universal,"$12,514,925","$4,145",(1),4,"3,019",Night School,Night-School-(2018),"$46,991,280",2
+5,Domestic,10,2018,-42%,2019-01-07 10:21:41.164620,Universal,Universal,"$7,332,665","$2,117",(3),5,"3,463",The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$55,089,225",3
+5,Domestic,10,2018,-48%,2019-01-07 10:21:41.165617,Lionsgate,Lionsgate,"$3,424,954","$1,422",(4),6,"2,408",A Simple Favor,Simple-Favor-A,"$49,004,310",4
+5,Domestic,10,2018,-50%,2019-01-07 10:21:41.167612,Warner Bros.,Warner-Bros,"$2,703,281","$1,194",(5),7,"2,264",The Nun,Nun-The,"$113,460,591",5
+5,Domestic,10,2018,-47%,2019-01-07 10:21:41.169607,Warner Bros.,Warner-Bros,"$2,166,626","$1,478",(7),8,"1,466",Crazy Rich Asians,Crazy-Rich-Asians,"$169,241,568",8
+5,Domestic,10,2018,-59%,2019-01-07 10:21:41.170603,CBS Films,CBS-Films,"$2,083,759",$907,(6),9,"2,297",Hell Fest,Hell-Fest-(2018),"$8,873,235",2
+5,Domestic,10,2018,-75%,2019-01-07 10:21:41.172601,20th Century Fox,20th-Century-Fox,"$947,358",$577,(8),10,"1,643",The Predator,Predator-The-(2018),"$50,033,247",4
+5,Domestic,10,2018,-75%,2019-01-07 10:21:41.174592,Sony Pictures,Sony-Pictures,"$603,341",$686,(9),11,880,White Boy Rick,White-Boy-Rick,"$23,351,427",4
+5,Domestic,10,2018,+91%,2019-01-07 10:21:41.175588,Greenwich,Greenwich,"$562,786","$13,726",(24),12,41,Free Solo,Free-Solo-(Documentary)-(2018),"$984,857",2
+5,Domestic,10,2018,,2019-01-07 10:21:41.177586,20th Century Fox,20th-Century-Fox,"$512,035","$14,223",new,13,36,The Hate U Give,Hate-U-Give-The,"$512,035",1
+5,Domestic,10,2018,+28%,2019-01-07 10:21:41.178582,Bleecker Street,Bleecker-Street,"$492,981","$4,607",(22),14,107,Colette,Colette-(2018),"$1,272,741",3
+5,Domestic,10,2018,-73%,2019-01-07 10:21:41.180577,STX Entertainment,STX-Entertainment,"$473,806",$583,(10),15,813,Peppermint,Peppermint-(2018),"$34,717,200",5
+5,Domestic,10,2018,-54%,2019-01-07 10:21:41.181573,Sony Pictures,Sony-Pictures,"$443,106","$1,076",(14),16,412,Searching,Searching-(2018),"$25,649,766",7
+5,Domestic,10,2018,+28%,2019-01-07 10:21:41.183574,Walt Disney,Walt-Disney,"$435,545",$266,(23),17,"1,638",Christopher Robin,Christopher-Robin-(2018),"$98,102,927",10
+5,Domestic,10,2018,+184%,2019-01-07 10:21:41.185569,Fox Searchlight,Fox-Searchlight,"$403,928","$8,243",(31),18,49,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$594,383",2
+5,Domestic,10,2018,-46%,2019-01-07 10:21:41.186565,Sony Pictures Classics,Sony-Pictures-Classics,"$383,403","$1,071",(15),19,358,The Wife,Wife-The-(2018),"$6,790,237",8
+5,Domestic,10,2018,-49%,2019-01-07 10:21:41.188558,Paramount Pictures,Paramount-Pictures,"$321,576",$891,(18),20,361,Mission: ImpossibleâFallout,Mission-Impossible-Fallout,"$219,754,005",11
+5,Domestic,10,2018,+3%,2019-01-07 10:21:41.189556,Walt Disney,Walt-Disney,"$280,305","$1,149",(26),21,244,Incredibles 2,Incredibles-2,"$607,125,392",17
+5,Domestic,10,2018,,2019-01-07 10:21:41.191545,Eros Entertainment,Eros-Entertainment,"$278,677","$4,976",new,22,56,Andhadhun,Andhadhun-(India)(2018),"$278,677",1
+5,Domestic,10,2018,-74%,2019-01-07 10:21:41.193543,Warner Bros.,Warner-Bros,"$266,049",$499,(13),23,533,The Meg,Meg-The,"$142,491,832",9
+5,Domestic,10,2018,-79%,2019-01-07 10:21:41.194539,Briarcliffe Enterta…,Briarcliffe-Entertainment,"$238,510",$565,(12),24,422,Fahrenheit 11/9,Fahrenheit-11-9,"$5,985,895",3
+5,Domestic,10,2018,-17%,2019-01-07 10:21:41.196534,Sony Pictures,Sony-Pictures,"$230,377","$1,002",(25),25,230,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$166,735,989",13
+5,Domestic,10,2018,,2019-01-07 10:21:41.198527,GVN Releasing,GVN-Releasing,"$205,842",$338,new,26,609,Shine,Shine-(2018),"$205,842",1
+5,Domestic,10,2018,-13%,2019-01-07 10:21:41.199525,Annapurna Pictures,Annapurna-Pictures,"$203,525","$3,769",(29),27,54,The Sisters Brothers,Sisters-Brothers-The,"$690,023",3
+5,Domestic,10,2018,-76%,2019-01-07 10:21:41.201527,Pinnacle Peak,Pinnacle-Peak,"$171,892",$381,(16),28,451,Little Women,Little-Women-(2018),"$1,170,508",2
+5,Domestic,10,2018,-63%,2019-01-07 10:21:41.203519,Focus Features,Focus-Features,"$165,155","$1,045",(21),29,158,BlacKkKlansman,BlacKkKlansman,"$48,179,465",9
+5,Domestic,10,2018,-67%,2019-01-07 10:21:41.204516,Pure Flix Entertain…,Pure-Flix-Entertainment,"$160,208",$478,(20),30,335,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$5,991,271",4
+5,Domestic,10,2018,+23%,2019-01-07 10:21:41.206506,Neon,Neon,"$146,092","$1,022",(38),31,143,Monsters and Men,Monsters-and-Men,"$306,041",2
+5,Domestic,10,2018,-49%,2019-01-07 10:21:41.208500,Walt Disney,Walt-Disney,"$134,126",$754,(27),32,178,Ant-Man and the Wasp,Ant-Man-and-the-Wasp,"$216,370,952",14
+5,Domestic,10,2018,-37%,2019-01-07 10:21:41.209505,RLJ Entertainment,RLJ-Entertainment,"$75,834","$1,850",(37),33,41,Mandy,Mandy-(2018),"$1,005,909",4
+5,Domestic,10,2018,+60%,2019-01-07 10:21:41.211492,IFC Films,IFC-Films,"$68,091","$1,513",(51),34,45,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$155,324",3
+5,Domestic,10,2018,-53%,2019-01-07 10:21:41.212492,Universal,Universal,"$60,900",$451,(34),35,135,Mamma Mia: Here We Go Again!,Mamma-Mia-Here-We-Go-Again,"$120,587,890",12
+5,Domestic,10,2018,-59%,2019-01-07 10:21:41.214485,Magnolia Pictures,Magnolia-Pictures,"$55,514",$750,(32),36,74,"Love, Gilda",Love-Gilda-(Documentary)-(2018),"$539,976",3
+5,Domestic,10,2018,-32%,2019-01-07 10:21:41.215482,IFC Films,IFC-Films,"$51,522",$859,(44),37,60,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$452,101",6
+5,Domestic,10,2018,-68%,2019-01-07 10:21:41.217486,Sony Pictures,Sony-Pictures,"$50,128",$487,(30),38,103,Alpha,Alpha-(2018),"$35,596,262",8
+5,Domestic,10,2018,-53%,2019-01-07 10:21:41.218483,Well Go USA,Well-Go-USA,"$45,175","$2,823",(40),39,16,The Great Battle,Ansisung-(South-Korea)-(2018),"$399,498",3
+5,Domestic,10,2018,-66%,2019-01-07 10:21:41.220474,MGM,MGM,"$42,353",$382,(35),40,111,Operation Finale,Operation-Finale-(2018),"$17,549,231",6
+5,Domestic,10,2018,-94%,2019-01-07 10:21:41.222426,Amazon Studios,Amazon-Studios,"$38,443",$159,(17),41,242,Life Itself,Life-Itself-(2018),"$4,063,867",3
+5,Domestic,10,2018,-69%,2019-01-07 10:21:41.224458,Well Go USA,Well-Go-USA,"$37,391","$2,493",(36),42,15,Golden Job,Huang-Jin-Xiong-Di-(Hong-Kong),"$226,187",2
+5,Domestic,10,2018,-40%,2019-01-07 10:21:41.225458,National Geographic…,National-Geographic-Entertainment,"$37,350","$1,038",(48),43,36,Science Fair,Science-Fair-(2018),"$166,836",4
+5,Domestic,10,2018,-62%,2019-01-07 10:21:41.227450,A24,A24,"$31,980",$615,(43),44,52,The Children Act,Children-Act-The-(UK),"$432,541",4
+5,Domestic,10,2018,-27%,2019-01-07 10:21:41.229445,Abramorama Films,Abramorama-Films,"$31,955","$4,565",(50),45,7,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$92,081",2
+5,Domestic,10,2018,-66%,2019-01-07 10:21:41.230442,IFC Films,IFC-Films,"$31,054",$403,(41),46,77,Blaze,Blaze-(2018),"$645,234",8
+5,Domestic,10,2018,-58%,2019-01-07 10:21:41.232436,Greenwich,Greenwich,"$29,880",$747,(45),47,40,The Bookshop,Bookshop-The-(Spain),"$1,549,665",7
+5,Domestic,10,2018,-50%,2019-01-07 10:21:41.234438,Lionsgate,Lionsgate,"$25,889",$700,(49),49,37,Ya Veremos,Ya-Veremos-(Mexico)-(2018),"$4,155,094",6
+5,Domestic,10,2018,-38%,2019-01-07 10:21:41.235433,Global Road,Global-Road,"$22,513",$409,(57),50,55,A.X.L.,A-X-L-(2018),"$6,488,582",7
+5,Domestic,10,2018,-39%,2019-01-07 10:21:41.237427,Freestyle Releasing,Freestyle-Releasing,"$22,142",$418,(55),51,53,God Bless the Broken Road,God-Bless-the-Broken-Road,"$2,822,788",5
+5,Domestic,10,2018,-68%,2019-01-07 10:21:41.238425,Warner Bros.,Warner-Bros,"$20,215",$232,(47),52,87,Teen Titans Go! To The Movies,Teen-Titans-Go-To-The-Movies,"$29,553,885",11
+5,Domestic,10,2018,-52%,2019-01-07 10:21:41.240415,Magnolia Pictures,Magnolia-Pictures,"$20,199","$1,010",(52),53,20,Kusama: Infinity,Kusama-Infinity,"$272,989",5
+5,Domestic,10,2018,-71%,2019-01-07 10:21:41.242411,Roadside Attractions,Roadside-Attractions,"$18,869",$572,(46),54,33,"Juliet, Naked",Juliet-Naked,"$3,406,456",8
+5,Domestic,10,2018,-80%,2019-01-07 10:21:41.243407,Roadside Attractions,Roadside-Attractions,"$17,850",$714,(42),55,25,Lizzie,Lizzie-(2018),"$613,172",4
+5,Domestic,10,2018,,2019-01-07 10:21:41.245403,OTL Releasing,OTL-Releasing,"$16,564","$1,104",new,56,15,Loving Pablo,Loving-Pablo-(Spain),"$16,564",1
+5,Domestic,10,2018,-48%,2019-01-07 10:21:41.247396,Sony Pictures,Sony-Pictures,"$15,831",$528,(59),57,30,Slender Man,Slender-Man,"$30,461,318",9
+5,Domestic,10,2018,-41%,2019-01-07 10:21:41.248397,The Orchard,Orchard-The,"$15,728",$684,(60),58,23,All About Nina,All-About-Nina-(2018),"$50,859",2
+5,Domestic,10,2018,,2019-01-07 10:21:41.250390,Zeitgeist,Zeitgeist,"$14,909","$14,909",new,59,1,Studio 54,Studio-54-(2018),"$14,909",1
+5,Domestic,10,2018,-64%,2019-01-07 10:21:41.251386,CJ Entertainment,CJ-Entertainment,"$13,833","$1,729",(53),60,8,The Negotiation,Hyeobsang-(S-KOrea)(2018),"$99,269",3
+5,Domestic,10,2018,-64%,2019-01-07 10:21:41.253384,Neon,Neon,"$13,474",$586,(54),61,23,Three Identical Strangers,Three-Identical-Strangers-(2018),"$12,301,011",15
+5,Domestic,10,2018,-40%,2019-01-07 10:21:41.255338,YouTube,YouTube,"$12,889","$1,074",(63),62,12,Museum,Museo-(Mexico),"$102,444",4
+5,Domestic,10,2018,-54%,2019-01-07 10:21:41.256377,Annapurna Pictures,Annapurna-Pictures,"$10,398",$945,(61),63,11,Sorry to Bother You,Sorry-to-Bother-You,"$17,474,288",14
+5,Domestic,10,2018,+138%,2019-01-07 10:21:41.258369,Strand,Strand,"$8,484","$1,414",(81),64,6,The Cakemaker,Cakemaker-The-(Germany-Israel),"$853,094",15
+5,Domestic,10,2018,-97%,2019-01-07 10:21:41.260364,Neon,Neon,"$7,752",$517,(28),65,15,Assassination Nation,Assassination-Nation,"$1,941,708",3
+5,Domestic,10,2018,-28%,2019-01-07 10:21:41.261360,4th Row Films,4th-Row-Films,"$7,560",$582,(67),66,13,Bisbee â17,Bisbee-17-(Documentary),"$87,888",5
+5,Domestic,10,2018,-80%,2019-01-07 10:21:41.263354,Sony Pictures Classics,Sony-Pictures-Classics,"$7,222",$328,(56),67,22,Puzzle,Puzzle-(2018),"$2,005,515",11
+5,Domestic,10,2018,,2019-01-07 10:21:41.264351,Cohen Media Group,Cohen-Media-Group,"$7,107","$3,554",new,68,2,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$7,107",1
+5,Domestic,10,2018,+52%,2019-01-07 10:21:41.266353,Hannover House,Hannover-House,"$6,943","$2,314",(76),69,3,The Riot Act,Riot-Act-The-(2018),"$69,704",4
+5,Domestic,10,2018,,2019-01-07 10:21:41.268345,Abramorama Films,Abramorama-Films,"$6,718","$3,359",(-),70,2,93Queen,93Queen-(Documentary),"$73,738",11
+5,Domestic,10,2018,-31%,2019-01-07 10:21:41.269344,Greenwich,Greenwich,"$5,811","$1,937",(71),71,3,Garry Winogrand: All Things…,Garry-Winogrand-All-Things-Are-Photographable-(Documentary),"$39,127",3
+5,Domestic,10,2018,-33%,2019-01-07 10:21:41.271337,IFC Films,IFC-Films,"$5,723",$954,(70),72,6,Black 47,Black-47-(Ireland)-(2018),"$17,186",2
+5,Domestic,10,2018,,2019-01-07 10:21:41.273329,Doppelganger Releasing,Doppelganger-Releasing,"$5,419",$339,new,73,16,Heavy Trip,Hevi-reissu-(Finland),"$5,419",1
+5,Domestic,10,2018,,2019-01-07 10:21:41.274326,Rialto Pictures,Rialto-Pictures,"$4,734","$4,734",(-),74,1,Stavisky (1974) (Re-Release),Stavisky-(France),"$6,522","2,286"
+5,Domestic,10,2018,,2019-01-07 10:21:41.276321,First Run Features,First-Run-Features,"$4,416","$4,416",new,75,1,Moynihan,Moynihan-(Documentary)-(2018),"$7,983",1
+5,Domestic,10,2018,-46%,2019-01-07 10:21:41.278314,Menemsha Entertainment,Menemsha-Entertainment,"$4,270",$610,(73),76,7,1945,1945-(Hungary),"$929,455",49
+5,Domestic,10,2018,-97%,2019-01-07 10:21:41.279311,Magnolia Pictures,Magnolia-Pictures,"$3,914",$559,(33),77,7,Bad Reputation,Bad-Reputation-(Documentary)-(2018),"$144,459",2
+5,Domestic,10,2018,-13%,2019-01-07 10:21:41.281270,Blue Fox Entertainment,Blue-Fox-Entertainment,"$3,633",$242,(78),78,15,Summer 03,Summer-03-(2018),"$8,381",2
+5,Domestic,10,2018,+8%,2019-01-07 10:21:41.283264,ArtAffects,ArtAffects,"$3,360","$1,680",(84),79,2,Beautifully Broken,Beautifully-Broken,"$1,201,544",7
+5,Domestic,10,2018,+18%,2019-01-07 10:21:41.285259,Film Movement,Film-Movement,"$3,109",$622,(88),80,5,Antonio Lopez 1970: Sex Fas…,Antonio-Lopez-1970-Sex-Fashion-and-Disco-(Documentary),"$29,545",4
+5,Domestic,10,2018,-74%,2019-01-07 10:21:41.286256,The Orchard,Orchard-The,"$2,631",$376,(68),81,7,We The Animals,We-The-Animals,"$398,009",8
+5,Domestic,10,2018,-14%,2019-01-07 10:21:41.288250,Film Movement,Film-Movement,"$2,488",$355,(86),82,7,I am Not a Witch,I-am-Not-a-Witch-(UK),"$39,078",5
+5,Domestic,10,2018,-39%,2019-01-07 10:21:41.290245,Music Box Films,Music-Box-Films,"$2,076","$1,038",(82),83,2,The Apparition,apparition-L-(France-2018),"$25,333",5
+5,Domestic,10,2018,+45%,2019-01-07 10:21:41.292240,Magnolia Pictures,Magnolia-Pictures,"$2,029",$507,(95),84,4,RBG,RBG-(2018),"$14,015,548",23
+5,Domestic,10,2018,-84%,2019-01-07 10:21:41.294234,Screen Media Films,Screen-Media-Films,"$1,895",$474,(65),85,4,Bel Canto,Bel-Canto,"$77,148",4
+5,Domestic,10,2018,+38%,2019-01-07 10:21:41.295232,Quality Flix,Quality-Flix,"$1,799",$112,(96),86,16,Death of a Nation,Death-of-a-Nation-(2018),"$5,884,034",10
+5,Domestic,10,2018,-5%,2019-01-07 10:21:41.297226,Sony Pictures Classics,Sony-Pictures-Classics,"$1,765","$1,765",(93),87,1,The Rider,Rider-The-(2017),"$2,398,681",26
+5,Domestic,10,2018,-56%,2019-01-07 10:21:41.299221,Music Box Films,Music-Box-Films,"$1,709",$342,(79),88,5,Memoir of War,douleur-La-(France),"$92,697",8
+5,Domestic,10,2018,-62%,2019-01-07 10:21:41.301216,Kino Lorber,Kino-Lorber,"$1,646",$823,(77),89,2,Let the Corpses Tan,Laissez-bronzer-les-cadavres-(France-2017),"$82,637",6
+5,Domestic,10,2018,-16%,2019-01-07 10:21:41.302213,Cinema Guild,Cinema-Guild,"$1,622",$811,(92),90,2,"Hale County This Morning, T…",Hale-County-This-Morning-This-Evening-(Documentary),"$25,150",4
+5,Domestic,10,2018,+38%,2019-01-07 10:21:41.304208,GKIDS,GKIDS,"$1,565","$1,565",(98),91,1,Perfect Blue (1998) (Re-Rel…,Pafekuto-buru-(Japan),"$761,785",999
+5,Domestic,10,2018,-58%,2019-01-07 10:21:41.306203,20th Century Fox,20th-Century-Fox,"$1,515",$152,(80),92,10,The Darkest Minds,Darkest-Minds-The-(2018),"$12,693,802",10
+5,Domestic,10,2018,+106%,2019-01-07 10:21:41.308197,Distrib Films,Distrib-Films,"$1,371","$1,371",(104),93,1,"No Date, No Signature",Bedoune-Tarikh-Bedoune-Emza-(Iran),"$29,498",10
+5,Domestic,10,2018,-47%,2019-01-07 10:21:41.309194,20th Century Fox,20th-Century-Fox,"$1,290",$184,(90),94,7,Deadpool 2,Deadpool-2,"$318,490,305",21
+5,Domestic,10,2018,,2019-01-07 10:21:41.311189,Indican Pictures,Indican-Pictures,"$1,262","$1,262",(-),95,1,Poor Boy,Poor-Boy-(2018),"$30,279",13
+5,Domestic,10,2018,-5%,2019-01-07 10:21:41.313184,Janus Films,Janus-Films,$897,$897,(99),96,1,Andrei Rublev (1966) (Re-Re…,Andrey-Rublyov-(Soviet-Union),"$89,238","2,345"
+5,Domestic,10,2018,-24%,2019-01-07 10:21:41.315179,Indican Pictures,Indican-Pictures,$683,$683,(101),97,1,Painless,Painless-(2018),"$5,912",3
+5,Domestic,10,2018,-75%,2019-01-07 10:21:41.317173,Kino Lorber,Kino-Lorber,$675,$675,(87),98,1,What Will People Say,Hva-vil-folk-si-(Norway),"$40,570",13
+5,Domestic,10,2018,,2019-01-07 10:21:41.318170,Driving With Our Ey…,Driving-With-Our-Eyes-Shut,$580,$580,(-),99,1,To Die is Hard,To-Die-is-Hard,"$5,129",408
+5,Domestic,10,2018,+14%,2019-01-07 10:21:41.320165,Magnolia Pictures,Magnolia-Pictures,$505,$505,(106),100,1,"Nico, 1988",Nico-1988-(Italy),"$73,304",10
+5,Domestic,10,2018,-76%,2019-01-07 10:21:41.322160,Magnolia Pictures,Magnolia-Pictures,$419,$140,(94),101,3,Support The Girls,Support-The-Girls-(2018),"$127,812",7
+5,Domestic,10,2018,n/c,2019-01-07 10:21:41.324155,Kino Lorber,Kino-Lorber,$309,$155,(108),102,2,The Atomic Cafe (1982) (Re-…,Atomic-Cafe-The-(1982),"$20,909","1,908"
+5,Domestic,10,2018,-47%,2019-01-07 10:21:41.326149,Indican Pictures,Indican-Pictures,$222,$222,(107),103,1,Cynthia,Cynthia-(2018),"$57,881",6
+5,Domestic,10,2018,-38%,2019-01-07 10:21:41.327146,Film Movement,Film-Movement,$186,$186,(109),104,1,The Third Murder,Sandome-no-satsujin-(Japan),"$84,152",12
+5,Domestic,10,2018,,2019-01-07 10:21:41.329141,Driving With Our Ey…,Driving-With-Our-Eyes-Shut,$120,$120,(-),105,1,Midget Zombie Takeover,Midget-Zombie-Takeover,"$10,724",296
+5,Domestic,10,2018,,2019-01-07 10:21:41.331136,Kino Lorber,Kino-Lorber,$117,$117,(-),106,1,Ganja & Hess (1973) (Re-Rel…,Ganja-and-Hess,"$17,796","2,372"
+5,Domestic,10,2018,,2019-01-07 10:21:41.333130,Kino Lorber,Kino-Lorber,$88,$88,(-),107,1,Filmworker,Filmworker-(Documentary),"$99,437",22
+12,Domestic,10,2018,-56%,2019-01-07 10:21:42.075991,Sony Pictures,Sony-Pictures,"$35,006,107","$8,237",(1),1,"4,250",Venom,Venom-(2018),"$142,108,258",2
+12,Domestic,10,2018,-34%,2019-01-07 10:21:42.077986,Warner Bros.,Warner-Bros,"$28,445,205","$7,671",(2),2,"3,708",A Star is Born,Star-is-Born-A-(2018),"$94,605,565",2
+12,Domestic,10,2018,,2019-01-07 10:21:42.079981,Universal,Universal,"$16,006,065","$4,397",new,3,"3,640",First Man,First-Man-(2018),"$16,006,065",1
+12,Domestic,10,2018,,2019-01-07 10:21:42.080979,Sony Pictures,Sony-Pictures,"$15,802,225","$4,488",new,4,"3,521",Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$15,802,225",1
+12,Domestic,10,2018,-37%,2019-01-07 10:21:42.082972,Warner Bros.,Warner-Bros,"$9,066,837","$2,514",(3),5,"3,606",Smallfoot,Smallfoot-(2018),"$57,375,058",3
+12,Domestic,10,2018,-38%,2019-01-07 10:21:42.083971,Universal,Universal,"$7,751,255","$2,788",(4),6,"2,780",Night School,Night-School-(2018),"$59,560,205",3
+12,Domestic,10,2018,,2019-01-07 10:21:42.085964,20th Century Fox,20th-Century-Fox,"$7,132,647","$2,540",new,7,"2,808",Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$7,132,647",1
+12,Domestic,10,2018,-48%,2019-01-07 10:21:42.086967,Universal,Universal,"$3,844,240","$1,377",(5),8,"2,791",The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$62,119,740",4
+12,Domestic,10,2018,+239%,2019-01-07 10:21:42.088897,20th Century Fox,20th-Century-Fox,"$1,736,842","$7,003",(13),9,248,The Hate U Give,Hate-U-Give-The,"$2,449,156",2
+12,Domestic,10,2018,-50%,2019-01-07 10:21:42.090959,Warner Bros.,Warner-Bros,"$1,345,355","$1,146",(7),10,"1,174",The Nun,Nun-The,"$115,900,401",6
+12,Domestic,10,2018,-61%,2019-01-07 10:21:42.091948,Lionsgate,Lionsgate,"$1,329,701",$916,(6),11,"1,452",A Simple Favor,Simple-Favor-A,"$51,987,209",5
+12,Domestic,10,2018,,2019-01-07 10:21:42.093944,GVN Releasing,GVN-Releasing,"$1,162,988","$1,741",new,12,668,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$1,162,988",1
+12,Domestic,10,2018,-52%,2019-01-07 10:21:42.094940,Warner Bros.,Warner-Bros,"$1,037,228","$1,405",(8),13,738,Crazy Rich Asians,Crazy-Rich-Asians,"$171,326,596",9
+12,Domestic,10,2018,+103%,2019-01-07 10:21:42.096936,Bleecker Street,Bleecker-Street,"$999,713","$1,686",(14),14,593,Colette,Colette-(2018),"$2,552,165",4
+12,Domestic,10,2018,+127%,2019-01-07 10:21:42.098930,Fox Searchlight,Fox-Searchlight,"$917,737","$4,025",(18),-,228,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$1,702,661",3
+12,Domestic,10,2018,+58%,2019-01-07 10:21:42.099932,Greenwich,Greenwich,"$891,033","$6,907",(12),16,129,Free Solo,Free-Solo-(Documentary)-(2018),"$2,134,005",3
+12,Domestic,10,2018,-69%,2019-01-07 10:21:42.101926,CBS Films,CBS-Films,"$640,551",$738,(9),-,868,Hell Fest,Hell-Fest-(2018),"$10,451,231",3
+12,Domestic,10,2018,+1%,2019-01-07 10:21:42.102924,Eros Entertainment,Eros-Entertainment,"$282,628","$5,047",(22),-,56,Andhadhun,Andhadhun-(India)(2018),"$719,471",2
+12,Domestic,10,2018,+30%,2019-01-07 10:21:42.104920,Annapurna Pictures,Annapurna-Pictures,"$263,803","$2,045",(27),-,129,The Sisters Brothers,Sisters-Brothers-The,"$1,076,287",4
+12,Domestic,10,2018,,2019-01-07 10:21:42.106909,Amazon Studios,Amazon-Studios,"$218,888","$54,722",new,-,4,Beautiful Boy,Beautiful-Boy-(2018),"$218,888",1
+12,Domestic,10,2018,-77%,2019-01-07 10:21:42.107906,20th Century Fox,20th-Century-Fox,"$215,450",$573,(10),-,376,The Predator,Predator-The-(2018),"$50,705,371",5
+12,Domestic,10,2018,-24%,2019-01-07 10:21:42.109901,Walt Disney,Walt-Disney,"$211,902","$1,092",(21),-,194,Incredibles 2,Incredibles-2,"$607,474,495",18
+12,Domestic,10,2018,-46%,2019-01-07 10:21:42.111895,Sony Pictures Classics,Sony-Pictures-Classics,"$206,498","$1,027",(19),-,201,The Wife,Wife-The-(2018),"$7,232,603",9
+12,Domestic,10,2018,-60%,2019-01-07 10:21:42.112893,STX Entertainment,STX-Entertainment,"$187,195",$622,(15),-,301,Peppermint,Peppermint-(2018),"$35,165,567",6
+12,Domestic,10,2018,-19%,2019-01-07 10:21:42.114892,Sony Pictures,Sony-Pictures,"$186,312","$1,007",(25),-,185,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$167,031,784",14
+12,Domestic,10,2018,-51%,2019-01-07 10:21:42.115887,Paramount Pictures,Paramount-Pictures,"$157,526",$713,(20),-,221,Mission: ImpossibleâFallout,Mission-Impossible-Fallout,"$220,087,856",12
+12,Domestic,10,2018,-74%,2019-01-07 10:21:42.117887,Sony Pictures,Sony-Pictures,"$156,363",$823,(11),-,190,White Boy Rick,White-Boy-Rick,"$23,851,700",5
+12,Domestic,10,2018,-67%,2019-01-07 10:21:42.118881,Walt Disney,Walt-Disney,"$144,032",$310,(17),-,465,Christopher Robin,Christopher-Robin-(2018),"$98,595,476",11
+12,Domestic,10,2018,-76%,2019-01-07 10:21:42.120876,Sony Pictures,Sony-Pictures,"$106,492",$839,(16),-,127,Searching,Searching-(2018),"$25,910,206",8
+12,Domestic,10,2018,+34%,2019-01-07 10:21:42.122866,IFC Films,IFC-Films,"$90,906","$1,357",(34),-,67,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$294,355",4
+12,Domestic,10,2018,-33%,2019-01-07 10:21:42.123864,Walt Disney,Walt-Disney,"$89,560",$678,(32),-,132,Ant-Man and the Wasp,Ant-Man-and-the-Wasp,"$216,519,500",15
+12,Domestic,10,2018,,2019-01-07 10:21:42.125859,Excel Entertainment,Excel-Entertainment,"$84,512","$4,024",new,-,21,Jane and Emma,Jane-and-Emma-(2018),"$84,512",1
+12,Domestic,10,2018,-72%,2019-01-07 10:21:42.126856,Warner Bros.,Warner-Bros,"$75,584",$374,(23),-,202,The Meg,Meg-The,"$142,673,948",10
+12,Domestic,10,2018,-74%,2019-01-07 10:21:42.128850,Briarcliffe Enterta…,Briarcliffe-Entertainment,"$63,071",$664,(24),-,95,Fahrenheit 11/9,Fahrenheit-11-9,"$6,203,733",4
+12,Domestic,10,2018,,2019-01-07 10:21:42.130845,Eros Entertainment,Eros-Entertainment,"$51,115",$730,new,-,70,Helicopter Eela,Helicopter-Eela-(India)(2018),"$51,115",1
+12,Domestic,10,2018,-71%,2019-01-07 10:21:42.131842,Pure Flix Entertain…,Pure-Flix-Entertainment,"$46,663",$376,(30),-,124,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$6,143,765",5
+12,Domestic,10,2018,-40%,2019-01-07 10:21:42.133842,RLJ Entertainment,RLJ-Entertainment,"$45,583","$1,341",(33),-,34,Mandy,Mandy-(2018),"$1,115,267",5
+12,Domestic,10,2018,+157%,2019-01-07 10:21:42.134839,Sony Pictures,Sony-Pictures,"$40,735",$608,(57),-,67,Slender Man,Slender-Man,"$30,505,530",10
+12,Domestic,10,2018,,2019-01-07 10:21:42.136833,Sony Pictures Classics,Sony-Pictures-Classics,"$38,886","$4,861",new,-,8,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$44,225",1
+12,Domestic,10,2018,,2019-01-07 10:21:42.138762,Freestyle Releasing,Freestyle-Releasing,"$31,477",$516,new,-,61,Bigger,Bigger-(2018),"$31,477",1
+12,Domestic,10,2018,-79%,2019-01-07 10:21:42.139821,Neon,Neon,"$30,968",$476,(31),-,65,Monsters and Men,Monsters-and-Men,"$445,903",3
+12,Domestic,10,2018,,2019-01-07 10:21:42.141815,Roadside Attractions,Roadside-Attractions,"$29,078","$2,908",new,-,10,The Oath,Oath-The-(2018),"$29,078",1
+12,Domestic,10,2018,-46%,2019-01-07 10:21:42.143815,Sony Pictures,Sony-Pictures,"$27,056",$423,(38),-,64,Alpha,Alpha-(2018),"$35,643,294",9
+12,Domestic,10,2018,+69%,2019-01-07 10:21:42.144810,Zeitgeist,Zeitgeist,"$25,220","$4,203",(59),-,6,Studio 54,Studio-54-(2018),"$53,584",2
+12,Domestic,10,2018,-87%,2019-01-07 10:21:42.146802,Pinnacle Peak,Pinnacle-Peak,"$22,706",$483,(28),-,47,Little Women,Little-Women-(2018),"$1,313,315",3
+12,Domestic,10,2018,-36%,2019-01-07 10:21:42.147799,Abramorama Films,Abramorama-Films,"$20,339","$2,260",(45),-,9,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$141,856",3
+12,Domestic,10,2018,-61%,2019-01-07 10:21:42.149798,IFC Films,IFC-Films,"$20,155",$593,(37),-,34,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$496,020",7
+12,Domestic,10,2018,-63%,2019-01-07 10:21:42.151799,Well Go USA,Well-Go-USA,"$16,564","$2,071",(39),-,8,The Great Battle,Ansisung-(South-Korea)-(2018),"$447,292",4
+12,Domestic,10,2018,-72%,2019-01-07 10:21:42.152791,Magnolia Pictures,Magnolia-Pictures,"$15,777",$464,(36),-,34,"Love, Gilda",Love-Gilda-(Documentary)-(2018),"$580,406",4
+12,Domestic,10,2018,-2%,2019-01-07 10:21:42.154786,The Orchard,Orchard-The,"$15,373",$285,(58),-,54,All About Nina,All-About-Nina-(2018),"$77,594",3
+12,Domestic,10,2018,-61%,2019-01-07 10:21:42.155785,Well Go USA,Well-Go-USA,"$14,733","$2,947",(42),-,5,Golden Job,Huang-Jin-Xiong-Di-(Hong-Kong),"$266,567",3
+12,Domestic,10,2018,-67%,2019-01-07 10:21:42.157773,MGM,MGM,"$13,862",$301,(40),-,46,Operation Finale,Operation-Finale-(2018),"$17,589,378",7
+12,Domestic,10,2018,-32%,2019-01-07 10:21:42.159767,Magnolia Pictures,Magnolia-Pictures,"$13,684",$805,(53),-,17,Kusama: Infinity,Kusama-Infinity,"$304,488",6
+12,Domestic,10,2018,+134%,2019-01-07 10:21:42.160764,IFC Films,IFC-Films,"$13,384",$134,(72),-,100,Black 47,Black-47-(Ireland)-(2018),"$33,471",3
+12,Domestic,10,2018,-58%,2019-01-07 10:21:42.162760,Greenwich,Greenwich,"$12,636",$486,(47),-,26,The Bookshop,Bookshop-The-(Spain),"$1,600,786",8
+12,Domestic,10,2018,-67%,2019-01-07 10:21:42.163756,National Geographic…,National-Geographic-Entertainment,"$12,480",$480,(43),-,26,Science Fair,Science-Fair-(2018),"$195,908",5
+12,Domestic,10,2018,,2019-01-07 10:21:42.165751,PBS Distribution,PBS-Distribution,"$10,511","$10,511",new,-,1,Charm City,Charm-City-(Documentary)-(2018),"$10,511",1
+12,Domestic,10,2018,-21%,2019-01-07 10:21:42.167752,YouTube,YouTube,"$10,200","$1,275",(62),-,8,Museum,Museo-(Mexico),"$120,033",5
+12,Domestic,10,2018,+90%,2019-01-07 10:21:42.168749,First Run Features,First-Run-Features,"$8,390","$4,195",(75),-,2,Moynihan,Moynihan-(Documentary)-(2018),"$19,208",2
+12,Domestic,10,2018,-73%,2019-01-07 10:21:42.170743,IFC Films,IFC-Films,"$8,299",$268,(46),-,31,Blaze,Blaze-(2018),"$674,915",9
+12,Domestic,10,2018,+82%,2019-01-07 10:21:42.172733,Menemsha Entertainment,Menemsha-Entertainment,"$7,752",$775,(76),-,10,1945,1945-(Hungary),"$942,244",50
+12,Domestic,10,2018,+24%,2019-01-07 10:21:42.173730,Greenwich,Greenwich,"$7,192","$1,798",(71),-,4,Garry Winogrand: All Things…,Garry-Winogrand-All-Things-Are-Photographable-(Documentary),"$51,194",4
+12,Domestic,10,2018,-66%,2019-01-07 10:21:42.175725,Roadside Attractions,Roadside-Attractions,"$6,394",$639,(54),-,10,"Juliet, Naked",Juliet-Naked,"$3,423,155",9
+12,Domestic,10,2018,-64%,2019-01-07 10:21:42.177719,Roadside Attractions,Roadside-Attractions,"$6,369",$531,(55),-,12,Lizzie,Lizzie-(2018),"$632,895",5
+12,Domestic,10,2018,-97%,2019-01-07 10:21:42.178721,GVN Releasing,GVN-Releasing,"$6,344",$244,(26),-,26,Shine,Shine-(2018),"$308,408",2
+12,Domestic,10,2018,,2019-01-07 10:21:42.180711,GKIDS,GKIDS,"$6,094",$14,new,-,436,MFKZ,Mutafukaz-(France),"$107,708",1
+12,Domestic,10,2018,-75%,2019-01-07 10:21:42.181709,Freestyle Releasing,Freestyle-Releasing,"$5,645",$297,(51),-,19,God Bless the Broken Road,God-Bless-the-Broken-Road,"$2,834,293",6
+12,Domestic,10,2018,-75%,2019-01-07 10:21:42.183709,Global Road,Global-Road,"$5,623",$225,(50),-,25,A.X.L.,A-X-L-(2018),"$6,500,473",8
+12,Domestic,10,2018,-23%,2019-01-07 10:21:42.184705,Sony Pictures Classics,Sony-Pictures-Classics,"$5,545",$347,(67),-,16,Puzzle,Puzzle-(2018),"$2,015,891",12
+12,Domestic,10,2018,,2019-01-07 10:21:42.186700,Abramorama Films,Abramorama-Films,"$5,160","$5,160",new,-,1,Liyana,Liyana-(Swaziland),"$5,870",1
+12,Domestic,10,2018,-51%,2019-01-07 10:21:42.188629,Annapurna Pictures,Annapurna-Pictures,"$5,074",$564,(63),-,9,Sorry to Bother You,Sorry-to-Bother-You,"$17,485,298",15
+12,Domestic,10,2018,,2019-01-07 10:21:42.189687,Indican Pictures,Indican-Pictures,"$4,222","$2,111",new,-,2,In Echo Park,In-Echo-Park-(2018),"$4,222",1
+12,Domestic,10,2018,-53%,2019-01-07 10:21:42.191682,Neon,Neon,"$3,643",$729,(65),-,5,Assassination Nation,Assassination-Nation,"$1,997,686",4
+12,Domestic,10,2018,+113%,2019-01-07 10:21:42.193677,Cinema Guild,Cinema-Guild,"$3,462","$1,154",(90),-,3,"Hale County This Morning, T…",Hale-County-This-Morning-This-Evening-(Documentary),"$28,905",5
+12,Domestic,10,2018,-75%,2019-01-07 10:21:42.194679,Neon,Neon,"$3,415",$342,(61),-,10,Three Identical Strangers,Three-Identical-Strangers-(2018),"$12,317,570",16
+12,Domestic,10,2018,-53%,2019-01-07 10:21:42.196669,Cohen Media Group,Cohen-Media-Group,"$3,307","$1,654",(68),-,2,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$14,909",2
+12,Domestic,10,2018,-62%,2019-01-07 10:21:42.197666,Strand,Strand,"$3,195","$1,065",(64),-,3,The Cakemaker,Cakemaker-The-(Germany-Israel),"$861,691",16
+12,Domestic,10,2018,-82%,2019-01-07 10:21:42.199671,CJ Entertainment,CJ-Entertainment,"$2,433",$304,(60),-,8,The Negotiation,Hyeobsang-(S-KOrea)(2018),"$109,856",4
+12,Domestic,10,2018,,2019-01-07 10:21:42.201660,Paladin,Paladin,"$2,375","$1,188",new,-,2,Stellaâs Last Weekend,Stella-s-Last-Weekend-(2018),"$2,375",1
+12,Domestic,10,2018,"+1,127%",2019-01-07 10:21:42.202659,Film Movement,Film-Movement,"$2,282",$761,(104),-,3,The Third Murder,Sandome-no-satsujin-(Japan),"$86,811",13
+12,Domestic,10,2018,+8%,2019-01-07 10:21:42.204653,Sony Pictures Classics,Sony-Pictures-Classics,"$1,899","$1,899",(87),-,1,The Rider,Rider-The-(2017),"$2,401,905",27
+12,Domestic,10,2018,-74%,2019-01-07 10:21:42.206643,Hannover House,Hannover-House,"$1,810",$905,(69),-,2,The Riot Act,Riot-Act-The-(2018),"$73,324",5
+12,Domestic,10,2018,-37%,2019-01-07 10:21:42.208636,Film Movement,Film-Movement,"$1,568",$224,(82),-,7,I am Not a Witch,I-am-Not-a-Witch-(UK),"$42,388",6
+12,Domestic,10,2018,,2019-01-07 10:21:42.209634,Film Movement,Film-Movement,"$1,402","$1,402",(-),-,1,Over the Limit,Over-the-Limit-(Poland),"$1,402",2
+12,Domestic,10,2018,-76%,2019-01-07 10:21:42.211629,Doppelganger Releasing,Doppelganger-Releasing,"$1,298",$649,(73),-,2,Heavy Trip,Hevi-reissu-(Finland),"$8,932",2
+12,Domestic,10,2018,-70%,2019-01-07 10:21:42.212626,Magnolia Pictures,Magnolia-Pictures,"$1,173",$391,(77),-,3,Bad Reputation,Bad-Reputation-(Documentary)-(2018),"$148,524",3
+12,Domestic,10,2018,-27%,2019-01-07 10:21:42.214621,20th Century Fox,20th-Century-Fox,"$1,103",$138,(92),-,8,The Darkest Minds,Darkest-Minds-The-(2018),"$12,695,220",11
+12,Domestic,10,2018,-78%,2019-01-07 10:21:42.216619,Rialto Pictures,Rialto-Pictures,"$1,040","$1,040",(74),-,1,Stavisky (1974) (Re-Release),Stavisky-(France),"$13,139","2,287"
+12,Domestic,10,2018,n/c,2019-01-07 10:21:42.217616,Janus Films,Janus-Films,$897,$897,(96),-,1,Andrei Rublev (1966) (Re-Re…,Andrey-Rublyov-(Soviet-Union),"$93,152","2,346"
+12,Domestic,10,2018,-50%,2019-01-07 10:21:42.219612,Kino Lorber,Kino-Lorber,$820,$410,(89),-,2,Let the Corpses Tan,Laissez-bronzer-les-cadavres-(France-2017),"$84,583",7
+12,Domestic,10,2018,-41%,2019-01-07 10:21:42.220610,Distrib Films,Distrib-Films,$810,$810,(93),-,1,"No Date, No Signature",Bedoune-Tarikh-Bedoune-Emza-(Iran),"$30,727",11
+12,Domestic,10,2018,-60%,2019-01-07 10:21:42.222600,Screen Media Films,Screen-Media-Films,$766,$383,(85),-,2,Bel Canto,Bel-Canto,"$79,867",5
+12,Domestic,10,2018,-79%,2019-01-07 10:21:42.224595,Blue Fox Entertainment,Blue-Fox-Entertainment,$754,$94,(78),-,8,Summer 03,Summer-03-(2018),"$11,199",3
+12,Domestic,10,2018,,2019-01-07 10:21:42.225592,Distrib Films,Distrib-Films,$748,$748,(-),-,1,School of Life,ecole-buissonniere-L-(France),"$2,625",6
+12,Domestic,10,2018,+53%,2019-01-07 10:21:42.227586,Magnolia Pictures,Magnolia-Pictures,$643,$322,(101),-,2,Support The Girls,Support-The-Girls-(2018),"$128,553",8
+12,Domestic,10,2018,-88%,2019-01-07 10:21:42.229580,Film Movement,Film-Movement,$387,$194,(80),-,2,Antonio Lopez 1970: Sex Fas…,Antonio-Lopez-1970-Sex-Fashion-and-Disco-(Documentary),"$33,097",5
+12,Domestic,10,2018,-72%,2019-01-07 10:21:42.230578,20th Century Fox,20th-Century-Fox,$356,$71,(94),-,5,Deadpool 2,Deadpool-2,"$318,491,031",22
+12,Domestic,10,2018,-80%,2019-01-07 10:21:42.232577,Music Box Films,Music-Box-Films,$338,$338,(88),-,1,Memoir of War,douleur-La-(France),"$94,568",9
+12,Domestic,10,2018,-75%,2019-01-07 10:21:42.233576,Indican Pictures,Indican-Pictures,$311,$311,(95),-,1,Poor Boy,Poor-Boy-(2018),"$30,820",14
+12,Domestic,10,2018,,2019-01-07 10:21:42.235569,Indican Pictures,Indican-Pictures,$288,$288,(-),-,1,Jet Trash,Jet-Trash-(UK),"$25,905",25
+12,Domestic,10,2018,+143%,2019-01-07 10:21:42.237564,Kino Lorber,Kino-Lorber,$284,$71,(106),-,4,Ganja & Hess (1973) (Re-Rel…,Ganja-and-Hess,"$18,927","2,373"
+12,Domestic,10,2018,-92%,2019-01-07 10:21:42.239494,ArtAffects,ArtAffects,$280,$140,(79),-,2,Beautifully Broken,Beautifully-Broken,"$1,202,880",8
+12,Domestic,10,2018,-87%,2019-01-07 10:21:42.241488,Music Box Films,Music-Box-Films,$274,$137,(83),-,2,The Apparition,apparition-L-(France-2018),"$26,032",6
+12,Domestic,10,2018,,2019-01-07 10:21:42.243544,Music Box Films,Music-Box-Films,$234,$234,(-),-,1,The Captain,Hauptmann-Der-(Germany),"$107,898",12
+12,Domestic,10,2018,-91%,2019-01-07 10:21:42.245537,The Orchard,Orchard-The,$229,$76,(81),-,3,We The Animals,We-The-Animals,"$400,746",9
+12,Domestic,10,2018,-61%,2019-01-07 10:21:42.247538,Indican Pictures,Indican-Pictures,$87,$87,(103),-,1,Cynthia,Cynthia-(2018),"$58,085",7
+19,Domestic,10,2018,,2019-01-07 10:21:42.968481,Universal,Universal,"$76,221,545","$19,405",new,1,"3,928",Halloween,Halloween-(2018),"$76,221,545",1
+19,Domestic,10,2018,-33%,2019-01-07 10:21:42.970474,Warner Bros.,Warner-Bros,"$19,051,082","$4,905",(2),2,"3,884",A Star is Born,Star-is-Born-A-(2018),"$126,127,328",3
+19,Domestic,10,2018,-48%,2019-01-07 10:21:42.971472,Sony Pictures,Sony-Pictures,"$18,043,887","$4,642",(1),3,"3,887",Venom,Venom-(2018),"$171,063,982",3
+19,Domestic,10,2018,-38%,2019-01-07 10:21:42.973424,Sony Pictures,Sony-Pictures,"$9,721,173","$2,761",(4),4,"3,521",Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$28,810,985",2
+19,Domestic,10,2018,-48%,2019-01-07 10:21:42.976455,Universal,Universal,"$8,327,135","$2,288",(3),5,"3,640",First Man,First-Man-(2018),"$29,762,185",2
+19,Domestic,10,2018,+338%,2019-01-07 10:21:42.977456,20th Century Fox,20th-Century-Fox,"$7,602,108","$3,301",(9),6,"2,303",The Hate U Give,Hate-U-Give-The,"$10,743,981",3
+19,Domestic,10,2018,-27%,2019-01-07 10:21:42.979447,Warner Bros.,Warner-Bros,"$6,576,876","$2,169",(5),7,"3,032",Smallfoot,Smallfoot-(2018),"$66,327,911",4
+19,Domestic,10,2018,-37%,2019-01-07 10:21:42.980445,Universal,Universal,"$4,892,515","$2,131",(6),8,"2,296",Night School,Night-School-(2018),"$66,799,340",4
+19,Domestic,10,2018,-52%,2019-01-07 10:21:42.982443,20th Century Fox,20th-Century-Fox,"$3,420,067","$1,218",(7),9,"2,808",Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$13,461,868",2
+19,Domestic,10,2018,+133%,2019-01-07 10:21:42.984439,Fox Searchlight,Fox-Searchlight,"$2,134,481","$2,661",(-),10,802,The Old Man and the Gun,Old-Man-and-the-Gun-The,"$4,285,337",4
+19,Domestic,10,2018,-53%,2019-01-07 10:21:42.985435,Universal,Universal,"$1,813,390","$1,142",(8),11,"1,588",The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$65,000,980",5
+19,Domestic,10,2018,+17%,2019-01-07 10:21:42.987430,Greenwich,Greenwich,"$1,041,541","$4,150",(16),12,251,Free Solo,Free-Solo-(Documentary)-(2018),"$3,625,844",4
+19,Domestic,10,2018,+187%,2019-01-07 10:21:42.989419,Annapurna Pictures,Annapurna-Pictures,"$757,975",$664,(-),13,"1,141",The Sisters Brothers,Sisters-Brothers-The,"$1,986,693",5
+19,Domestic,10,2018,-45%,2019-01-07 10:21:42.990417,GVN Releasing,GVN-Releasing,"$640,283","$1,253",(12),14,511,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$2,453,903",2
+19,Domestic,10,2018,-38%,2019-01-07 10:21:42.992412,Bleecker Street,Bleecker-Street,"$619,810","$1,192",(14),15,520,Colette,Colette-(2018),"$3,710,063",5
+19,Domestic,10,2018,-48%,2019-01-07 10:21:42.993409,Warner Bros.,Warner-Bros,"$539,848","$1,343",(13),16,402,Crazy Rich Asians,Crazy-Rich-Asians,"$172,250,049",10
+19,Domestic,10,2018,-69%,2019-01-07 10:21:42.995404,Warner Bros.,Warner-Bros,"$416,651",$669,(10),17,623,The Nun,Nun-The,"$116,747,614",7
+19,Domestic,10,2018,+85%,2019-01-07 10:21:42.997398,Amazon Studios,Amazon-Studios,"$404,988","$8,804",(-),18,46,Beautiful Boy,Beautiful-Boy-(2018),"$687,940",2
+19,Domestic,10,2018,-73%,2019-01-07 10:21:42.998396,Lionsgate,Lionsgate,"$359,889",$731,(11),19,492,A Simple Favor,Simple-Favor-A,"$52,901,579",6
+19,Domestic,10,2018,,2019-01-07 10:21:43.000396,A24,A24,"$258,157","$64,539",new,20,4,Mid90s,Mid90s-(2018),"$258,157",1
+19,Domestic,10,2018,+682%,2019-01-07 10:21:43.001392,Roadside Attractions,Roadside-Attractions,"$227,300",$758,(-),21,300,The Oath,Oath-The-(2018),"$265,197",2
+19,Domestic,10,2018,-18%,2019-01-07 10:21:43.003387,Walt Disney,Walt-Disney,"$173,845",$988,(-),22,176,Incredibles 2,Incredibles-2,"$607,713,414",19
+19,Domestic,10,2018,,2019-01-07 10:21:43.004384,Fox Searchlight,Fox-Searchlight,"$161,510","$32,302",new,23,5,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$161,510",1
+19,Domestic,10,2018,-48%,2019-01-07 10:21:43.006377,Eros Entertainment,Eros-Entertainment,"$147,779","$2,384",(-),24,62,Andhadhun,Andhadhun-(India)(2018),"$959,504",3
+19,Domestic,10,2018,+83%,2019-01-07 10:21:43.008370,Warner Bros.,Warner-Bros,"$138,454",$682,(-),25,203,The Meg,Meg-The,"$142,839,245",11
+19,Domestic,10,2018,-26%,2019-01-07 10:21:43.009371,Sony Pictures,Sony-Pictures,"$138,204",$864,(-),26,160,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$167,210,248",15
+19,Domestic,10,2018,-37%,2019-01-07 10:21:43.011361,Sony Pictures Classics,Sony-Pictures-Classics,"$130,333","$1,003",(-),27,130,The Wife,Wife-The-(2018),"$7,474,075",10
+19,Domestic,10,2018,,2019-01-07 10:21:43.012359,IFC Films,IFC-Films,"$104,589","$26,147",new,28,4,Wildlife,Wildlife-(2018),"$104,589",1
+19,Domestic,10,2018,-9%,2019-01-07 10:21:43.014354,IFC Films,IFC-Films,"$82,462","$1,213",(-),29,68,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$435,288",5
+19,Domestic,10,2018,-88%,2019-01-07 10:21:43.016354,CBS Films,CBS-Films,"$78,406",$298,(-),30,263,Hell Fest,Hell-Fest-(2018),"$10,759,007",4
+19,Domestic,10,2018,-59%,2019-01-07 10:21:43.017350,STX Entertainment,STX-Entertainment,"$77,262",$508,(-),31,152,Peppermint,Peppermint-(2018),"$35,320,814",7
+19,Domestic,10,2018,,2019-01-07 10:21:43.019343,Eros Entertainment,Eros-Entertainment,"$67,612",$952,new,32,71,Namaste England,Namaste-England-(India)(2018),"$67,612",1
+19,Domestic,10,2018,-70%,2019-01-07 10:21:43.021340,20th Century Fox,20th-Century-Fox,"$64,934",$461,(-),33,141,The Predator,Predator-The-(2018),"$50,852,093",6
+19,Domestic,10,2018,-58%,2019-01-07 10:21:43.022337,Walt Disney,Walt-Disney,"$60,912",$564,(-),34,108,Christopher Robin,Christopher-Robin-(2018),"$98,719,355",12
+19,Domestic,10,2018,,2019-01-07 10:21:43.024332,Magnolia Pictures,Magnolia-Pictures,"$60,050","$2,071",new,35,29,The Guilty,Skyldige-Den-(Denmark)-(2018),"$60,050",1
+19,Domestic,10,2018,+52%,2019-01-07 10:21:43.025334,Sony Pictures Classics,Sony-Pictures-Classics,"$59,198","$2,368",(-),36,25,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$117,731",2
+19,Domestic,10,2018,+99%,2019-01-07 10:21:43.027323,Sony Pictures,Sony-Pictures,"$53,822",$626,(-),37,86,Alpha,Alpha-(2018),"$35,706,919",10
+19,Domestic,10,2018,-44%,2019-01-07 10:21:43.029319,Walt Disney,Walt-Disney,"$50,528",$481,(-),38,105,Ant-Man and the Wasp,Ant-Man-and-the-Wasp,"$216,600,757",16
+19,Domestic,10,2018,-51%,2019-01-07 10:21:43.030315,Excel Entertainment,Excel-Entertainment,"$41,222","$1,421",(-),39,29,Jane and Emma,Jane-and-Emma-(2018),"$184,795",2
+19,Domestic,10,2018,-58%,2019-01-07 10:21:43.032312,Briarcliffe Enterta…,Briarcliffe-Entertainment,"$26,793",$724,(-),40,37,Fahrenheit 11/9,Fahrenheit-11-9,"$6,264,731",5
+19,Domestic,10,2018,-40%,2019-01-07 10:21:43.033307,Sony Pictures,Sony-Pictures,"$24,616",$432,(-),41,57,Slender Man,Slender-Man,"$30,542,963",11
+19,Domestic,10,2018,-84%,2019-01-07 10:21:43.035301,Sony Pictures,Sony-Pictures,"$24,388",$428,(-),42,57,White Boy Rick,White-Boy-Rick,"$23,937,154",6
+19,Domestic,10,2018,-12%,2019-01-07 10:21:43.036300,Zeitgeist,Zeitgeist,"$22,178","$3,168",(-),43,7,Studio 54,Studio-54-(2018),"$93,242",3
+19,Domestic,10,2018,-55%,2019-01-07 10:21:43.038263,RLJ Entertainment,RLJ-Entertainment,"$20,360","$1,357",(-),44,15,Mandy,Mandy-(2018),"$1,170,185",6
+19,Domestic,10,2018,,2019-01-07 10:21:43.040285,Bleecker Street,Bleecker-Street,"$17,683","$4,421",new,46,4,What They Had,What-They-Had,"$17,683",1
+19,Domestic,10,2018,,2019-01-07 10:21:43.041281,HBO Documentary Films,HBO-Documentary-Films,"$16,817","$16,817",new,47,1,The Price of Everything,Price-of-Everything-The-(Documentary)-(2018),"$16,817",1
+19,Domestic,10,2018,-70%,2019-01-07 10:21:43.043276,Pure Flix Entertain…,Pure-Flix-Entertainment,"$14,035",$270,(-),48,52,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$6,184,569",6
+19,Domestic,10,2018,-55%,2019-01-07 10:21:43.045270,Neon,Neon,"$14,012",$560,(-),49,25,Monsters and Men,Monsters-and-Men,"$482,017",4
+19,Domestic,10,2018,+71%,2019-01-07 10:21:43.046268,Menemsha Entertainment,Menemsha-Entertainment,"$13,244","$1,019",(-),50,13,1945,1945-(Hungary),"$962,443",51
+19,Domestic,10,2018,-43%,2019-01-07 10:21:43.048263,Pinnacle Peak,Pinnacle-Peak,"$12,997",$684,(-),51,19,Little Women,Little-Women-(2018),"$1,343,748",4
+19,Domestic,10,2018,,2019-01-07 10:21:43.050260,Janus Films,Janus-Films,"$12,885","$12,885",new,52,1,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$12,885",1
+19,Domestic,10,2018,-90%,2019-01-07 10:21:43.051258,Sony Pictures,Sony-Pictures,"$11,110",$327,(-),53,34,Searching,Searching-(2018),"$25,944,103",9
+19,Domestic,10,2018,-33%,2019-01-07 10:21:43.053255,Magnolia Pictures,Magnolia-Pictures,"$10,581",$557,(-),54,19,"Love, Gilda",Love-Gilda-(Documentary)-(2018),"$599,410",5
+19,Domestic,10,2018,-48%,2019-01-07 10:21:43.054251,Abramorama Films,Abramorama-Films,"$10,504","$1,751",(-),55,6,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$170,769",4
+19,Domestic,10,2018,+48%,2019-01-07 10:21:43.056242,Roadside Attractions,Roadside-Attractions,"$9,450",$727,(-),56,13,"Juliet, Naked",Juliet-Naked,"$3,440,283",10
+19,Domestic,10,2018,+125%,2019-01-07 10:21:43.058235,Cohen Media Group,Cohen-Media-Group,"$7,436","$2,479",(-),57,3,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$24,722",3
+19,Domestic,10,2018,-56%,2019-01-07 10:21:43.059234,Well Go USA,Well-Go-USA,"$7,218","$1,805",(-),58,4,The Great Battle,Ansisung-(South-Korea)-(2018),"$464,334",5
+19,Domestic,10,2018,-68%,2019-01-07 10:21:43.061227,IFC Films,IFC-Films,"$6,390",$399,(-),59,16,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$513,342",8
+19,Domestic,10,2018,-45%,2019-01-07 10:21:43.062225,PBS Distribution,PBS-Distribution,"$5,730","$1,910",(-),60,3,Charm City,Charm-City-(Documentary)-(2018),"$21,701",2
+19,Domestic,10,2018,-62%,2019-01-07 10:21:43.064225,MGM,MGM,"$5,270",$376,(-),61,14,Operation Finale,Operation-Finale-(2018),"$17,605,174",8
+19,Domestic,10,2018,-44%,2019-01-07 10:21:43.065221,First Run Features,First-Run-Features,"$4,714","$2,357",(-),62,2,Moynihan,Moynihan-(Documentary)-(2018),"$28,108",3
+19,Domestic,10,2018,,2019-01-07 10:21:43.067215,Film Movement,Film-Movement,"$4,412","$4,412",new,63,1,Un Traductor,Un-Traductor-(Cuba)-(2018),"$4,412",1
+19,Domestic,10,2018,,2019-01-07 10:21:43.069212,Oscilloscope Pictures,Oscilloscope-Pictures,"$4,374","$4,374",new,64,1,On Her Shoulders,On-Her-Shoulders-(Documentary)-(2018),"$4,374",1
+19,Domestic,10,2018,,2019-01-07 10:21:43.070209,Cinema Libre,Cinema-Libre,"$4,355","$4,355",new,65,1,The Advocates,Advocates-The-(Documentary)-(2018),"$4,355",1
+19,Domestic,10,2018,-72%,2019-01-07 10:21:43.072161,Magnolia Pictures,Magnolia-Pictures,"$3,814",$424,(-),66,9,Kusama: Infinity,Kusama-Infinity,"$322,724",7
+19,Domestic,10,2018,-75%,2019-01-07 10:21:43.074197,Well Go USA,Well-Go-USA,"$3,706","$1,853",(-),67,2,Golden Job,Huang-Jin-Xiong-Di-(Hong-Kong),"$279,365",4
+19,Domestic,10,2018,-47%,2019-01-07 10:21:43.075195,Roadside Attractions,Roadside-Attractions,"$3,363",$420,(-),68,8,Lizzie,Lizzie-(2018),"$639,222",6
+19,Domestic,10,2018,,2019-01-07 10:21:43.077192,Abramorama Films,Abramorama-Films,"$3,086","$3,086",new,69,1,Horn From the Heart: The Pa…,Horn-From-the-Heart-The-Paul-Butterfield-Story-(Documentary),"$4,895",1
+19,Domestic,10,2018,-82%,2019-01-07 10:21:43.078187,The Orchard,Orchard-The,"$2,841",$355,(-),70,8,All About Nina,All-About-Nina-(2018),"$93,626",4
+19,Domestic,10,2018,-53%,2019-01-07 10:21:43.080183,Sony Pictures Classics,Sony-Pictures-Classics,"$2,596",$649,(-),71,4,Puzzle,Puzzle-(2018),"$2,021,163",13
+19,Domestic,10,2018,-57%,2019-01-07 10:21:43.082175,Freestyle Releasing,Freestyle-Releasing,"$2,422",$404,(-),72,6,God Bless the Broken Road,God-Bless-the-Broken-Road,"$2,838,207",7
+19,Domestic,10,2018,+758%,2019-01-07 10:21:43.083173,ArtAffects,ArtAffects,"$2,402","$2,402",(-),74,1,Beautifully Broken,Beautifully-Broken,"$1,206,477",9
+19,Domestic,10,2018,,2019-01-07 10:21:43.085170,GKIDS,GKIDS,"$2,402",$601,new,73,4,The Big Bad Fox & Other Tales,Grand-Mechant-Renard-et-Autres-Contes-Le-(France),"$33,469",1
+19,Domestic,10,2018,-26%,2019-01-07 10:21:43.087167,Strand,Strand,"$2,375","$1,188",(-),75,2,The Cakemaker,Cakemaker-The-(Germany-Israel),"$867,776",17
+19,Domestic,10,2018,-36%,2019-01-07 10:21:43.088162,Neon,Neon,"$2,342",$468,(-),76,5,Assassination Nation,Assassination-Nation,"$2,005,142",5
+19,Domestic,10,2018,-79%,2019-01-07 10:21:43.090151,IFC Films,IFC-Films,"$1,772",$148,(-),77,12,Blaze,Blaze-(2018),"$681,830",10
+19,Domestic,10,2018,-88%,2019-01-07 10:21:43.092145,IFC Films,IFC-Films,"$1,670",$334,(-),78,5,Black 47,Black-47-(Ireland)-(2018),"$46,014",4
+19,Domestic,10,2018,,2019-01-07 10:21:43.093142,Abramorama Films,Abramorama-Films,"$1,438","$1,438",(-),79,1,The Public Image is Rotten,Public-Image-is-Rotten-The-(Documentary),"$11,293",6
+19,Domestic,10,2018,-74%,2019-01-07 10:21:43.095137,Abramorama Films,Abramorama-Films,"$1,350","$1,350",(-),80,1,Liyana,Liyana-(Swaziland),"$8,020",2
+19,Domestic,10,2018,-74%,2019-01-07 10:21:43.096135,Annapurna Pictures,Annapurna-Pictures,"$1,328",$443,(-),81,3,Sorry to Bother You,Sorry-to-Bother-You,"$17,490,603",16
+19,Domestic,10,2018,-70%,2019-01-07 10:21:43.098129,Indican Pictures,Indican-Pictures,"$1,255","$1,255",(-),82,1,In Echo Park,In-Echo-Park-(2018),"$6,042",2
+19,Domestic,10,2018,,2019-01-07 10:21:43.099130,Kino Lorber,Kino-Lorber,"$1,092","$1,092",(-),83,1,The Atomic Cafe (1982) (Re-…,Atomic-Cafe-The-(1982),"$22,293","1,910"
+19,Domestic,10,2018,-98%,2019-01-07 10:21:43.101127,Eros Entertainment,Eros-Entertainment,$881,$13,(-),84,70,Helicopter Eela,Helicopter-Eela-(India)(2018),"$71,466",2
+19,Domestic,10,2018,,2019-01-07 10:21:43.103119,First Run Features,First-Run-Features,$840,$840,new,85,1,The Lost Village,Lost-Village-The-(Documentary)-(2018),$840,1
+19,Domestic,10,2018,-98%,2019-01-07 10:21:43.104119,Freestyle Releasing,Freestyle-Releasing,$714,$143,(-),86,5,Bigger,Bigger-(2018),"$45,757",2
+19,Domestic,10,2018,-30%,2019-01-07 10:21:43.106134,Janus Films,Janus-Films,$631,$631,(-),87,1,Andrei Rublev (1966) (Re-Re…,Andrey-Rublyov-(Soviet-Union),"$94,213","2,347"
+19,Domestic,10,2018,-90%,2019-01-07 10:21:43.108102,GKIDS,GKIDS,$603,$603,(-),88,1,MFKZ,Mutafukaz-(France),"$224,265",2
+19,Domestic,10,2018,,2019-01-07 10:21:43.109099,GKIDS,GKIDS,$583,$583,(-),89,1,Perfect Blue (1998) (Re-Rel…,Pafekuto-buru-(Japan),"$763,280","1,001"
+19,Domestic,10,2018,,2019-01-07 10:21:43.111094,First Run Features,First-Run-Features,$556,$556,new,90,1,TVTV: Video Revolutionaries,TVTV-Video-Revolutionaries-(Documentary)-(2018),$556,1
+19,Domestic,10,2018,-59%,2019-01-07 10:21:43.113093,Distrib Films,Distrib-Films,$334,$334,(-),91,1,"No Date, No Signature",Bedoune-Tarikh-Bedoune-Emza-(Iran),"$32,458",12
+19,Domestic,10,2018,-79%,2019-01-07 10:21:43.114086,Film Movement,Film-Movement,$325,$81,(-),92,4,I am Not a Witch,I-am-Not-a-Witch-(UK),"$43,971",7
+19,Domestic,10,2018,-63%,2019-01-07 10:21:43.116084,Kino Lorber,Kino-Lorber,$306,$306,(-),93,1,Let the Corpses Tan,Laissez-bronzer-les-cadavres-(France-2017),"$88,382",8
+19,Domestic,10,2018,-88%,2019-01-07 10:21:43.117085,Paladin,Paladin,$292,$73,(-),94,4,Stellaâs Last Weekend,Stella-s-Last-Weekend-(2018),"$3,386",2
+19,Domestic,10,2018,-35%,2019-01-07 10:21:43.119077,Film Movement,Film-Movement,$250,$250,(-),95,1,Antonio Lopez 1970: Sex Fas…,Antonio-Lopez-1970-Sex-Fashion-and-Disco-(Documentary),"$33,716",6
+19,Domestic,10,2018,,2019-01-07 10:21:43.121072,Barn Owl,Barn-Owl,$225,$225,(-),96,1,Saving Brinton,Saving-Brinton,"$51,279",57
+19,Domestic,10,2018,,2019-01-07 10:21:43.122028,Rialto Pictures,Rialto-Pictures,$169,$169,(-),97,1,When You Read This Letter (…,Quand-tu-liras-cette-lettre-(France),"$15,171",6
+26,Domestic,10,2018,-59%,2019-01-07 10:21:43.820132,Universal,Universal,"$31,419,070","$7,874",(1),1,"3,990",Halloween,Halloween-(2018),"$126,075,470",2
+26,Domestic,10,2018,-26%,2019-01-07 10:21:43.822127,Warner Bros.,Warner-Bros,"$14,037,079","$3,596",(2),2,"3,904",A Star is Born,Star-is-Born-A-(2018),"$148,614,479",4
+26,Domestic,10,2018,-41%,2019-01-07 10:21:43.825119,Sony Pictures,Sony-Pictures,"$10,652,381","$2,986",(3),3,"3,567",Venom,Venom-(2018),"$187,134,695",4
+26,Domestic,10,2018,-25%,2019-01-07 10:21:43.827152,Sony Pictures,Sony-Pictures,"$7,284,207","$1,957",(4),4,"3,723",Goosebumps 2: Haunted Hallo…,Goosebumps-2-Haunted-Halloween-(2018),"$38,133,016",3
+26,Domestic,10,2018,,2019-01-07 10:21:43.829143,Lionsgate,Lionsgate,"$6,653,777","$2,446",new,5,"2,720",Hunter Killer,Hunter-Killer,"$6,653,777",1
+26,Domestic,10,2018,-33%,2019-01-07 10:21:43.831103,20th Century Fox,20th-Century-Fox,"$5,101,859","$2,148",(6),6,"2,375",The Hate U Give,Hate-U-Give-The,"$18,301,864",4
+26,Domestic,10,2018,-42%,2019-01-07 10:21:43.832140,Universal,Universal,"$4,865,575","$1,644",(5),7,"2,959",First Man,First-Man-(2018),"$37,808,655",3
+26,Domestic,10,2018,-28%,2019-01-07 10:21:43.834132,Warner Bros.,Warner-Bros,"$4,761,614","$1,789",(7),8,"2,662",Smallfoot,Smallfoot-(2018),"$72,602,664",5
+26,Domestic,10,2018,-34%,2019-01-07 10:21:43.835129,Universal,Universal,"$3,236,025","$1,625",(8),9,"1,991",Night School,Night-School-(2018),"$71,433,050",5
+26,Domestic,10,2018,"+1,055%",2019-01-07 10:21:43.837124,A24,A24,"$2,980,506","$2,471",(20),10,"1,206",Mid90s,Mid90s-(2018),"$3,330,676",2
+26,Domestic,10,2018,-17%,2019-01-07 10:21:43.839121,Fox Searchlight,Fox-Searchlight,"$1,763,032","$1,692",(10),11,"1,042",The Old Man and the Gun,Old-Man-and-the-Gun-The,"$7,177,129",5
+26,Domestic,10,2018,,2019-01-07 10:21:43.841076,Focus Features,Focus-Features,"$1,638,895","$3,013",new,12,544,Johnny English Strikes Again,Johnny-English-Strikes-Again-(2018),"$1,638,895",1
+26,Domestic,10,2018,,2019-01-07 10:21:43.843071,Pure Flix Entertain…,Pure-Flix-Entertainment,"$1,503,101","$1,811",new,13,830,Indivisible,Indivisible-(2018),"$1,503,101",1
+26,Domestic,10,2018,,2019-01-07 10:21:43.845067,20th Century Fox,20th-Century-Fox,"$1,414,845","$6,288",(-),14,225,The Rocky Horror Picture Sh…,Rocky-Horror-Picture-Show-The,"$1,414,845","2,249"
+26,Domestic,10,2018,-60%,2019-01-07 10:21:43.847060,20th Century Fox,20th-Century-Fox,"$1,354,507",$753,(9),15,"1,798",Bad Times at the El Royale,Bad-Times-at-the-El-Royale-(2018),"$16,548,243",3
+26,Domestic,10,2018,+10%,2019-01-07 10:21:43.848058,Greenwich,Greenwich,"$1,146,416","$2,925",(12),16,392,Free Solo,Free-Solo-(Documentary)-(2018),"$5,306,001",5
+26,Domestic,10,2018,-42%,2019-01-07 10:21:43.850053,Universal,Universal,"$1,050,965","$1,009",(11),17,"1,042",The House with a Clock in i…,House-with-a-Clock-in-its-Walls-The,"$66,523,980",6
+26,Domestic,10,2018,+61%,2019-01-07 10:21:43.852048,Amazon Studios,Amazon-Studios,"$653,618","$3,404",(18),18,192,Beautiful Boy,Beautiful-Boy-(2018),"$1,495,815",3
+26,Domestic,10,2018,-39%,2019-01-07 10:21:43.854042,GVN Releasing,GVN-Releasing,"$390,412",$836,(14),19,467,Gosnell: The Trial of Ameri…,Gosnell-The-Trial-of-America-s-Biggest-Serial-Killer-(2018),"$3,207,636",3
+26,Domestic,10,2018,+121%,2019-01-07 10:21:43.856036,Fox Searchlight,Fox-Searchlight,"$356,365","$14,255",(23),20,25,Can You Ever Forgive Me?,Can-You-Ever-Forgive-Me-(2018),"$586,504",2
+26,Domestic,10,2018,-35%,2019-01-07 10:21:43.859028,Warner Bros.,Warner-Bros,"$350,113","$1,246",(16),21,281,Crazy Rich Asians,Crazy-Rich-Asians,"$172,825,178",11
+26,Domestic,10,2018,-46%,2019-01-07 10:21:43.861021,Bleecker Street,Bleecker-Street,"$331,764","$1,412",(15),22,235,Colette,Colette-(2018),"$4,411,936",6
+26,Domestic,10,2018,-63%,2019-01-07 10:21:43.862019,Annapurna Pictures,Annapurna-Pictures,"$278,498",$360,(13),23,774,The Sisters Brothers,Sisters-Brothers-The,"$2,749,543",6
+26,Domestic,10,2018,,2019-01-07 10:21:43.864013,Amazon Studios,Amazon-Studios,"$184,037","$92,019",new,24,2,Suspiria,Suspiria-(2018),"$184,037",1
+26,Domestic,10,2018,+122%,2019-01-07 10:21:43.866044,CBS Films,CBS-Films,"$174,047",$192,(30),25,907,Hell Fest,Hell-Fest-(2018),"$10,975,670",5
+26,Domestic,10,2018,-59%,2019-01-07 10:21:43.867044,Warner Bros.,Warner-Bros,"$172,369",$515,(17),26,335,The Nun,Nun-The,"$117,060,762",8
+26,Domestic,10,2018,,2019-01-07 10:21:43.869036,GVN Releasing,GVN-Releasing,"$168,575",$275,new,27,613,London Fields,London-Fields,"$168,575",1
+26,Domestic,10,2018,-58%,2019-01-07 10:21:43.870033,Lionsgate,Lionsgate,"$150,585",$678,(19),28,222,A Simple Favor,Simple-Favor-A,"$53,225,905",7
+26,Domestic,10,2018,-20%,2019-01-07 10:21:43.872991,Walt Disney,Walt-Disney,"$138,566",$866,(22),29,160,Incredibles 2,Incredibles-2,"$607,899,050",20
+26,Domestic,10,2018,+3%,2019-01-07 10:21:43.875023,IFC Films,IFC-Films,"$107,561","$5,976",(28),30,18,Wildlife,Wildlife-(2018),"$245,680",2
+26,Domestic,10,2018,-33%,2019-01-07 10:21:43.877017,Eros Entertainment,Eros-Entertainment,"$99,707","$1,608",(24),31,62,Andhadhun,Andhadhun-(India)(2018),"$1,106,295",4
+26,Domestic,10,2018,-31%,2019-01-07 10:21:43.877977,Warner Bros.,Warner-Bros,"$95,916",$571,(25),32,168,The Meg,Meg-The,"$142,976,043",12
+26,Domestic,10,2018,+53%,2019-01-07 10:21:43.880012,Walt Disney,Walt-Disney,"$93,159",$629,(34),33,148,Christopher Robin,Christopher-Robin-(2018),"$98,835,109",13
+26,Domestic,10,2018,-38%,2019-01-07 10:21:43.882004,Sony Pictures,Sony-Pictures,"$86,141",$492,(26),34,175,Hotel Transylvania 3: Summe…,Hotel-Transylvania-3-Summer-Vacation,"$167,321,691",16
+26,Domestic,10,2018,-2%,2019-01-07 10:21:43.883001,IFC Films,IFC-Films,"$80,793","$1,171",(29),35,69,Tea with the Dames,Nothing-Like-a-Dame-(UK),"$577,189",6
+26,Domestic,10,2018,+36%,2019-01-07 10:21:43.885000,Sony Pictures Classics,Sony-Pictures-Classics,"$80,265","$1,130",(36),36,71,The Happy Prince,Happy-Prince-The-(UK)-(2018),"$223,990",3
+26,Domestic,10,2018,-40%,2019-01-07 10:21:43.886990,Sony Pictures Classics,Sony-Pictures-Classics,"$78,731",$960,(27),37,82,The Wife,Wife-The-(2018),"$7,608,506",11
+26,Domestic,10,2018,,2019-01-07 10:21:43.887991,Neon,Neon,"$73,700","$10,529",new,38,7,Border,Grans-(Sweden),"$73,700",1
+26,Domestic,10,2018,+242%,2019-01-07 10:21:43.889991,Bleecker Street,Bleecker-Street,"$60,514","$2,421",(46),39,25,What They Had,What-They-Had,"$85,565",2
+26,Domestic,10,2018,-28%,2019-01-07 10:21:43.892937,20th Century Fox,20th-Century-Fox,"$46,815",$433,(33),40,108,The Predator,Predator-The-(2018),"$50,923,296",7
+26,Domestic,10,2018,-42%,2019-01-07 10:21:43.894933,STX Entertainment,STX-Entertainment,"$44,958",$511,(31),41,88,Peppermint,Peppermint-(2018),"$35,400,097",8
+26,Domestic,10,2018,-33%,2019-01-07 10:21:43.895930,Magnolia Pictures,Magnolia-Pictures,"$40,150","$2,008",(35),42,20,The Guilty,Skyldige-Den-(Denmark)-(2018),"$129,694",2
+26,Domestic,10,2018,,2019-01-07 10:21:43.897924,Rialto Pictures,Rialto-Pictures,"$39,255","$1,309",(-),43,30,The Fog (1980) (Re-Release),Fog-The-(1980),"$21,417,616","2,022"
+26,Domestic,10,2018,+46%,2019-01-07 10:21:43.899919,Briarcliffe Enterta…,Briarcliffe-Entertainment,"$39,170",$136,(40),44,289,Fahrenheit 11/9,Fahrenheit-11-9,"$6,319,606",6
+26,Domestic,10,2018,-41%,2019-01-07 10:21:43.901914,Sony Pictures,Sony-Pictures,"$31,623",$487,(37),45,65,Alpha,Alpha-(2018),"$35,759,226",11
+26,Domestic,10,2018,+17%,2019-01-07 10:21:43.903908,Sony Pictures,Sony-Pictures,"$28,415",$444,(42),46,64,White Boy Rick,White-Boy-Rick,"$23,977,154",7
+26,Domestic,10,2018,,2019-01-07 10:21:43.905904,Well Go USA,Well-Go-USA,"$26,130","$13,065",new,48,2,Burning,Beoning-(South-Korea),"$26,130",1
+26,Domestic,10,2018,-50%,2019-01-07 10:21:43.907898,Walt Disney,Walt-Disney,"$25,036",$368,(38),49,68,Ant-Man and the Wasp,Ant-Man-and-the-Wasp,"$216,640,060",17
+26,Domestic,10,2018,-11%,2019-01-07 10:21:43.908895,Zeitgeist,Zeitgeist,"$19,713","$1,408",(43),50,14,Studio 54,Studio-54-(2018),"$129,074",4
+26,Domestic,10,2018,+13%,2019-01-07 10:21:43.910890,HBO Documentary Films,HBO-Documentary-Films,"$18,987","$2,373",(47),51,8,The Price of Everything,Price-of-Everything-The-(Documentary)-(2018),"$45,699",2
+26,Domestic,10,2018,,2019-01-07 10:21:43.912885,Well Go USA,Well-Go-USA,"$18,326","$9,163",new,52,2,Rampant,Changgwol-(South-Korea)-(2018),"$18,326",1
+26,Domestic,10,2018,-92%,2019-01-07 10:21:43.914879,Roadside Attractions,Roadside-Attractions,"$17,861",$194,(21),53,92,The Oath,Oath-The-(2018),"$387,432",3
+26,Domestic,10,2018,,2019-01-07 10:21:43.916874,Roadside Attractions,Roadside-Attractions,"$14,180","$4,727",new,54,3,Viper Club,Viper-Club-(2018),"$14,180",1
+26,Domestic,10,2018,-43%,2019-01-07 10:21:43.917871,Sony Pictures,Sony-Pictures,"$14,078",$380,(41),55,37,Slender Man,Slender-Man,"$30,564,825",12
+26,Domestic,10,2018,,2019-01-07 10:21:43.920862,GVN Releasing,GVN-Releasing,"$13,129","$3,282",(-),56,4,Shine,Shine-(2018),"$327,485",4
+26,Domestic,10,2018,+8%,2019-01-07 10:21:43.922895,Abramorama Films,Abramorama-Films,"$11,309","$1,885",(55),57,6,Matangi/Maya/M.I.A.,Matangi-Maya-M-I-A-(2018),"$196,382",5
+26,Domestic,10,2018,-38%,2019-01-07 10:21:43.924860,Neon,Neon,"$8,751",$875,(49),58,10,Monsters and Men,Monsters-and-Men,"$500,101",5
+26,Domestic,10,2018,-26%,2019-01-07 10:21:43.926849,Magnolia Pictures,Magnolia-Pictures,"$7,835",$435,(54),59,18,"Love, Gilda",Love-Gilda-(Documentary)-(2018),"$612,478",6
+26,Domestic,10,2018,-35%,2019-01-07 10:21:43.928879,Sony Pictures,Sony-Pictures,"$7,193",$288,(53),60,25,Searching,Searching-(2018),"$25,957,083",10
+26,Domestic,10,2018,-46%,2019-01-07 10:21:43.930873,Janus Films,Janus-Films,"$6,999","$6,999",(52),61,1,Wings of Desire (1987) (Re-…,Himmel-uber-Berlin-Der-(West-Germany)-(1987),"$32,202",2
+26,Domestic,10,2018,-90%,2019-01-07 10:21:43.932832,Eros Entertainment,Eros-Entertainment,"$6,695",$94,(32),62,71,Namaste England,Namaste-England-(India)(2018),"$100,803",2
+26,Domestic,10,2018,,2019-01-07 10:21:43.934825,CFI,CFI,"$6,536","$1,089",new,63,6,Life & Nothing More,Life-and-Nothing-More-(Spain)-(2018),"$7,649",1
+26,Domestic,10,2018,,2019-01-07 10:21:43.936820,Self Distributed,Self-Distributed,"$6,511",$723,new,64,9,Bullitt County,Bullitt-County-(2018),"$6,511",1
+26,Domestic,10,2018,,2019-01-07 10:21:43.938813,Zipporah,Zipporah,"$6,100","$6,100",new,65,1,"Monrovia, Indiana",Monrovia-Indiana-(Documentary)-(2018),"$6,100",1
+26,Domestic,10,2018,,2019-01-07 10:21:43.941806,Zipporah,Zipporah,"$5,172","$5,172",(-),66,1,Ex Libris: The New York Pub…,Ex-Libris-The-New-York-Public-Library,"$163,364",59
+26,Domestic,10,2018,+25%,2019-01-07 10:21:43.943837,Magnolia Pictures,Magnolia-Pictures,"$4,754",$679,(66),67,7,Kusama: Infinity,Kusama-Infinity,"$330,596",8
+26,Domestic,10,2018,-67%,2019-01-07 10:21:43.944835,Pure Flix Entertain…,Pure-Flix-Entertainment,"$4,668",$222,(48),68,21,Unbroken: Path to Redemption,Unbroken-Path-to-Redemption,"$6,197,181",7
+26,Domestic,10,2018,-65%,2019-01-07 10:21:43.946794,Pinnacle Peak,Pinnacle-Peak,"$4,534",$453,(51),69,10,Little Women,Little-Women-(2018),"$1,355,955",5
+26,Domestic,10,2018,,2019-01-07 10:21:43.948828,Abramorama Films,Abramorama-Films,"$4,279","$4,279",new,70,1,Weed the People,Weed-the-People-(2018),"$4,279",1
+26,Domestic,10,2018,,2019-01-07 10:21:43.950823,Rialto Pictures,Rialto-Pictures,"$3,984","$3,984",(-),71,1,Senso (1955) (Re-Release),Senso-(Italy)-(1954),"$3,984","2,625"
+26,Domestic,10,2018,,2019-01-07 10:21:43.952819,4th Row Films,4th-Row-Films,"$3,812",$953,(-),72,4,Bisbee â17,Bisbee-17-(Documentary),"$108,832",8
+26,Domestic,10,2018,+47%,2019-01-07 10:21:43.954772,Sony Pictures Classics,Sony-Pictures-Classics,"$3,804",$476,(71),73,8,Puzzle,Puzzle-(2018),"$2,026,265",14
+26,Domestic,10,2018,"+1,394%",2019-01-07 10:21:43.956767,Barn Owl,Barn-Owl,"$3,361",$336,(96),74,10,Saving Brinton,Saving-Brinton,"$54,729",58
+26,Domestic,10,2018,-59%,2019-01-07 10:21:43.958760,Cohen Media Group,Cohen-Media-Group,"$3,020",$604,(57),75,5,The Great Buster,Great-Buster-The-(Documentary)-(2018),"$34,497",4
+26,Domestic,10,2018,-58%,2019-01-07 10:21:43.960758,IFC Films,IFC-Films,"$2,703",$246,(59),76,11,Pick of the Litter,Pick-of-the-Litter-(Documentary)-(2018),"$519,624",9
+26,Domestic,10,2018,-64%,2019-01-07 10:21:43.962788,Well Go USA,Well-Go-USA,"$2,590","$1,295",(58),77,2,The Great Battle,Ansisung-(South-Korea)-(2018),"$470,657",6
+26,Domestic,10,2018,n/c,2019-01-07 10:21:43.964780,Freestyle Releasing,Freestyle-Releasing,"$2,425",$243,(72),78,10,God Bless the Broken Road,God-Bless-the-Broken-Road,"$2,841,745",8
+26,Domestic,10,2018,+279%,2019-01-07 10:21:43.966775,GKIDS,GKIDS,"$2,283","$2,283",(88),79,1,MFKZ,Mutafukaz-(France),"$226,548",3
+26,Domestic,10,2018,-6%,2019-01-07 10:21:43.967773,Strand,Strand,"$2,225","$1,113",(75),80,2,The Cakemaker,Cakemaker-The-(Germany-Israel),"$871,577",18
+26,Domestic,10,2018,-41%,2019-01-07 10:21:43.969768,Well Go USA,Well-Go-USA,"$2,169","$2,169",(67),81,1,Golden Job,Huang-Jin-Xiong-Di-(Hong-Kong),"$284,400",5
+26,Domestic,10,2018,-28%,2019-01-07 10:21:43.971725,The Orchard,Orchard-The,"$2,039",$255,(70),82,8,All About Nina,All-About-Nina-(2018),"$97,950",5
+26,Domestic,10,2018,+1%,2019-01-07 10:21:43.973722,IFC Films,IFC-Films,"$1,784",$162,(77),83,11,Blaze,Blaze-(2018),"$685,182",11
+26,Domestic,10,2018,-65%,2019-01-07 10:21:43.976750,Oscilloscope Pictures,Oscilloscope-Pictures,"$1,524",$762,(64),84,2,On Her Shoulders,On-Her-Shoulders-(Documentary)-(2018),"$10,658",2
+26,Domestic,10,2018,,2019-01-07 10:21:43.978745,Sony Pictures,Sony-Pictures,"$1,453",$145,new,85,10,El Pacto,Pacto-El-(Spain),"$1,453",1
+26,Domestic,10,2018,-53%,2019-01-07 10:21:43.979705,Abramorama Films,Abramorama-Films,"$1,442",$721,(69),86,2,Horn From the Heart: The Pa…,Horn-From-the-Heart-The-Paul-Butterfield-Story-(Documentary),"$7,090",2
+26,Domestic,10,2018,,2019-01-07 10:21:43.981735,Distrib Films,Distrib-Films,"$1,393",$107,(-),87,13,Good Manners,As-Boas-Maneiras-(Brazil),"$29,650",14
+26,Domestic,10,2018,,2019-01-07 10:21:43.983730,Reel One Entertainm…,Reel-One-Entertainment-Supremacy-Films,"$1,352","$1,352",new,88,1,Beauty & the Beholder,Beauty-and-the-Beholder-(2018),"$1,352",1
+26,Domestic,10,2018,,2019-01-07 10:21:43.985724,Hannover House,Hannover-House,"$1,253",$418,(-),89,3,The Riot Act,Riot-Act-The-(2018),"$75,506",7
+26,Domestic,10,2018,-50%,2019-01-07 10:21:43.987720,ArtAffects,ArtAffects,"$1,192",$596,(74),90,2,Beautifully Broken,Beautifully-Broken,"$1,208,533",10
+26,Domestic,10,2018,-78%,2019-01-07 10:21:43.989679,Cinema Libre,Cinema-Libre,$969,$969,(65),91,1,The Advocates,Advocates-The-(Documentary)-(2018),"$9,523",2
+26,Domestic,10,2018,-84%,2019-01-07 10:21:43.991675,MGM,MGM,$856,$107,(61),92,8,Operation Finale,Operation-Finale-(2018),"$17,608,504",9
+26,Domestic,10,2018,-40%,2019-01-07 10:21:43.992672,Annapurna Pictures,Annapurna-Pictures,$795,$398,(81),93,2,Sorry to Bother You,Sorry-to-Bother-You,"$17,492,890",17
+26,Domestic,10,2018,-53%,2019-01-07 10:21:43.994667,IFC Films,IFC-Films,$790,$263,(78),94,3,Black 47,Black-47-(Ireland)-(2018),"$46,988",5
+26,Domestic,10,2018,,2019-01-07 10:21:43.996661,Cinema Guild,Cinema-Guild,$748,$374,(-),95,2,"Hale County This Morning, T…",Hale-County-This-Morning-This-Evening-(Documentary),"$31,404",7
+26,Domestic,10,2018,,2019-01-07 10:21:43.998655,Zeitgeist,Zeitgeist,$591,$591,(-),96,1,"Love, Cecil",Love-Cecil-(Documentary),"$106,057",18
+26,Domestic,10,2018,,2019-01-07 10:21:44.000650,Indican Pictures,Indican-Pictures,$487,$487,(-),97,1,Painless,Painless-(2018),"$6,525",6
+26,Domestic,10,2018,-82%,2019-01-07 10:21:44.001648,GKIDS,GKIDS,$435,$435,(73),98,1,The Big Bad Fox & Other Tales,Grand-Mechant-Renard-et-Autres-Contes-Le-(France),"$66,006",2
+26,Domestic,10,2018,-70%,2019-01-07 10:21:44.003641,Abramorama Films,Abramorama-Films,$408,$408,(80),99,1,Liyana,Liyana-(Swaziland),"$8,984",3
+26,Domestic,10,2018,,2019-01-07 10:21:44.006633,Sony Pictures Classics,Sony-Pictures-Classics,$287,$144,(-),100,2,The Rider,Rider-The-(2017),"$2,403,143",29
+26,Domestic,10,2018,,2019-01-07 10:21:44.008628,Driving With Our Ey…,Driving-With-Our-Eyes-Shut,$282,$282,(-),101,1,Midget Zombie Takeover,Midget-Zombie-Takeover,"$11,006",299
+26,Domestic,10,2018,-69%,2019-01-07 10:21:44.010622,Paladin,Paladin,$90,$45,(94),102,2,Stellaâs Last Weekend,Stella-s-Last-Weekend-(2018),"$3,762",3
+26,Domestic,10,2018,-93%,2019-01-07 10:21:44.012616,Eros Entertainment,Eros-Entertainment,$59,$1,(84),103,70,Helicopter Eela,Helicopter-Eela-(India)(2018),"$71,838",3
